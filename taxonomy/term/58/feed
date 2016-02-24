@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://badcamp-2015.kbox"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>BADCamp 2015 - Bay Area Drupal Camp - Drupal Planet</title>
+ <link>http://badcamp-2015.kbox/blog-tags/drupal-planet</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Trainings!</title>
+ <link>http://badcamp-2015.kbox/badcamp-blog/trainings</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;We are proud announce our &lt;a href=&quot;/training&quot;&gt;full slate of day-long training classes&lt;/a&gt;, led by some of the best teachers in the community. &lt;/p&gt;
+&lt;!--break--&gt;&lt;ul&gt;&lt;li&gt;Build-a-Module Guided Training&lt;/li&gt;
+&lt;li&gt;Introduction to Drupal 8 Theming&lt;/li&gt;
+&lt;li&gt;Introduction to Headless/Decoupled Drupal&lt;/li&gt;
+&lt;li&gt;Drupal and RedHen CRM&lt;/li&gt;
+&lt;li&gt;Drupal and Salesforce&lt;/li&gt;
+&lt;li&gt;Drupal 8 Migrations&lt;/li&gt;
+&lt;li&gt;Drupal 8 Module Development&lt;/li&gt;
+&lt;li&gt;Drupal 8 Site Building (with Views!)&lt;/li&gt;
+&lt;li&gt;Drupal 8 Theming for Drupal 7 Themers&lt;/li&gt;
+&lt;li&gt;Multilingual for Drupal 7 and 8&lt;/li&gt;
+&lt;li&gt;Object Oriented Programming&lt;/li&gt;
+&lt;li&gt;Personalization and Dynamic Content in Drupal&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;All trainings are free to attend* but spaces will go quickly so we strongly encourage you to &lt;a href=&quot;/training&quot;&gt;sign up&lt;/a&gt; quickly if you&#039;d like to ensure a seat. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;*While trainings are indeed 100% free in order to manage the overwhelming demand for spots we require a nominal $20 deposit to hold your seat, which will be fully refunded to you at the day of your training upon check-in. &lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-blog-tags field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog-tags/drupal-planet&quot;&gt;Drupal Planet&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 24 Sep 2015 16:16:59 +0000</pubDate>
+ <dc:creator>eatings</dc:creator>
+ <guid isPermaLink="false">305 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Submit Your Sessions, Book Your Hotels</title>
+ <link>http://badcamp-2015.kbox/badcamp-blog/submit-your-sessions-book-your-hotels</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;&lt;strong&gt;Session Proposals Close September 25&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A big thank you to all who have contributed session proposals! If you&#039;re thinking about submitting a talk, there&#039;s no better time than now to propose a session. We&#039;re particularly interested in non-technical talks from speakers of diverse backgrounds, including first-time presenters.&lt;/p&gt;
+&lt;p&gt;We&#039;ll announce the final schedule of accepted sessions by October 1.&lt;/p&gt;
+&lt;p&gt;Spots are limited this year, so &lt;a href=&quot;https://2015.badcamp.net/sessions&quot;&gt;submit your proposals today.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Book Your Accommodations!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Have you booked your hotel room yet? If so, great -- you get an extra sticker. If not,&lt;strong&gt; you really should &lt;a href=&quot;https://2015.badcamp.net/lodging&quot;&gt;book your accommodations&lt;/a&gt; right now.&lt;/strong&gt; We&#039;re quickly running out of rooms in block! Get them while they&#039;re still some left!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sponsors... we &amp;lt;3 you!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Special thanks to the folks at &lt;a href=&quot;https://www.acquia.com/&quot;&gt;Acquia&lt;/a&gt; and &lt;a href=&quot;https://pantheon.io/&quot;&gt;Pantheon&lt;/a&gt; and &lt;a href=&quot;https://2015.badcamp.net/sponsors&quot;&gt;all of our sponsors&lt;/a&gt; for supporting this year&#039;s BADCamp!&lt;br /&gt;
+Interested in &lt;a href=&quot;https://2015.badcamp.net/sponsorship-packages&quot;&gt;sponsoring BADCamp&lt;/a&gt;? Please contact &lt;a href=&quot;mailto:anne@badcamp.net?subject=BADCamp%20Sponsorship%20&quot;&gt;Anne&lt;/a&gt; or &lt;a href=&quot;mailto:matt@badcamp.net?subject=BADcamp%20Sponsorhship&quot;&gt;Matt&lt;/a&gt; to inquire about sponsorship opportunities.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-blog-tags field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog-tags/drupal-planet&quot;&gt;Drupal Planet&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 19 Sep 2015 02:46:17 +0000</pubDate>
+ <dc:creator>Annabella</dc:creator>
+ <guid isPermaLink="false">258 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>And We&#039;re Back!</title>
+ <link>http://badcamp-2015.kbox/badcamp-blog/and-were-back</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;After months of anticipation, we proud and excited to officially announce the 2015 Bay Area Drupal Camp is &lt;a href=&quot;/registration&quot;&gt;open for regsitration&lt;/a&gt;! Yes, the rumors are true: we&#039;re coming back to Berkeley this year, and we can&#039;t wait for you to join us. &lt;/p&gt;
+&lt;p&gt;We&#039;ll skip to the punchline right away and highlight 4 things about this year&#039;s BADCamp that you need to know:&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;Check out our new events, including the &lt;a href=&quot;/event/summit/hack-planet-summit&quot;&gt;Hack the Planet&lt;/a&gt;, &lt;a href=&quot;/event/summit/configuration-management-and-devops-summit&quot;&gt;Configuration Management&lt;/a&gt; and &lt;a href=&quot;/event/summit/content-authoring-experience-summit&quot;&gt;Content Authoring Experience Summits&lt;/a&gt;, as well as the opening reception on Friday night.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/lodging&quot;&gt;Book your hotel&lt;/a&gt; &lt;strong&gt;as soon as possible!&lt;/strong&gt; Demand for hotel rooms is extremely high and we only have a limited number of rooms in our block. Book your room right away!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/sessions&quot;&gt;Submit your session proposal&lt;/a&gt;. Spots are limited this year, so don&#039;t wait. We&#039;ll announce selected sessions in late September. As usual, we welcome and encourage sessions on topics beyond web development. &lt;/li&gt;
+&lt;li&gt;Our event wouldn&#039;t be possible without the generosity of our &lt;a href=&quot;/sponsors&quot;&gt;sponsors&lt;/a&gt;, especially our individual sponsors. BADCamp has always been and will always be free, but for those who wish to &lt;a href=&quot;/individual/sponsorship&quot;&gt;give back&lt;/a&gt;, we have some great swag lined up for you.&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;We&#039;re looking forward to sharing more details in the days and weeks to come -- about socials, trainings, featured speakers, our awesome new venue, and more. There&#039;s a lot of BADCamp goodness coming your way this year, and we&#039;re only getting started. &lt;/p&gt;
+&lt;p&gt;-The BADCamp Team&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-blog-tags field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Tags: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/blog-tags/drupal-planet&quot;&gt;Drupal Planet&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 21 Aug 2015 07:16:24 +0000</pubDate>
+ <dc:creator>eatings</dc:creator>
+ <guid isPermaLink="false">78 at http://badcamp-2015.kbox</guid>
+</item>
+</channel>
+</rss>

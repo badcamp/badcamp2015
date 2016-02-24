@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://badcamp-2015.kbox"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>BADCamp 2015 - Bay Area Drupal Camp - Stephens Lounge - USC Student Union Building</title>
+ <link>http://badcamp-2015.kbox/rooms/stephens-lounge-usc-student-union-building</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Drupal 8 Migration</title>
+ <link>http://badcamp-2015.kbox/training/drupal-8-migration</link>
+ <description>&lt;div class=&quot;field field-name-field-training-date-time field-type-datetime field-label-above field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Date and Time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Friday, October 23, 2015 - &lt;div class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;9:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;5:00pm&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;body field&quot;&gt;&lt;h2&gt;Trainer: Ryan Weal / Kafei&lt;/h2&gt;
+&lt;p&gt;The upgrade path between major versions of Drupal is now more flexible and extensible than ever allowing many new ways to get content into your new Drupal 8 site. This is the result of refactoring, expanding, and porting the Migrate and Drupal-to-Drupal Data Migration modules into Drupal 8 core.&lt;/p&gt;
+&lt;p&gt;The new versions of these modules go much further than both the old upgrade path and the Drupal 7 modules they replace. The migrations now include setup of content types, variable and block migrations, internationalization, and pathways for most system components that are now in core. This session will provide an overview of the architecture, a demonstration of a sample migration, an update on the current progress, and some time for Q&amp;amp;A.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://kafei.ca/&quot;&gt;&lt;img alt=&quot;Kafei&quot; src=&quot;https://kafei.ca/sites/default/files/cabane_logo.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-skill-level field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Skill level: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Intermediate&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-location field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Location: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;UCB Student Union Building&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-room field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Room: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Stephens Lounge - USC Student Union Building&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div id=&quot;registrations-remaining&quot;&gt;&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Registrations Remaining: &lt;/label&gt;
+ None. Training is full.
+&lt;/div&gt;
+&lt;/div&gt;&lt;div id=&quot;register-status&quot;&gt;You are NOT registered for this training.&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 23 Sep 2015 00:00:33 +0000</pubDate>
+ <dc:creator>Lindsay Gaudinier</dc:creator>
+ <guid isPermaLink="false">291 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Introduction to Headless Drupal</title>
+ <link>http://badcamp-2015.kbox/training/introduction-headless-drupal</link>
+ <description>&lt;div class=&quot;field field-name-field-training-date-time field-type-datetime field-label-above field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Date and Time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Thursday, October 22, 2015 - &lt;div class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;9:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;5:00pm&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;body field&quot;&gt;&lt;h2&gt;Trainers: Matt Grill and Patrick Coffey from Four Kitchens&lt;/h2&gt;
+&lt;h3&gt;Course Description&lt;/h3&gt;
+&lt;p&gt;Do you want to manage content in Drupal but use something else to deliver it to your users? This is the class for you.&lt;/p&gt;
+&lt;p&gt;We know Drupal is an amazing platform for making websites. But did you know it’s also a world-class content API that can easily be integrated with a other technologies? In this class you’ll learn how to combine Drupal with Node.js, a popular technology for building highly interactive websites, to build rich digital experiences.&lt;/p&gt;
+&lt;p&gt;You will write code all day! By the end, you&#039;ll have written your first Node.js application(s) and have integrated Node.js&#039;s real-time wizardry into Drupal&#039;s content management magic.&lt;/p&gt;
+&lt;h3&gt;Learning Objectives&lt;/h3&gt;
+&lt;p&gt;The Four Kitchens Web Chefs will show you how to:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Strategies for success when using Drupal as a content API&lt;/li&gt;
+&lt;li&gt;Write code that reads and writes data to and from your Drupal site&lt;/li&gt;
+&lt;li&gt;Write custom API endpoints in Drupal to connect to your realtime application&lt;/li&gt;
+&lt;li&gt;Gain experience with the popular Node.js framework: Express&lt;/li&gt;
+&lt;li&gt;Know what Node.js is good at and when a different tool is better&lt;/li&gt;
+&lt;li&gt;Understand how to use NPM node&#039;s world class package manager&lt;/li&gt;
+&lt;li&gt;Write non-blocking asynchronous code and how to spot it&#039;s evil twin: synchronous blocking code&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Why Node.js&lt;/h3&gt;
+&lt;p&gt;Node.js is a power tool for writing fast, real time applications. At Four Kitchens we&#039;ve used it for:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Creating a responsive web game that mimics the experience of playing with magnetic poetry on the web, Drupal Poetry&lt;/li&gt;
+&lt;li&gt;Providing a feed ingestion and processing application that processed over 300 feeds per minute and broadcasting them out to hundreds of subscribed sites.&lt;/li&gt;
+&lt;li&gt;Providing real time commenting for live video events on a Drupal site. Building a rich dynamic site for NBC’s The Tonight Show starring Jimmy Fallon.&lt;/li&gt;
+&lt;li&gt;Helping large media clients build a performant and extensible solution for their public facing publication.&lt;/li&gt;
+&lt;li&gt;The patterns we establish when integrating Node.js can easily be adapted to integrating - Drupal with other technologies such as Ruby, iOS, or Android.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;What will you receive during the course?&lt;/h3&gt;
+&lt;p&gt;Each attendee will have access to their own development environment that includes all necessary assets and content to jump into the hands-on exercises. The environment will stay up for 30 days after the training. We will post all links and resources on our website, create a mailing list for follow-up questions, and create a Google Doc to collaborative ask questions and share markup during (and after) the training.&lt;/p&gt;
+&lt;h3&gt;Syllabus&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Intro to Headless Drupal
+&lt;ul&gt;&lt;li&gt;When to go Headless (Lecture)&lt;/li&gt;
+&lt;li&gt;Architecture Patterns (Lecture)&lt;/li&gt;
+&lt;li&gt;Real world Examples (Lecture)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;What exactly is a REST API?
+&lt;ul&gt;&lt;li&gt;REST&lt;/li&gt;
+&lt;li&gt;HTTP Methods (Verbs)&lt;/li&gt;
+&lt;li&gt;HTTP Status Codes&lt;/li&gt;
+&lt;li&gt;Media Type&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;API Tools
+&lt;ul&gt;&lt;li&gt;Chrome Extensions&lt;/li&gt;
+&lt;li&gt;Command line tools&lt;/li&gt;
+&lt;li&gt;Online tools&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Drupal Services
+&lt;ul&gt;&lt;li&gt;Module Options&lt;/li&gt;
+&lt;li&gt;Install &amp;amp; configure RESTful&lt;/li&gt;
+&lt;li&gt;Create Endpoints&lt;/li&gt;
+&lt;li&gt;Hypermedia API Design in practice&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;API Best Practices&lt;/li&gt;
+&lt;li&gt;Lunch&lt;/li&gt;
+&lt;li&gt;Intro to Node.JS
+&lt;ul&gt;&lt;li&gt;What is Node.JS&lt;/li&gt;
+&lt;li&gt;Events, Threads and Concurrency&lt;/li&gt;
+&lt;li&gt;Why not Drupal and HHVM?&lt;/li&gt;
+&lt;li&gt;Why Node?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Intro to Express.JS
+&lt;ul&gt;&lt;li&gt;What is Express.JS?&lt;/li&gt;
+&lt;li&gt;What is NPM?&lt;/li&gt;
+&lt;li&gt;Your first Express Application&lt;/li&gt;
+&lt;li&gt;Templates with Dust.JS&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Caching Drupal Content in Node.JS
+&lt;ul&gt;&lt;li&gt;Introduction to Redis&lt;/li&gt;
+&lt;li&gt;Cache concepts&lt;/li&gt;
+&lt;li&gt;Cache Drupal content&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Reference implementation introduction
+&lt;ul&gt;&lt;li&gt;What is SAUCIER?&lt;/li&gt;
+&lt;li&gt;Routing&lt;/li&gt;
+&lt;li&gt;Rendering&lt;/li&gt;
+&lt;li&gt;Caching&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Headless A-ha&#039;s&lt;/li&gt;
+&lt;li&gt;Strategies for User Generated Content&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Who will gain the most from this course?&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Drupal Developers who want to learn how to use Drupal as their CMS and an other technology to get that content to their users. In our case that technology will be Node.js.&lt;/li&gt;
+&lt;li&gt;Drupal Developers who are ready to learn a new style of server side programing. If writing javascript code makes you cry this course might make it your new favorite language.&lt;/li&gt;
+&lt;li&gt;Drupal developers who want to better understand how to bring asynchronous functionality to their sites. This class is a beginner intro to Node.js, and is not appropriate for developers who use Node.js on a regular basis.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Prerequisites for this course&lt;/h3&gt;
+&lt;p&gt;Laptop with SFTP, SSH software and a text editor installed. Any local operating system is fine, but our trainers don&#039;t have experience debugging Windows connectivity problems.&lt;/p&gt;
+&lt;p&gt;For Drupal&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Comfortable writing PHP to use Drupal hooks and have written a custom module.&lt;/li&gt;
+&lt;li&gt;Working knowledge of the services module is helpful, and a great thing to try beforehand. :-)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;For Node.js&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Basic knowledge of JavaScript&lt;/li&gt;
+&lt;li&gt;Knowledge of JavaScript Object Oriented Patterns.&lt;/li&gt;
+&lt;li&gt;Experience with AJAX patterns helpful&lt;/li&gt;
+&lt;li&gt;Have written applications in JavaScript and/or a C-style Object Oriented programmer comfortable with learning a new language.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;http://fourkitchens.com/&quot;&gt;&lt;img alt=&quot;Four Kitchens&quot; src=&quot;https://2015.badcamp.net/sites/default/files/styles/medium/public/sponsor-logos/4K-lockup-large.png?itok=B1byozxi&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-skill-level field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Skill level: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Advanced&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-location field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Location: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;UCB Student Union Building&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-room field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Room: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Stephens Lounge - USC Student Union Building&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div id=&quot;registrations-remaining&quot;&gt;&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Registrations Remaining: &lt;/label&gt;
+ None. Training is full.
+&lt;/div&gt;
+&lt;/div&gt;&lt;div id=&quot;register-status&quot;&gt;You are NOT registered for this training.&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 22 Sep 2015 23:03:53 +0000</pubDate>
+ <dc:creator>Lindsay Gaudinier</dc:creator>
+ <guid isPermaLink="false">282 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Scalable JavaScript Design Patterns in Drupal</title>
+ <link>http://badcamp-2015.kbox/session/scalable-javascript-design-patterns-drupal</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Is your JavaScript getting out of hand and un-manageable?  Would you like to learn how to organize your JavaScript files so they can scale? Is the weight of your JS files bringing you down? Site architecture is one of those aspects to development where minor problems can lead to major issues quickly if it isn’t done right.&lt;/p&gt;
+&lt;p&gt;Developers building Drupal sites these days usually concatenate all their js into three massive JS files that are loaded on every page.  Whilst you can get away with this on small sites that have a minimal amount of code, what happens when your project really starts to grow?  In this talk, I’ll be presenting an effective set of design patterns for large-scale site architecture that will eliminate the typical growth pains you see as your site expands.&lt;/p&gt;
+&lt;p&gt;You’ll learn how to keep your site’s logic truly decoupled, build JS modules that can exist on their own independently so they can be easily dropped into other projects, separate your JS so you only load what you need on a page by page basis, and future-proof your code for when you need to upgrade your theme/module in the future.&lt;/p&gt;
+&lt;p&gt;Slides can be found at &lt;a href=&quot;http://slides.com/rymcveigh/scalable-js#/&quot;&gt;slides.com/rymcveigh/scalable-js&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sposored by &lt;a href=&quot;http://www.milespartnership.com/&quot;&gt;Miles Partnership&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.milespartnership.com/&quot;&gt;&lt;img alt=&quot;miles Partnership&quot; src=&quot;http://www.milespartnership.com/sites/default/master/files/miles_logo_large_166px_0.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/design-theme-ux&quot;&gt;Design, Theme + UX&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/intermediate&quot;&gt;Intermediate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/rymcveigh&quot; class=&quot;user user-155 entityreference&quot;&gt;rymcveigh&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-date-and-time field-type-datetime field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session date and time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Sunday, October 25, 2015 - 11:00am&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-time-slot field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session time slot: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/time-slot/1100am-1200pm&quot;&gt;11:00am - 12:00pm&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session room: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/rooms/stephens-lounge-usc-student-union-building&quot;&gt;Stephens Lounge - USC Student Union Building&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 24 Aug 2015 17:52:49 +0000</pubDate>
+ <dc:creator>rymcveigh</dc:creator>
+ <guid isPermaLink="false">84 at http://badcamp-2015.kbox</guid>
+</item>
+</channel>
+</rss>

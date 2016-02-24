@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://badcamp-2015.kbox"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>BADCamp 2015 - Bay Area Drupal Camp - Beginner</title>
+ <link>http://badcamp-2015.kbox/skill-level/beginner</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Lunch courtesy of Acquia</title>
+ <link>http://badcamp-2015.kbox/session/lunch-courtesy-acquia</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Acquia invites you to join your fellow BADCampers for lunch in the main expo hall!&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/business-community&quot;&gt;Business + Community&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/beginner&quot;&gt;Beginner&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-date-and-time field-type-datetime field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session date and time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Saturday, October 24, 2015 - 12:00pm&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-time-slot field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session time slot: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/time-slot/1200pm-130pm&quot;&gt;12:00pm - 1:30pm&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session room: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/rooms/pauley-ballroom-east-usc-student-union-building-0&quot;&gt;Pauley Ballroom EAST - USC Student Union Building&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 19 Oct 2015 17:09:24 +0000</pubDate>
+ <dc:creator>acquia</dc:creator>
+ <guid isPermaLink="false">364 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>BADCamp Behind the Scenes</title>
+ <link>http://badcamp-2015.kbox/session/badcamp-behind-scenes</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Come join the BADCamp organizing collective as we share why and how we plan, organize and deliver the camp. Expect an irreverent but honest discussion about the ins and outs of raising funds, securing facilities, building convention websites, organizing volunteers, eating tons of vegan Vietnamese food, designing things at absolute last minute, playing various board games both competitively and cooperatively, and most importantly achieving consensus among a diverse but friendly group of like-minded peers. &lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/business-community&quot;&gt;Business + Community&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/beginner&quot;&gt;Beginner&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/eatings&quot; class=&quot;user user-43 entityreference&quot;&gt;eatings&lt;/a&gt;, &lt;a href=&quot;/users/aimeerae&quot; class=&quot;user user-34 entityreference&quot;&gt;aimeerae&lt;/a&gt;, &lt;a href=&quot;/users/andrewmallis&quot; class=&quot;user user-25 entityreference&quot;&gt;Andrew_Mallis&lt;/a&gt;, &lt;a href=&quot;/users/annabella&quot; class=&quot;user user-17 entityreference&quot;&gt;Annabella&lt;/a&gt;, &lt;a href=&quot;/users/carsonblack&quot; class=&quot;user user-9 entityreference&quot;&gt;carsonblack&lt;/a&gt;, &lt;a href=&quot;/users/darius&quot; class=&quot;user user-2 entityreference&quot;&gt;darius&lt;/a&gt;, &lt;a href=&quot;/users/fluxsauce&quot; class=&quot;user user-1 entityreference&quot;&gt;fluxsauce&lt;/a&gt;, &lt;a href=&quot;/users/jenlampton&quot; class=&quot;user user-13 entityreference&quot;&gt;jenlampton&lt;/a&gt;, &lt;a href=&quot;/users/kmiller&quot; class=&quot;user user-773 entityreference&quot;&gt;kmiller&lt;/a&gt;, &lt;a href=&quot;/users/megh&quot; class=&quot;user user-5 entityreference&quot;&gt;Megh&lt;/a&gt;, &lt;a href=&quot;/users/populist&quot; class=&quot;user user-28 entityreference&quot;&gt;populist&lt;/a&gt;, &lt;a href=&quot;/users/sfbob&quot; class=&quot;user user-16 entityreference&quot;&gt;sfbob&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-date-and-time field-type-datetime field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session date and time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Sunday, October 25, 2015 - 11:00am&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-time-slot field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session time slot: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/time-slot/1100am-1200pm&quot;&gt;11:00am - 12:00pm&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session room: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/rooms/gold-usc-career-center&quot;&gt;GOLD - USC Career Center&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 02 Oct 2015 22:38:14 +0000</pubDate>
+ <dc:creator>eatings</dc:creator>
+ <guid isPermaLink="false">354 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Secrets of Indian outsourcing companies</title>
+ <link>http://badcamp-2015.kbox/session/secrets-indian-outsourcing-companies</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Get raw tidbits on the inner happenings of Indian outsourcing companies and their culture. If you have ever wondered whether you should outsource development, you should attend this.&lt;/p&gt;
+&lt;p&gt;We&#039;ll go over the pros and cons of working with Indian outsourcing companies and how you can come out on top if you ever decide to work with one. We&#039;ll go over the valid concerns of many companies while outsourcing work to India and advise you what to watch out for when choosing a vendor. The common concerns I have heard are:&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;&lt;strong&gt;Miscommunication&lt;/strong&gt; - It&#039;s very difficult to explain to the developer what I want. I tell him to build an apple and he builds an orange and comes back to me saying that it&#039;s done.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Not possible to iterate fast&lt;/strong&gt; - If the developer is sitting right besides me, then I can tell him immediately what needs to be changed. I can&#039;t do that if the developer is sitting 12 hrs away and as a result, my speed of development decreases.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quality of development&lt;/strong&gt; - With a developer in the US, the software I get back from him is 95% done with very few bugs. With a developer in India, the software I get back is 70% done with lots of bugs. As a result, I have to have someone here in the US to get to 100% from 70%.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Responsibility&lt;/strong&gt; - Developers in India do not take responsibility of the product. Their goal is to finish the task as soon as possible without looking at the quality or the broader picture.&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;In addition to the above, a big part of the session be devoted to Q&amp;amp;A. If you have specific questions, please bring them in and we can discuss about them.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/business-community&quot;&gt;Business + Community&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/beginner&quot;&gt;Beginner&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/neeravbm&quot; class=&quot;user user-69 entityreference&quot;&gt;neeravbm&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 27 Sep 2015 21:32:52 +0000</pubDate>
+ <dc:creator>neeravbm</dc:creator>
+ <guid isPermaLink="false">345 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Top Modules for Drupal 7</title>
+ <link>http://badcamp-2015.kbox/session/top-modules-drupal-7</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Dozens of useful contributed modules for building Drupal 7 sites.&lt;/p&gt;
+&lt;p&gt;There are many really useful contributed modules to take your site beyond the basics of Drupal core. There are modules to improve, allow, and/or help with everything from administration to workflow, from paths to views, and beyond.&lt;/p&gt;
+&lt;h3&gt;Questions answered by this session:&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;What are some frequently used and useful modules?&lt;/li&gt;
+&lt;li&gt;What will they do for me?&lt;/li&gt;
+&lt;li&gt;Which have functionality that will be in core in Drupal 8?&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Target audience:&lt;/h3&gt;
+&lt;p&gt;This session will be of interest to beginner and intermediate Drupallers, as well as those who manage or hire Drupallers or who are just trying to decide whether to use Drupal.&lt;/p&gt;
+&lt;h3&gt;Accompanying materials, aka &quot;the handout&quot;:&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;http://sharonkrossa.com/topmodules&quot;&gt;SharonKrossa.com/topmodules&lt;/a&gt; (will be updated for BAD Camp 2015)&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/site-building-using-drupal&quot;&gt;Site Building + Using Drupal&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/beginner&quot;&gt;Beginner&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/skrossa&quot; class=&quot;user user-44 entityreference&quot;&gt;SKrossa&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 26 Sep 2015 06:38:18 +0000</pubDate>
+ <dc:creator>SKrossa</dc:creator>
+ <guid isPermaLink="false">342 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Live, Test, and Dev for (Nearly) Everyone</title>
+ <link>http://badcamp-2015.kbox/session/live-test-and-dev-nearly-everyone</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;h2&gt;How to do it and why you should&lt;/h2&gt;
+&lt;p&gt;Having live, test, and development versions of your website isn&#039;t just for hardcore developers! Everyone, from beginner site buiders on up, not only should, but can follow this best practice. This session will cover the basics of why and how to use dev and test sites, as well as demonstrating easy ways to do so using Drush (for both Drupal 7 AND 8!)&lt;/p&gt;
+&lt;h3&gt;Questions answered by this session:&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Why is it important to have and use test and dev versions of a site?&lt;/li&gt;
+&lt;li&gt;What are test and dev versions of a site for?&lt;/li&gt;
+&lt;li&gt;How is using live, test, and dev different for Drupal (compared to traditional static page web development)?&lt;/li&gt;
+&lt;li&gt;How do I set up test and dev versions?&lt;/li&gt;
+&lt;li&gt;How can I copy/clone my live site to the test or dev site?&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Target audience:&lt;/h3&gt;
+&lt;p&gt;This session will be most useful to site builders and maintainers with server access to their Drupal installations from providers that allow command line (ssh) access. While the general principles will be useful for those using services that do not allow server access, the specifics of the technical how-to steps will not be applicable to their situation.&lt;/p&gt;
+&lt;h3&gt;Accompanying materials, aka &quot;the handout&quot;:&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;http://sharonkrossa.com/livetestdev&quot;&gt;SharonKrossa.com/livetestdev&lt;/a&gt; (will be updated for BAD Camp 2015)&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/site-building-using-drupal&quot;&gt;Site Building + Using Drupal&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/beginner&quot;&gt;Beginner&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/skrossa&quot; class=&quot;user user-44 entityreference&quot;&gt;SKrossa&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 26 Sep 2015 06:33:07 +0000</pubDate>
+ <dc:creator>SKrossa</dc:creator>
+ <guid isPermaLink="false">341 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Modules 101: Introduction, installation, and removal</title>
+ <link>http://badcamp-2015.kbox/session/modules-101-introduction-installation-and-removal</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;h2&gt;Or, the what, when, where, why, and especially how&lt;/h2&gt;
+&lt;p&gt;This is a practical introduction to Drupal modules. Learn the basics of what modules are, when to use contributed modules, where to find them, why choose one over another, and — step-by-step— how to install or enable and uninstall modules in Drupal 6, 7, AND 8! (There is more to it than just the checkboxes on the modules page!)&lt;/p&gt;
+&lt;h3&gt;Questions answered by this session:&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;What are modules?&lt;/li&gt;
+&lt;li&gt;When should I use contributed modules?&lt;/li&gt;
+&lt;li&gt;Where can I find contributed modules?&lt;/li&gt;
+&lt;li&gt;Why should I choose one module over another?&lt;/li&gt;
+&lt;li&gt;How do I install or enable modules (step-by-step)?&lt;/li&gt;
+&lt;li&gt;How do I uninstall or disable modules (step-by-step)?&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Target audience:&lt;/h3&gt;
+&lt;p&gt;This session will be useful to site builders and administrators who have at least sufficient Drupal permissions to enable modules, including those using services such as DrupalGardens.com or Stanford Sites (sites.stanford.edu).&lt;/p&gt;
+&lt;h3&gt;Accompanying materials, aka &quot;the handout&quot;:&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;http://sharonkrossa.com/modules101&quot;&gt;SharonKrossa.com/modules101&lt;/a&gt; (will be updated for BAD Camp 2015)&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/site-building-using-drupal&quot;&gt;Site Building + Using Drupal&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/beginner&quot;&gt;Beginner&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/skrossa&quot; class=&quot;user user-44 entityreference&quot;&gt;SKrossa&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 26 Sep 2015 06:28:10 +0000</pubDate>
+ <dc:creator>SKrossa</dc:creator>
+ <guid isPermaLink="false">340 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Site Security in Drupal 8</title>
+ <link>http://badcamp-2015.kbox/session/site-security-drupal-8</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Drupal 8 contains a number of security improvements over Drupal 7, including&lt;/p&gt;
+&lt;p&gt;- Adoption of Twig as the default theme engine&lt;br /&gt;
+- Removal of the PHP Filter module&lt;br /&gt;
+- Hashing of user session IDs&lt;br /&gt;
+- Support for trusted hosts patterns&lt;br /&gt;
+- Improved integration of WYSIWYG configurations with text filters&lt;br /&gt;
+- Limiting database drivers to executing single statements&lt;br /&gt;
+- Integration of CSRF protection into the routing access system&lt;/p&gt;
+&lt;p&gt;In addition to the above general enhancements to security, this session will address:&lt;/p&gt;
+&lt;p&gt;- Development of new methods for storing API keys and access passwords securely&lt;br /&gt;
+- Adding extra database protection&lt;br /&gt;
+- The state of encryption in Drupal &lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/site-building-using-drupal&quot;&gt;Site Building + Using Drupal&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/beginner&quot;&gt;Beginner&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/rlhawk&quot; class=&quot;user user-121 entityreference&quot;&gt;rlhawk&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 26 Sep 2015 05:58:42 +0000</pubDate>
+ <dc:creator>rlhawk</dc:creator>
+ <guid isPermaLink="false">339 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Making Content Strategic before “Content Strategy” Happens</title>
+ <link>http://badcamp-2015.kbox/session/making-content-strategic-%E2%80%9Ccontent-strategy%E2%80%9D-happens</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Making Content Strategic before “Content Strategy” Happens&lt;/p&gt;
+&lt;p&gt;Clients tap Drupal shops for our design expertise and technical virtuosity, but rarely for what a website often needs: messages that drive action. Clients may never provide these, and so even when we attempt to strategically convey their content, we end up with ineffective (but beautiful) websites that prize form over content.&lt;/p&gt;
+&lt;p&gt;Using tools from marketing and advertising, Kalamuna creative director + strategist Shannon O’Malley will show you how to build the bridge between strategic message generation and content strategy for the web: creating meaning before creating the plan convey it. Learn about positioning and messaging, competitive research, and using strategic messages to shape information architecture.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/design-theme-ux&quot;&gt;Design, Theme + UX&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/beginner&quot;&gt;Beginner&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/somalley1&quot; class=&quot;user user-1132 entityreference&quot;&gt;somalley1&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 26 Sep 2015 00:32:06 +0000</pubDate>
+ <dc:creator>somalley1</dc:creator>
+ <guid isPermaLink="false">334 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Life After Launch: Lessons Learned</title>
+ <link>http://badcamp-2015.kbox/session/life-after-launch-lessons-learned</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;First let&#039;s all agree that people don&#039;t launch websites like they launch rockets. Rockets blast off into orbit without any further human intervention. Websites are more like row boats, sure you can say you&#039;ve &quot;launched&quot;, but that&#039;s when the rowing begins.&lt;/p&gt;
+&lt;p&gt;Agile, MVP, technical debt, what-have-you... this session will not be a series of acronyms or buzzwords. Instead we will simply share our experience building a dedicated production support team, why we thought it was important to do so for our clients, and what we learned along the way.&lt;/p&gt;
+&lt;p&gt;We will talk about pitfalls and best practices for maintaining a website after launch, how incremental updates can keep your website relevant, why it&#039;s important to plan for life after launch during your design/build, and how to right size the engagement with your agency/client.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/business-community&quot;&gt;Business + Community&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/beginner&quot;&gt;Beginner&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/jcrespo&quot; class=&quot;user user-447 entityreference&quot;&gt;jcrespo&lt;/a&gt;, &lt;a href=&quot;/users/lucyatendesigngroupcom&quot; class=&quot;user user-479 entityreference&quot;&gt;lucy@atendesigngroup.com&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 26 Sep 2015 00:24:25 +0000</pubDate>
+ <dc:creator>jcrespo</dc:creator>
+ <guid isPermaLink="false">333 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Desktop to Mobile: Why Your Themer Cries</title>
+ <link>http://badcamp-2015.kbox/session/desktop-mobile-why-your-themer-cries</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;By now we’re all well aware that mobile-first approach is ideal for a successful responsive web website. But, out there in the real world, despite all the blog posts and best intentions, there are times when a project requires converting  an existing desktop site or design into a responsive website.&lt;/p&gt;
+&lt;p&gt;If you’ve been in this situation, you’ve probably had some very good front-end developers grumble about seemingly simple requests. The goal of this session is to give non-developers the tools to understand &lt;strong&gt;what’s easy, what’s hard, what’s possible &lt;/strong&gt;and&lt;strong&gt; what’s a bad idea&lt;/strong&gt; when going from desktop to mobile.&lt;/p&gt;
+&lt;p&gt;In this session, I’ll cover:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;some of the common terminology and concepts surrounding the mobile web,&lt;/li&gt;
+&lt;li&gt;technical limitations of responsive web design,&lt;/li&gt;
+&lt;li&gt;specific examples of common pain points when going from desktop to mobile,&lt;/li&gt;
+&lt;li&gt;how to assess the viability of a feature request or change,&lt;/li&gt;
+&lt;li&gt;the importance of performance.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/design-theme-ux&quot;&gt;Design, Theme + UX&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/beginner&quot;&gt;Beginner&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/zakiya&quot; class=&quot;user user-52 entityreference&quot;&gt;zakiya&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 26 Sep 2015 00:24:06 +0000</pubDate>
+ <dc:creator>zakiya</dc:creator>
+ <guid isPermaLink="false">332 at http://badcamp-2015.kbox</guid>
+</item>
+</channel>
+</rss>

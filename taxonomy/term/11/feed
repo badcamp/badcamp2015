@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://badcamp-2015.kbox"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>BADCamp 2015 - Bay Area Drupal Camp - Design, Theme + UX</title>
+ <link>http://badcamp-2015.kbox/tracks/design-theme-ux</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>The Official Unofficial Front End Summit</title>
+ <link>http://badcamp-2015.kbox/session/official-unofficial-front-end-summit</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;img alt=&quot;&quot; src=&quot;https://media.giphy.com/media/3oEduIB9MSLz1DNY08/giphy.gif&quot; /&gt;&lt;br /&gt;&lt;strong&gt;Front Enders Unite!&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Come join us in the Pauley Atrium for a morning of sharing, discussion and otherwise general Front End Solidarity. All skill levels are welcome!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(Note: we&#039;ll hang out for as long as people want to stick around and talk. Definitely at least an hour or more.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/design-theme-ux&quot;&gt;Design, Theme + UX&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/intermediate&quot;&gt;Intermediate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/snugug&quot; class=&quot;user user-822 entityreference&quot;&gt;Snugug&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-date-and-time field-type-datetime field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session date and time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Sunday, October 25, 2015 - 10:00am&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-time-slot field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session time slot: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/time-slot/1000am-1100am&quot;&gt;10:00am - 11:00am&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session room: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/rooms/pauley-ballroom-west-usc-student-union-building&quot;&gt;Pauley Ballroom WEST - USC Student Union Building&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 23 Oct 2015 19:14:00 +0000</pubDate>
+ <dc:creator>eatings</dc:creator>
+ <guid isPermaLink="false">371 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Data Driven Conversion Optimization for Drupal </title>
+ <link>http://badcamp-2015.kbox/session/data-driven-conversion-optimization-drupal</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;In digital marketing, conversion rate optimization (CRO) is a process for increasing site conversions using behavioural data to understand which experiences help drive your desired outcomes. Learn to evaluate how well your business goals align with your user’s, and how to identify opportunities for improvements with tools your probably already have access to! &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;In this session, learn how to use existing tools in Drupal to:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt; Create a solid infrastructure to collect and distribute data&lt;/li&gt;
+&lt;li&gt; Obtain the right kind of data to analyze &lt;/li&gt;
+&lt;li&gt; Understand the performance of your site from a users point of view&lt;/li&gt;
+&lt;li&gt; Make better informed decisions with respect to your online business strategy&lt;/li&gt;
+&lt;li&gt; Take actions to improve your conversion rate&lt;/li&gt;
+&lt;li&gt; Connect with your target audience&lt;/li&gt;
+&lt;li&gt; Provide a consistent Multi Channel Engagement &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Use data to answer your burning questions!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;What if I already have good SEO?&lt;/p&gt;
+&lt;p&gt;“For every $100 spent on driving traffic to websites, companies spend only $1 converting that traffic into business.” &lt;/p&gt;
+&lt;p&gt;~ Source: Forrester Research&lt;br /&gt;
+ &lt;/p&gt;
+&lt;p&gt;Can landing pages help users convert?&lt;/p&gt;
+&lt;p&gt;Companies with over 40 landing pages generate an average of 12 times more leads than those with 5 or fewer pages. &lt;/p&gt;
+&lt;p&gt;~ Source: HubSpot&lt;br /&gt;
+ &lt;/p&gt;
+&lt;p&gt;Unsure what to test? &lt;/p&gt;
+&lt;p&gt;82% of marketers say knowing how to test effectively is “somewhat” or “very” challenging &lt;/p&gt;
+&lt;p&gt;~ Source: Adobe &lt;br /&gt;
+ &lt;/p&gt;
+&lt;p&gt;Unsure what your data means? &lt;/p&gt;
+&lt;p&gt;42% Marketers who say interpreting results is the biggest challenge in conversion optimization&lt;br /&gt;
+~ Source: MarketingSherpa&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Which channel is the most important?  &lt;/p&gt;
+&lt;p&gt;83% Worldwide retailers that ranked a consistent cross-channel customer experience as “very important”&lt;br /&gt;
+~ Source: Retail Systems Research&lt;br /&gt;
+ &lt;/p&gt;
+&lt;p&gt;55% Companies that have a mobile-optimized website, mobile app, or both &lt;/p&gt;
+&lt;p&gt;~ Source: Adobe&lt;br /&gt;
+ &lt;/p&gt;
+&lt;p&gt;How do I sell this to my boss/client? &lt;/p&gt;
+&lt;p&gt;85% Search marketers who plan to focus more on conversion optimization in the next year&lt;br /&gt;
+~ Source: Hanapin Marketing (2014)&lt;br /&gt;
+ &lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/design-theme-ux&quot;&gt;Design, Theme + UX&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/intermediate&quot;&gt;Intermediate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/annabella&quot; class=&quot;user user-17 entityreference&quot;&gt;Annabella&lt;/a&gt;, &lt;a href=&quot;/users/vcreatrix&quot; class=&quot;user user-1101 entityreference&quot;&gt;vcreatrix&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 28 Sep 2015 19:36:49 +0000</pubDate>
+ <dc:creator>Annabella</dc:creator>
+ <guid isPermaLink="false">347 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>The Perfect Theme</title>
+ <link>http://badcamp-2015.kbox/session/perfect-theme</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Drupal&#039;s decentralized nature tends to conflict with what we want as front end developers- a single code base for controlling the UI style and script assets (managed in code rather than db and doesn&#039;t require a dozen modules to accomplish adding simple features).&lt;/p&gt;
+&lt;p&gt;A look at lessons learned building the &lt;a href=&quot;https://github.com/ablank/Cellular&quot;&gt;Cellular &lt;/a&gt;base theme, which provides a central repo for all the UI in Drupal 7, with a focus on using theme functions to manage assets and build a performance optimized theme with the help of grunt &amp;amp; sass.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Slides: &lt;a href=&quot;http://dev-cellular.gotpantheon.com/reveal&quot;&gt;http://dev-cellular.gotpantheon.com/reveal&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/design-theme-ux&quot;&gt;Design, Theme + UX&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/advanced&quot;&gt;Advanced&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/adambear&quot; class=&quot;user user-378 entityreference&quot;&gt;adam_bear&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 27 Sep 2015 21:04:40 +0000</pubDate>
+ <dc:creator>adam_bear</dc:creator>
+ <guid isPermaLink="false">344 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Prototyping excellence: a Design+Content-first approach to websites</title>
+ <link>http://badcamp-2015.kbox/session/prototyping-excellence-designcontent-first-approach-websites</link>
+ <description>&lt;div class=&quot;field field-name-field-youtube field-type-youtube field-label-hidden field-wrapper&quot;&gt;&lt;iframe id=&quot;youtube-field-player&quot; class=&quot;youtube-field-player&quot;
+    width=&quot;420&quot; height=&quot;315&quot;
+    src=&quot;https://www.youtube.com/embed/F2t03HAKuok?modestbranding=1&amp;wmode=opaque&quot; title=&quot;Embedded video for Prototyping excellence: a Design+Content-first approach to websites&quot; frameborder=&quot;0&quot;
+    allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://nyccamp.org/sites/default/files/images/sessions/Kalastatic_1.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Prototype clean, beautiful sites that users enjoy and clients can easily collaborate on and understand. We’ll introduce &lt;a href=&quot;https://github.com/kalamuna/kalastatic&quot;&gt;kalastatic&lt;/a&gt;, the open-source Kalamuna prototyping tool that co-exists with Drupal themes, Wordpress, and stand-alone sites, and consumes JSON from Drupal 7, 8 or other services. &lt;/p&gt;
+&lt;p&gt;A solid prototyping framework should put in practice &lt;a href=&quot;http://bradfrost.com/blog/post/atomic-web-design&quot;&gt;atomic web design&lt;/a&gt; principles to produce a &lt;a href=&quot;http://www.webdesignerdepot.com/2014/09/how-to-make-your-code-easily-maintainable-with-living-style-guides&quot;&gt;living styleguide&lt;/a&gt; to guide back-end implementations in a framework agnostic approach. It should serve as a point of convergence between front-end development, back-end development, and content strategy.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BENEFITS TO THIS APPROACH&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;Enable designers and front-end developers to focus on their craft instead of struggling with poorly documented CMS APIs and configurations.&lt;br /&gt;
+	 &lt;/li&gt;
+&lt;li&gt;Drive design thinking early in the project lifecycle by giving clients something they can see and understand.&lt;br /&gt;
+	 &lt;/li&gt;
+&lt;li&gt;Provide a litmus test against style regressions during development by using the prototype as a living style guide.&lt;br /&gt;
+	 &lt;/li&gt;
+&lt;li&gt;Accelerate development by using a workspace for front-to-back and back-to-front collaboration.&lt;br /&gt;
+	 &lt;/li&gt;
+&lt;li&gt;Craft small sites with fun and fury, not tedium and infinite clicks.&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/design-theme-ux&quot;&gt;Design, Theme + UX&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/intermediate&quot;&gt;Intermediate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/andrewmallis&quot; class=&quot;user user-25 entityreference&quot;&gt;Andrew_Mallis&lt;/a&gt;, &lt;a href=&quot;/users/robloach&quot; class=&quot;user user-958 entityreference&quot;&gt;RobLoach&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-date-and-time field-type-datetime field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session date and time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Saturday, October 24, 2015 - 4:30pm&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-time-slot field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session time slot: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/time-slot/430pm-500pm&quot;&gt;4:30pm - 5:00pm&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session room: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/rooms/stephens-lounge-usc-student-union-building-0&quot;&gt;Stephens Lounge - USC Student Union Building&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-files field-type-file field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session files:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://badcamp-2015.kbox/sites/default/files/session-files/kalastatic%E2%80%93badcamp2015.pdf&quot; type=&quot;application/pdf; length=3419453&quot;&gt;kalastatic–badcamp2015.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 26 Sep 2015 02:28:26 +0000</pubDate>
+ <dc:creator>Andrew_Mallis</dc:creator>
+ <guid isPermaLink="false">336 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Disposable Designs</title>
+ <link>http://badcamp-2015.kbox/session/disposable-designs</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Designs carefully crafted to impress the client can leave developers struggling to understand the underlying structure. How can we avoid making throwaway deliverables?&lt;/p&gt;
+&lt;p&gt;After (hopefully) having doing site audits, content strategy and a functional spec the foundations are laid for a solid website plan. These plans don&#039;t make great or convincing client deliverables, so designers need to make high fidelity previews to get their ideas across. This can range from glossy photoshop comps to mock sites using Reflow, Macaw or UXPin.&lt;/p&gt;
+&lt;p&gt;These tools can produce beautiful, compelling work, but it&#039;s work that doesn&#039;t get us closer to having a working Drupal site. Animated gif interactions, clickable wireframes- no matter how interesting- these are disposable creations that will never be seen by the end-user and have no intrinsic value to ...anyone.&lt;/p&gt;
+&lt;p&gt;Drupal is a content framework, a template based system that changes with whatever a user fills it with. Responsive design doesn&#039;t just mean fitting the viewport, it means adapting to more or less text, many or few pages, extra blocks or missing pieces. Designing statically for these possibilities is impossible.&lt;/p&gt;
+&lt;p&gt;This session will cover practical examples of how to design systems using common components, creating reusable patterns and usable assets that can be applied directly in a Drupal project.&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;How can Designers avoid duplicating work?&lt;/li&gt;
+&lt;li&gt;What kind of processes can be shared across Design and Development?&lt;/li&gt;
+&lt;li&gt;How does designing the smallest components help answer the big design questions?&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/design-theme-ux&quot;&gt;Design, Theme + UX&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/intermediate&quot;&gt;Intermediate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/zrpnr&quot; class=&quot;user user-1134 entityreference&quot;&gt;zrpnr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 26 Sep 2015 00:43:04 +0000</pubDate>
+ <dc:creator>zrpnr</dc:creator>
+ <guid isPermaLink="false">335 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Making Content Strategic before “Content Strategy” Happens</title>
+ <link>http://badcamp-2015.kbox/session/making-content-strategic-%E2%80%9Ccontent-strategy%E2%80%9D-happens</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Making Content Strategic before “Content Strategy” Happens&lt;/p&gt;
+&lt;p&gt;Clients tap Drupal shops for our design expertise and technical virtuosity, but rarely for what a website often needs: messages that drive action. Clients may never provide these, and so even when we attempt to strategically convey their content, we end up with ineffective (but beautiful) websites that prize form over content.&lt;/p&gt;
+&lt;p&gt;Using tools from marketing and advertising, Kalamuna creative director + strategist Shannon O’Malley will show you how to build the bridge between strategic message generation and content strategy for the web: creating meaning before creating the plan convey it. Learn about positioning and messaging, competitive research, and using strategic messages to shape information architecture.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/design-theme-ux&quot;&gt;Design, Theme + UX&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/beginner&quot;&gt;Beginner&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/somalley1&quot; class=&quot;user user-1132 entityreference&quot;&gt;somalley1&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 26 Sep 2015 00:32:06 +0000</pubDate>
+ <dc:creator>somalley1</dc:creator>
+ <guid isPermaLink="false">334 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Desktop to Mobile: Why Your Themer Cries</title>
+ <link>http://badcamp-2015.kbox/session/desktop-mobile-why-your-themer-cries</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;By now we’re all well aware that mobile-first approach is ideal for a successful responsive web website. But, out there in the real world, despite all the blog posts and best intentions, there are times when a project requires converting  an existing desktop site or design into a responsive website.&lt;/p&gt;
+&lt;p&gt;If you’ve been in this situation, you’ve probably had some very good front-end developers grumble about seemingly simple requests. The goal of this session is to give non-developers the tools to understand &lt;strong&gt;what’s easy, what’s hard, what’s possible &lt;/strong&gt;and&lt;strong&gt; what’s a bad idea&lt;/strong&gt; when going from desktop to mobile.&lt;/p&gt;
+&lt;p&gt;In this session, I’ll cover:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;some of the common terminology and concepts surrounding the mobile web,&lt;/li&gt;
+&lt;li&gt;technical limitations of responsive web design,&lt;/li&gt;
+&lt;li&gt;specific examples of common pain points when going from desktop to mobile,&lt;/li&gt;
+&lt;li&gt;how to assess the viability of a feature request or change,&lt;/li&gt;
+&lt;li&gt;the importance of performance.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/design-theme-ux&quot;&gt;Design, Theme + UX&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/beginner&quot;&gt;Beginner&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/zakiya&quot; class=&quot;user user-52 entityreference&quot;&gt;zakiya&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 26 Sep 2015 00:24:06 +0000</pubDate>
+ <dc:creator>zakiya</dc:creator>
+ <guid isPermaLink="false">332 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Drupal 8 Theming - No More &lt;div&gt;-itis</title>
+ <link>http://badcamp-2015.kbox/session/drupal-8-theming-no-more-itis</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Drupal 8 has many new exciting features, but none are as &lt;em&gt;radical or as needed&lt;/em&gt; as the changes made to the theme system*!&lt;/p&gt;
+&lt;p&gt;For 10 years Drupal&#039;s front end was design and built by developers that tried their very best to figure out what the front end needed; the lack of dedicated front-enders in core; resulted in front end architecture that was &lt;em&gt;&quot;less than ideal&quot;&lt;/em&gt; for the challenges that the front end has faced for the last 5 years.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Drupal 8 and twig changed it all!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A complete overhaul of the theme system started 3 years ago - PHPtemplate is now out the door, the twig template system is implemented, and most importantly, the core idea of how the front end is build has done a 180° from how Drupal 7 handled theming.&lt;/p&gt;
+&lt;p&gt;This means:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;No more &lt;strong&gt;divitis&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;No more &lt;strong&gt;Class soup&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;No more of Drupal&#039;s standard markup and classes&lt;/li&gt;
+&lt;li&gt;No more yelling at the markup and not knowing where stuff came from&lt;/li&gt;
+&lt;li&gt;No more using regex for modify a CSS class!&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Such a dramatic change would normally cause panic &lt;strong&gt;is a time for celebration&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The session will give you a solid understanding of the key concepts of Drupal 8 theming, as a themer.&lt;/p&gt;
+&lt;p&gt;We will cover:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;What themes are in Drupal8, what should i use&lt;/li&gt;
+&lt;li&gt;Classy,Stark... Stable wtf whats all this - and Base themes - what happened?&lt;/li&gt;
+&lt;li&gt;Debugging and looking for markup&lt;/li&gt;
+&lt;li&gt;How {{ twig }} works from a CSS/HTML coders perspective (how to build a theme)&lt;/li&gt;
+&lt;li&gt;What to tell your developers about theming &lt;/li&gt;
+&lt;li&gt;the wonders of a single field &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;This session is created with the themer / front-ender / html-css designer  in mind, so &lt;strong&gt;a maximum of 3 lines of PHP&lt;/strong&gt; will be shown in this session.&lt;/p&gt;
+&lt;p&gt;*Yes I know that a lot of “big things came into d8” that weren&#039;t front end related ;)&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/design-theme-ux&quot;&gt;Design, Theme + UX&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/intermediate&quot;&gt;Intermediate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/mortendk&quot; class=&quot;user user-803 entityreference&quot;&gt;mortendk&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-date-and-time field-type-datetime field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session date and time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Saturday, October 24, 2015 - 3:30pm&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-time-slot field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session time slot: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/time-slot/330pm-430pm&quot;&gt;3:30pm - 4:30pm&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session room: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/rooms/hearst-annex-a1&quot;&gt;Hearst Annex A1&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 25 Sep 2015 12:50:17 +0000</pubDate>
+ <dc:creator>mortendk</dc:creator>
+ <guid isPermaLink="false">321 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Cat gifs. Also front-end build process.</title>
+ <link>http://badcamp-2015.kbox/session/cat-gifs-also-front-end-build-process</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Today’s front-end workflow benefits greatly from familiarity with a few key languages and libraries - this is especially true as we move closer to a D8 release date. The front-enders at Chapter Three came together to discuss standardizing projects; a goal that had raised much contention in the past. After several rounds of hand-to-hand combat, we were able to come together and produce a front-end build process that has increased productivity, decreased friction, and helped with posterity and team interoperability. Topics include preprocessor languages, frameworks, asset architecture, task-runners, Drupal best practices, swear words, and complaining. Come learn what the hell we’re talking about and bask in the glow of our curated cat-gifs.&lt;/p&gt;
+&lt;p&gt;Drew Bolles - @bollskis&lt;br /&gt;
+I first started building sites back when GeoCities was all the rage, spending my nights as a kid learning HTML and CSS. Fast-forward a few years, and I&#039;m still viewing sources and reading A List Apart articles. I&#039;m passionate about developing scalable, reusable architectures that not only look great, but are built with good semantics and performance as a feature.&lt;/p&gt;
+&lt;p&gt;Casey Wight - @cwightrun&lt;br /&gt;
+With a background in design, development and Drupal, I bring a diverse set of skills to the Chapter Three team. My initial jump into the web-development forway began in the dark days of tables and frames. I’ve performed many roles over the years but my main focus has always been getting my hands dirty in code. Now I’m designing and developing flexible and scalable Drupal front-end systems.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/design-theme-ux&quot;&gt;Design, Theme + UX&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/intermediate&quot;&gt;Intermediate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/cwightrun&quot; class=&quot;user user-663 entityreference&quot;&gt;cwightrun&lt;/a&gt;, &lt;a href=&quot;/users/bollskis&quot; class=&quot;user user-1024 entityreference&quot;&gt;bollskis&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 24 Sep 2015 18:39:16 +0000</pubDate>
+ <dc:creator>cwightrun</dc:creator>
+ <guid isPermaLink="false">311 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Integrating Pattern Libraries with Drupal</title>
+ <link>http://badcamp-2015.kbox/session/integrating-pattern-libraries-drupal</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;As our sites grow in complexity, how do we manage our code, designs and site architecture? With so many touch points it can be hard to manage a single guide to maintain consistency throughout a project. One solution, pattern libraries. Pattern libraries allow front-end developers to create and style components—the foundation of a solid design system.&lt;/p&gt;
+&lt;p&gt;Won&#039;t this add complexity to my process? It doesn&#039;t have to. Many current pattern libraries can be hard to integrate with Drupal. They simply don&#039;t provide enough control and flexibility to seamlessly work with other systems. There is a solution...&lt;/p&gt;
+&lt;p&gt;In this session we will demonstrate how a new pluggable framework for building pattern libraries gives you the flexibility and control you need to integrate a pattern library into your site building process. Using this framework you can create your template files in whatever language you choose and export them to Drupal PHP template files. Using this solution you get the benefits of a pattern based approach without sacrificing efficiency.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Knowledge you will walk away with:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;How to integrate a pattern library into your process&lt;/li&gt;
+&lt;li&gt;How to install and setup your pattern library&lt;/li&gt;
+&lt;li&gt;How to use pattern libraries to document the front-end&lt;/li&gt;
+&lt;li&gt;How to run visual regression testing in your pattern library&lt;/li&gt;
+&lt;li&gt;How to export patterns to Drupal&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/design-theme-ux&quot;&gt;Design, Theme + UX&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/intermediate&quot;&gt;Intermediate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/josh&quot; class=&quot;user user-708 entityreference&quot;&gt;josh&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 24 Sep 2015 17:23:41 +0000</pubDate>
+ <dc:creator>josh</dc:creator>
+ <guid isPermaLink="false">309 at http://badcamp-2015.kbox</guid>
+</item>
+</channel>
+</rss>

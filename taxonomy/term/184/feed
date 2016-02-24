@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://badcamp-2015.kbox"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>BADCamp 2015 - Bay Area Drupal Camp - UCB Career Center</title>
+ <link>http://badcamp-2015.kbox/venue/ucb-career-center</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Personalization and Dynamic Content in Drupal</title>
+ <link>http://badcamp-2015.kbox/training/personalization-and-dynamic-content-drupal</link>
+ <description>&lt;div class=&quot;field field-name-field-training-date-time field-type-datetime field-label-above field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Date and Time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Thursday, October 22, 2015 - &lt;div class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;9:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;4:30pm&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;body field&quot;&gt;&lt;h2 class=&quot;p1&quot;&gt;Trainer: Acquia&lt;/h2&gt;
+&lt;p class=&quot;p1&quot;&gt;&lt;strong&gt;Audience: Intermediate Site Building&lt;/strong&gt;&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;Personalization tools such as Acquia Lift have given us an unprecedented degree of control in customizing user experience. We can now server a different page to users based on their device, location and even browsing habits. How can we as developers build our sites in a way that makes it easy for all these moving parts to work together?&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;Years ago we had to learn how to integrate mobile users into our development. There may have been some grumblings but time has shown that ignoring mobile users not only disappoints your users, it disappoints Google as well. Personalization is the next given that we&#039;re going to have to learn to include in our sites. But how can we make this seamless and more importantly how can we make it easy so our content editors can handle personalizing almost anything?&lt;/p&gt;
+&lt;p class=&quot;p1&quot;&gt;This session will go over how personalization works with a focus on Acquia Lift. We&#039;ll also show some examples of how to keep personalization in mind from initial planning stages to final launch and beyond:&lt;/p&gt;
+&lt;ul&gt;&lt;li class=&quot;p1&quot;&gt;Why and how to plan a personalization strategy early&lt;/li&gt;
+&lt;li class=&quot;p1&quot;&gt;Developing your site so that as many elements can be swappable as possible&lt;/li&gt;
+&lt;li class=&quot;p1&quot;&gt;How clean markup and best practices with Javascript will allow you to integrate with any personalization system&lt;/li&gt;
+&lt;li class=&quot;p1&quot;&gt;Making sure that elements more likely to be personalized are in an easy to update format, not buried in a view in a block in a pane in a panel.&lt;/li&gt;
+&lt;/ul&gt;&lt;p class=&quot;p1&quot;&gt;This presentation assumes an intermediate understanding of Drupal site building, no previous personalization experience is required.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.acquia.com/&quot;&gt;&lt;img alt=&quot;Acquia&quot; src=&quot;/sites/default/files/styles/medium/public/sponsor-logos/Acquia_no_tagline.png?itok=W5rNzEad&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-skill-level field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Skill level: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Intermediate&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-location field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Location: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;UCB Career Center&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-room field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Room: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;BLUE - USC Career Center&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div id=&quot;registrations-remaining&quot;&gt;&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Registrations Remaining: &lt;/label&gt;
+ None. Training is full.
+&lt;/div&gt;
+&lt;/div&gt;&lt;div id=&quot;register-status&quot;&gt;You are NOT registered for this training.&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 22 Sep 2015 23:09:37 +0000</pubDate>
+ <dc:creator>Lindsay Gaudinier</dc:creator>
+ <guid isPermaLink="false">283 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Drupal 8 Theming - Introduction</title>
+ <link>http://badcamp-2015.kbox/training/drupal-8-theming-introduction</link>
+ <description>&lt;div class=&quot;field field-name-field-training-date-time field-type-datetime field-label-above field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Date and Time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Thursday, October 22, 2015 - &lt;div class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;9:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;4:30pm&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;body field&quot;&gt;&lt;h2&gt;Trainer: Chaz Chumley / Forum One&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Audience: &lt;span data-sheets-userformat=&quot;[null,null,833,[null,0],null,null,null,null,null,1,null,4,0]&quot; data-sheets-value=&quot;[null,2,&amp;quot;Drupal themers and front-end developers&amp;quot;]&quot; style=&quot;font-family: arial, sans, sans-serif; text-align: center;&quot;&gt;Drupal themers and front-end developers&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Master Drupal 8’s new Twig templating engine to create fun and fast websites with simple steps to help you move from concept to completion.&lt;/p&gt;
+&lt;p&gt;Starting from the bottom up we will walk thru setting up and configuring a new Drupal 8 website. Navigate the Admin interface and learn how to work with core themes and create new custom block layouts. Taking a look at a real world project we will create a Twig theme that adopts best practices to implement CSS frameworks and JavaScript libraries. We will see just how quick and easy it is to create beautiful responsive Drupal 8 websites while avoiding some of the common mistakes many front-end developers run into.&lt;/p&gt;
+&lt;p&gt;If you consider yourself a front-end developer you will be right at home, but since no PHP knowledge will be necessary, anyone who can create an HTML website with basic HTML and CSS skills will be able to leave knowing how to create a Drupal 8 theme.&lt;/p&gt;
+&lt;p&gt;Prerequisites:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;You should have the latest beta version of Drupal 8 installed locally prior to this training.&lt;/li&gt;
+&lt;li&gt;Have a version of MySQL installed with ability to do a database restore.&lt;/li&gt;
+&lt;li&gt;Understand how to work with HTML5, CSS3 and JavaScript libraries&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;All attendees will receive a digital copy of Chaz&#039; upcoming book &lt;a href=&quot;http://www.amazon.com/Drupal-Theming-Twig-Chaz-Chumley/dp/1782168737&quot;&gt;Drupal 8 Theming with Twig&lt;/a&gt; when it is published in January.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://forumone.com/&quot;&gt;&lt;img alt=&quot;ForumOne&quot; src=&quot;/sites/default/files/styles/medium/public/sponsor-logos/ForumOne_Primary%20%281%29.png?itok=P2CiLJSo&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-skill-level field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Skill level: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Intermediate&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-location field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Location: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;UCB Career Center&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-room field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Room: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;GOLD - USC Career Center&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div id=&quot;registrations-remaining&quot;&gt;&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Registrations Remaining: &lt;/label&gt;
+ None. Training is full.
+&lt;/div&gt;
+&lt;/div&gt;&lt;div id=&quot;register-status&quot;&gt;You are NOT registered for this training.&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 22 Sep 2015 22:31:49 +0000</pubDate>
+ <dc:creator>Lindsay Gaudinier</dc:creator>
+ <guid isPermaLink="false">279 at http://badcamp-2015.kbox</guid>
+</item>
+</channel>
+</rss>

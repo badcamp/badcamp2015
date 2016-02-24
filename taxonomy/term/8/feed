@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://badcamp-2015.kbox"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>BADCamp 2015 - Bay Area Drupal Camp - DevOps + Performance</title>
+ <link>http://badcamp-2015.kbox/tracks/devops-performance</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>What&#039;s your plan when DAILY BACKUPS AREN&#039;T ENOUGH?!</title>
+ <link>http://badcamp-2015.kbox/session/whats-your-plan-when-daily-backups-arent-enough</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;You just got hacked.  You just wiped your main database on accident.  You pushed that one button you weren&#039;t supposed to push in the adminstrative interface.  Your hosting server suffered an outage.  Whatever it is, the time has come to invoke emergency protocols, and you need to restore your website from the backups.  Unfortunately, you are most likely only on daily backups and as a result have lost over 24 hours of data.  No biggy if you only have 1 user.  But what if you have hundreds or even thousands of active users in that 24 hour period.  Then what?  And what if each one of those users are paying customers?  What are you going to do? &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You can&#039;t afford to just have daily backups.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you&#039;ve never been in this situation and had to deal with this, you want to come to this session.  In this talk we&#039;ll cover the following&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;strategies to recover as much data as possible with the variety of logs&lt;/li&gt;
+&lt;li&gt;parsing of specific logs for data recovery&lt;/li&gt;
+&lt;li&gt;best configuration practices&lt;/li&gt;
+&lt;li&gt;preventitive measures to avoid not having daily backups&lt;/li&gt;
+&lt;li&gt;analysis of different hosting providers (i.e. Pantheon, Acquia, etc)&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/devops-performance&quot;&gt;DevOps + Performance&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/intermediate&quot;&gt;Intermediate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/jamesmcb&quot; class=&quot;user user-149 entityreference&quot;&gt;jamesmcb&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 26 Sep 2015 05:18:35 +0000</pubDate>
+ <dc:creator>jamesmcb</dc:creator>
+ <guid isPermaLink="false">337 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Defense in Depth: Lessons learned securing 100,000 Drupal Sites</title>
+ <link>http://badcamp-2015.kbox/session/defense-depth-lessons-learned-securing-100000-drupal-sites</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Heartbleed, Shell Shock, POODLE, Drupalgeddon and Ghost.  How is it possible to secure my website in the face of the hackzor onslaught?&lt;/p&gt;
+&lt;p&gt;Every bit of software in your stack composes compromisable surface area, so you have to think about security from the OS to the JS, and beyond.  When securing your website, you need to think breadth as well as depth; there’s no use in having 3 deadbolts a pit bull and a portcullis on your front door while leaving your porch door unlocked.  &lt;/p&gt;
+&lt;p&gt;We’ll start at the 10,000’ level, reviewing the risks and drivers of website security, then zoom in for a birds-eye view of security best practices, and finally deep-dive on a few of the most effective attack mitigation strategies.&lt;/p&gt;
+&lt;p&gt;Topics we will cover:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+	What security means for your business: compliance and risk management
+	&lt;/li&gt;
+&lt;li&gt;
+	The security triad: Confidentiality, Integrity, and Availability
+	&lt;/li&gt;
+&lt;li&gt;
+	OWASP Top 10
+	&lt;/li&gt;
+&lt;li&gt;
+	Evaluating hosting options based on security
+	&lt;/li&gt;
+&lt;li&gt;
+	Securing your operating system
+	&lt;/li&gt;
+&lt;li&gt;
+	Configuring Nginx and Apache for security
+	&lt;/li&gt;
+&lt;li&gt;
+	Understanding ‘contrib’ module security
+	&lt;/li&gt;
+&lt;li&gt;
+	Configuring Drupal for Security
+	&lt;/li&gt;
+&lt;li&gt;
+	How to address DOS with a CDN (a battle of 3 letter acronyms)
+	&lt;/li&gt;
+&lt;li&gt;
+	Data encryption
+	&lt;/li&gt;
+&lt;li&gt;
+	Key Management (Don’t tape your key to the front door)
+	&lt;/li&gt;
+&lt;li&gt;
+	PII - What is it and why does it matter?
+	&lt;/li&gt;
+&lt;li&gt;
+	Securing your users: Password security and best practices
+	&lt;/li&gt;
+&lt;li&gt;
+	Real world scenarios
+	&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;This will be the follow up to the session at Drupalcon Los Angeles and Barcelona: &lt;a href=&quot;https://events.drupal.org/losangeles2015/sessions/defense-depth-lessons-learned-securing-100000-drupal-sites https://events.drupal.org/barcelona2015/sessions/defense-depth-lessons-learned-securing-100000-drupal-sites&quot;&gt;https://events.drupal.org/losangeles2015/sessions/defense-depth-lessons-...&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/devops-performance&quot;&gt;DevOps + Performance&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/intermediate&quot;&gt;Intermediate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/cellar-door&quot; class=&quot;user user-1092 entityreference&quot;&gt;Cellar Door&lt;/a&gt;, &lt;a href=&quot;/users/david-strauss&quot; class=&quot;user user-122 entityreference&quot;&gt;David Strauss&lt;/a&gt;, &lt;a href=&quot;/users/geetarluke&quot; class=&quot;user user-268 entityreference&quot;&gt;geetarluke&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-date-and-time field-type-datetime field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session date and time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Saturday, October 24, 2015 - 1:30pm&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-time-slot field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session time slot: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/time-slot/130pm-230pm&quot;&gt;1:30pm - 2:30pm&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session room: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/rooms/gold-usc-career-center&quot;&gt;GOLD - USC Career Center&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 25 Sep 2015 11:02:45 +0000</pubDate>
+ <dc:creator>Cellar Door</dc:creator>
+ <guid isPermaLink="false">318 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Drupal Performance Optimization Options &amp; Checklist</title>
+ <link>http://badcamp-2015.kbox/session/drupal-performance-optimization-options-checklist</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;As great as Drupal can be, it doesn&#039;t scale well for Web sites with a lot of content and/or a lot of users. To make it perform better under these scenarios, it&#039;s necessary to make use of several strategies, tools and techniques.&lt;/p&gt;
+&lt;p&gt;By attending this session, you&#039;ll develop an understanding of what the options are in making your Drupal site more performant. So when you run into performance-related issues, you&#039;ll have an idea of where to begin.&lt;/p&gt;
+&lt;p&gt;I plan to cover the following areas:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Configuration Best Practices&lt;/li&gt;
+&lt;li&gt;Views Caching&lt;/li&gt;
+&lt;li&gt;System Administration&lt;/li&gt;
+&lt;li&gt;Cache Replacements&lt;/li&gt;
+&lt;li&gt;Caching and Optimizing Specific Components&lt;/li&gt;
+&lt;li&gt;External Caching&lt;/li&gt;
+&lt;li&gt;Cache Warming / Priming&lt;/li&gt;
+&lt;li&gt;Services&lt;/li&gt;
+&lt;li&gt;Drupal-Specific Hosting&lt;/li&gt;
+&lt;li&gt;Tools&lt;/li&gt;
+&lt;li&gt;Useful References&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;I&#039;ll explain why there is no one-size-fits-all approach (i.e. don&#039;t solve problems you don&#039;t have), give examples of how to look into specific issues, get into the details of the above items, and share some experiences with recent projects. Also, I&#039;m hoping to leave some time for discussion during the question period.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/devops-performance&quot;&gt;DevOps + Performance&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/beginner&quot;&gt;Beginner&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/colan&quot; class=&quot;user user-904 entityreference&quot;&gt;colan&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 22 Sep 2015 14:04:24 +0000</pubDate>
+ <dc:creator>colan</dc:creator>
+ <guid isPermaLink="false">273 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Robot Attack! Repelling Bots, DDOS, and other Fiends</title>
+ <link>http://badcamp-2015.kbox/session/robot-attack-repelling-bots-ddos-and-other-fiends</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Long ago, in the misty annals of the early Internet, by simply placing a well-formed robots.txt file at the root of a website directory, you could ban unwanted indexing bots from crawling through a few dozen hand-stitched pages and consuming an entire month’s outgoing bandwidth allowance. The only DDOS was getting “Slashdotted”, and having that happen to your website was a big honor. Nowadays, however, our concerns are much more diverse in scope, and far riskier by nature. From email harvesting operations and spam generation factories, to denial-of-service and malware breeding farms, these zombie-staffed distributed botnets are spewing enormous rivers of malicious garbage upon our once pristine, networked shores. Meanwhile, the stakes are only getting higher, as all the top brands and levels of government alike begin to heavily rely on the wholesome appearance and reliable service of their websites to be intimately connected with consumers online. &lt;/p&gt;
+&lt;p&gt;How might besieged web operators repel the gross onslaught of spam traffic, DDOS attacks, and other malicious behavior promulgated through our nets? In this session, Suzanne Aldrich of CloudFlare and Jessi Fischer of Pantheon will reconnoiter the Internet robot armies, and disseminate effective strategies for website fortification: &lt;/p&gt;
+&lt;p&gt;* Diagnosing bot traffic spikes with logs and analytics &lt;br /&gt;
+* Best practices for obscuring emails and using nofollow links &lt;br /&gt;
+* Standard spam evasion methods and why they’re mostly flawed &lt;br /&gt;
+* Strengths and pitfalls of using external spam filtering services &lt;br /&gt;
+* CDNs, caching, and other performance optimization techniques for withstanding high traffic volume &lt;br /&gt;
+* Anti-DDOS and WAF protection &lt;/p&gt;
+&lt;p&gt;After this session you’ll be armed with all the knowledge needed to defend any Drupal site from a bot assault, and live to tell the tale.&lt;/p&gt;
+&lt;p&gt;Additional resources:&lt;/p&gt;
+&lt;p&gt;Load Testing Drupal and WordPress with BlazeMeter - &lt;a href=&quot;https://pantheon.io/docs/guides/load-testing-with-blazemeter/&quot;&gt;https://pantheon.io/docs/guides/load-testing-with-blazemeter/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/devops-performance&quot;&gt;DevOps + Performance&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/intermediate&quot;&gt;Intermediate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/suzannealdrich&quot; class=&quot;user user-915 entityreference&quot;&gt;suzanne.aldrich&lt;/a&gt;, &lt;a href=&quot;/users/jess&quot; class=&quot;user user-920 entityreference&quot;&gt;jess-A&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-date-and-time field-type-datetime field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session date and time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Sunday, October 25, 2015 - 2:30pm&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-time-slot field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session time slot: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/time-slot/230pm-330pm&quot;&gt;2:30pm - 3:30pm&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session room: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/rooms/blue-usc-career-center&quot;&gt;BLUE - USC Career Center&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-files field-type-file field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session files:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://badcamp-2015.kbox/sites/default/files/session-files/BADCAMP%20-%20Robot%20Attack%21%20Repelling%20Bots%2C%20DDOS%2C%20and%20other%20Fiends.pdf&quot; type=&quot;application/pdf; length=1006795&quot; title=&quot;BADCAMP - Robot Attack! Repelling Bots, DDOS, and other Fiends.pdf&quot;&gt;Robot Attack! Slides&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 21 Sep 2015 23:08:00 +0000</pubDate>
+ <dc:creator>suzanne.aldrich</dc:creator>
+ <guid isPermaLink="false">269 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Drupal hosting options and performance improvements</title>
+ <link>http://badcamp-2015.kbox/session/drupal-hosting-options-and-performance-improvements</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Learn how to choose from the variety of hosting levels and provider offerings. There are a myriad of options from shared hosting, VPS, managed instances, dedicated servers, and Drupal-specific providers.&lt;/p&gt;
+&lt;p&gt;What are the important indicators you have, so that you can choose the most appropriate option? Can you really do more with less? What level of access do you need in order to get the best site performance?&lt;/p&gt;
+&lt;p&gt;This session will cover the range from one-click installs to setting up your own environment and a number of options in between&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/devops-performance&quot;&gt;DevOps + Performance&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/beginner&quot;&gt;Beginner&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/slovak&quot; class=&quot;user user-177 entityreference&quot;&gt;Slovak&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 16 Sep 2015 05:12:25 +0000</pubDate>
+ <dc:creator>Slovak</dc:creator>
+ <guid isPermaLink="false">230 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>An Introduction to Containers</title>
+ <link>http://badcamp-2015.kbox/session/introduction-containers</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;You&#039;ve heard the term &quot;containers.&quot; Maybe you&#039;ve heard the buzz surrounding new technologies like Docker and CoreOS. They plaster the front pages of HackerNews, reddit and the blogosphere. &lt;/p&gt;
+&lt;p&gt;If you&#039;ve wondered just what the big deal is and what they are, this is a what, why, and a how-to for Drupal containerization for those new to the technology.&lt;/p&gt;
+&lt;p&gt;Simply put, containerization enables you to scale your apps with increasing ease. For developers, it&#039;s a step towards abstracting away your infrastructure so you can stop worrying about developing, testing, and running in identical environments - it&#039;s all the same inside your container.&lt;/p&gt;
+&lt;p&gt;In this session, we&#039;ll emphasize an understanding of what containers are, what they do, and how they&#039;re different from a virtual machine. We&#039;ll end with getting a simple Drupal container app up and running.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/devops-performance&quot;&gt;DevOps + Performance&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/beginner&quot;&gt;Beginner&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/gabesullice&quot; class=&quot;user user-179 entityreference&quot;&gt;gabesullice&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 14 Sep 2015 16:32:09 +0000</pubDate>
+ <dc:creator>gabesullice</dc:creator>
+ <guid isPermaLink="false">222 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>10 Steps to &lt;1 sec page load time for a large Drupal site</title>
+ <link>http://badcamp-2015.kbox/session/10-steps</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Attent this session if you are a team lead or product manager of a Drupal site with at least a million anonymous page views a month and are interested in getting average page load time of your site down to less than one second.&lt;/p&gt;
+&lt;h2&gt;What is this session going to teach me that I can&#039;t learn from books on Drupal performance optimization?&lt;/h2&gt;
+&lt;p&gt;There are plenty of books and e-books that focus on optimizing Drupal&#039;s performance. They provide a laundry list of things to do to optimize the site. In fact, we ourselves have a blog on &lt;a href=&quot;http://redcrackle.com/blog/performance/drupal-performance-optimization-checklist&quot; target=&quot;_blank&quot;&gt;Drupal performance tuning&lt;/a&gt; citing an exhaustive list of things you can do to improve site performance. More often than not, the reader gets confused on where to start.&lt;/p&gt;
+&lt;p&gt;Based on our experience, we have observed that the requirements and methods that work with a large Drupal site with heavy traffic are different from those that work with a Drupal site that doesn&#039;t have much traffic. Quite a few steps taken to reduce page load times of a small site will not work effectively for reducing page load times of a large site. So why take those steps? As everything in life, 20% of factors lead to 80% of results. This session focuses on those 20% of factors.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/devops-performance&quot;&gt;DevOps + Performance&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/intermediate&quot;&gt;Intermediate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/neeravbm&quot; class=&quot;user user-69 entityreference&quot;&gt;neeravbm&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 14 Sep 2015 16:07:13 +0000</pubDate>
+ <dc:creator>neeravbm</dc:creator>
+ <guid isPermaLink="false">221 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Introduction to DevOps</title>
+ <link>http://badcamp-2015.kbox/session/introduction-devops</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;&quot;DevOps&quot; isn&#039;t exactly &quot;new&quot; anymore, neither is it universally implemented. If you have not yet implemented DevOps, attend this beginner session to learn the answers to questions like:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;What is DevOps?&lt;/li&gt;
+&lt;li&gt;Why is DevOps a thing now?&lt;/li&gt;
+&lt;li&gt;What did people / organizations do before there was DevOps?&lt;/li&gt;
+&lt;li&gt;What are people / organizations doing who are NOT doing DevOps now?&lt;/li&gt;
+&lt;li&gt;If DevOps is so great, why &lt;strong&gt;isn&#039;t&lt;/strong&gt; everybody doing DevOps?&lt;/li&gt;
+&lt;li&gt;How much does it cost to do DevOps?&lt;/li&gt;
+&lt;li&gt;Is DevOps just for enterprise level shops?&lt;/li&gt;
+&lt;li&gt;What&#039;s the difference between Continuous Integration / Continuous Delivery / Continuous Deployment?&lt;/li&gt;
+&lt;li&gt;Do I have to learn version control to do DevOps?&lt;/li&gt;
+&lt;li&gt;What&#039;s a provisioner and do I have to set one up to be able to do DevOps?&lt;/li&gt;
+&lt;li&gt;How do I get started with DevOps?&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;When you leave this session, you will have&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;an understanding of how DevOps can benefit you&lt;/li&gt;
+&lt;li&gt;a strong grasp of the terminology used in relation to DevOps and a basic understanding of what it means&lt;/li&gt;
+&lt;li&gt;a set of actionable items from which to choose to continue your education in DevOps&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Whether you live in the &quot;Dev&quot;, &quot;Ops&quot; or &quot;other&quot; world you are welcome to attend and learn! No prior knowledge of DevOps is required.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/devops-performance&quot;&gt;DevOps + Performance&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/beginner&quot;&gt;Beginner&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/vegantriathlete&quot; class=&quot;user user-639 entityreference&quot;&gt;vegantriathlete&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 10 Sep 2015 19:55:49 +0000</pubDate>
+ <dc:creator>vegantriathlete</dc:creator>
+ <guid isPermaLink="false">215 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Next Level Git</title>
+ <link>http://badcamp-2015.kbox/session/next-level-git</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Slides now available at: &lt;a href=&quot;http://eosrei.github.io/talk-git2/&quot;&gt;http://eosrei.github.io/talk-git2/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;As a Drupal developer it is often easy to use Git for years without going much deeper than `git push` `git pull` and `git commit`.&lt;/p&gt;
+&lt;p&gt;By using Git purely on this superficial level you are missing out on a lot of what makes Git such a powerful tool.&lt;/p&gt;
+&lt;p&gt;In this presentation we will focus on those tricky powerful bits of Git and advanced Git workflows that will enable you to be a more confident user of such a powerful tool.&lt;/p&gt;
+&lt;p&gt;Some topics to be covered:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Stashing, cherry-picking, and other surgical tools.&lt;/li&gt;
+&lt;li&gt;Rebasing, remotes, and advanced branch management strategies.&lt;/li&gt;
+&lt;li&gt;Learning more from git log and its cousins on your archeology expedition.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Working knowledge of Git from the command line.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;You must know the following Git commands and their usage:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;clone&lt;/li&gt;
+&lt;li&gt;add&lt;/li&gt;
+&lt;li&gt;commit&lt;/li&gt;
+&lt;li&gt;push&lt;/li&gt;
+&lt;li&gt;pull&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/devops-performance&quot;&gt;DevOps + Performance&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/intermediate&quot;&gt;Intermediate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/markferree&quot; class=&quot;user user-392 entityreference&quot;&gt;MarkFerree&lt;/a&gt;, &lt;a href=&quot;/users/eosrei&quot; class=&quot;user user-1094 entityreference&quot;&gt;eosrei&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-date-and-time field-type-datetime field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session date and time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Saturday, October 24, 2015 - 2:30pm&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-time-slot field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session time slot: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/time-slot/230pm-330pm&quot;&gt;2:30pm - 3:30pm&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session room: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/rooms/pauley-ballroom-east-usc-student-union-building-0&quot;&gt;Pauley Ballroom EAST - USC Student Union Building&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 10 Sep 2015 03:54:51 +0000</pubDate>
+ <dc:creator>MarkFerree</dc:creator>
+ <guid isPermaLink="false">213 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Make Sites 50% Faster with Performance-Based Drupal</title>
+ <link>http://badcamp-2015.kbox/session/make-sites-50-faster-performance-based-drupal</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;As the Support Manager for Kalamuna, I constantly get requests to “please make my Drupal Site faster.”  After many years of trial and error, I’ve discovered how to honor this request.&lt;/p&gt;
+&lt;ol dir=&quot;ltr&quot;&gt;&lt;li&gt;I’ll show you how to use various modules such as AdvAgg, Speedy, Magic, etc.,&lt;/li&gt;
+&lt;li&gt;as well as config setups, proper caching techniques and scenarios.&lt;/li&gt;
+&lt;li&gt;I’ll also go over theming performance solutions such as Node / Grunt setups.&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;With these tweaks alone, I am certain your sites will become at least 50% faster. You will also become 50% happier.  &lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/devops-performance&quot;&gt;DevOps + Performance&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/beginner&quot;&gt;Beginner&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/labboy0276&quot; class=&quot;user user-142 entityreference&quot;&gt;labboy0276&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 07 Sep 2015 15:01:43 +0000</pubDate>
+ <dc:creator>labboy0276</dc:creator>
+ <guid isPermaLink="false">203 at http://badcamp-2015.kbox</guid>
+</item>
+</channel>
+</rss>

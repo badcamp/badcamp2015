@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://badcamp-2015.kbox"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>BADCamp 2015 - Bay Area Drupal Camp - Intermediate</title>
+ <link>http://badcamp-2015.kbox/skill-level/intermediate</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>The Official Unofficial Front End Summit</title>
+ <link>http://badcamp-2015.kbox/session/official-unofficial-front-end-summit</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt; &lt;/p&gt;
+&lt;h2&gt;&lt;img alt=&quot;&quot; src=&quot;https://media.giphy.com/media/3oEduIB9MSLz1DNY08/giphy.gif&quot; /&gt;&lt;br /&gt;&lt;strong&gt;Front Enders Unite!&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Come join us in the Pauley Atrium for a morning of sharing, discussion and otherwise general Front End Solidarity. All skill levels are welcome!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(Note: we&#039;ll hang out for as long as people want to stick around and talk. Definitely at least an hour or more.)&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/design-theme-ux&quot;&gt;Design, Theme + UX&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/intermediate&quot;&gt;Intermediate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/snugug&quot; class=&quot;user user-822 entityreference&quot;&gt;Snugug&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-date-and-time field-type-datetime field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session date and time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Sunday, October 25, 2015 - 10:00am&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-time-slot field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session time slot: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/time-slot/1000am-1100am&quot;&gt;10:00am - 11:00am&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session room: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/rooms/pauley-ballroom-west-usc-student-union-building&quot;&gt;Pauley Ballroom WEST - USC Student Union Building&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 23 Oct 2015 19:14:00 +0000</pubDate>
+ <dc:creator>eatings</dc:creator>
+ <guid isPermaLink="false">371 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Data Driven Conversion Optimization for Drupal </title>
+ <link>http://badcamp-2015.kbox/session/data-driven-conversion-optimization-drupal</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;In digital marketing, conversion rate optimization (CRO) is a process for increasing site conversions using behavioural data to understand which experiences help drive your desired outcomes. Learn to evaluate how well your business goals align with your user’s, and how to identify opportunities for improvements with tools your probably already have access to! &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;In this session, learn how to use existing tools in Drupal to:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt; Create a solid infrastructure to collect and distribute data&lt;/li&gt;
+&lt;li&gt; Obtain the right kind of data to analyze &lt;/li&gt;
+&lt;li&gt; Understand the performance of your site from a users point of view&lt;/li&gt;
+&lt;li&gt; Make better informed decisions with respect to your online business strategy&lt;/li&gt;
+&lt;li&gt; Take actions to improve your conversion rate&lt;/li&gt;
+&lt;li&gt; Connect with your target audience&lt;/li&gt;
+&lt;li&gt; Provide a consistent Multi Channel Engagement &lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Use data to answer your burning questions!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;What if I already have good SEO?&lt;/p&gt;
+&lt;p&gt;“For every $100 spent on driving traffic to websites, companies spend only $1 converting that traffic into business.” &lt;/p&gt;
+&lt;p&gt;~ Source: Forrester Research&lt;br /&gt;
+ &lt;/p&gt;
+&lt;p&gt;Can landing pages help users convert?&lt;/p&gt;
+&lt;p&gt;Companies with over 40 landing pages generate an average of 12 times more leads than those with 5 or fewer pages. &lt;/p&gt;
+&lt;p&gt;~ Source: HubSpot&lt;br /&gt;
+ &lt;/p&gt;
+&lt;p&gt;Unsure what to test? &lt;/p&gt;
+&lt;p&gt;82% of marketers say knowing how to test effectively is “somewhat” or “very” challenging &lt;/p&gt;
+&lt;p&gt;~ Source: Adobe &lt;br /&gt;
+ &lt;/p&gt;
+&lt;p&gt;Unsure what your data means? &lt;/p&gt;
+&lt;p&gt;42% Marketers who say interpreting results is the biggest challenge in conversion optimization&lt;br /&gt;
+~ Source: MarketingSherpa&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Which channel is the most important?  &lt;/p&gt;
+&lt;p&gt;83% Worldwide retailers that ranked a consistent cross-channel customer experience as “very important”&lt;br /&gt;
+~ Source: Retail Systems Research&lt;br /&gt;
+ &lt;/p&gt;
+&lt;p&gt;55% Companies that have a mobile-optimized website, mobile app, or both &lt;/p&gt;
+&lt;p&gt;~ Source: Adobe&lt;br /&gt;
+ &lt;/p&gt;
+&lt;p&gt;How do I sell this to my boss/client? &lt;/p&gt;
+&lt;p&gt;85% Search marketers who plan to focus more on conversion optimization in the next year&lt;br /&gt;
+~ Source: Hanapin Marketing (2014)&lt;br /&gt;
+ &lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/design-theme-ux&quot;&gt;Design, Theme + UX&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/intermediate&quot;&gt;Intermediate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/annabella&quot; class=&quot;user user-17 entityreference&quot;&gt;Annabella&lt;/a&gt;, &lt;a href=&quot;/users/vcreatrix&quot; class=&quot;user user-1101 entityreference&quot;&gt;vcreatrix&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 28 Sep 2015 19:36:49 +0000</pubDate>
+ <dc:creator>Annabella</dc:creator>
+ <guid isPermaLink="false">347 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Using the Javascript Module Pattern, and more modern JS practices, with Drupal</title>
+ <link>http://badcamp-2015.kbox/session/using-javascript-module-pattern-and-more-modern-js-practices-drupal</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;The JavaScript Module pattern uses immediately-invoked functional expressions (IIFE) that return objects, that include closures. This provides a way of wrapping various public and private methods and variables in a &quot;module&quot;. This prevents them from &quot;leaking&quot; into the global name scope and cluttering it up or worse, colliding with other code. With this pattern only a public &quot;API&quot; is returned, while maintaining privacy on everything else. Additionally, I&#039;ll discuss how to split up and organize your js files for maintainability and reuse.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;the advantages of using the JavaScript Module Pattern for better, cleaner code&lt;/li&gt;
+&lt;li&gt;practical implementation using Grunt, grunt-contrib-concat or Bower &amp;amp; grunt-bower-concat&lt;/li&gt;
+&lt;li&gt;using it with Drupal.behaviors, jsHint, jQuery, etc.&lt;/li&gt;
+&lt;li&gt;how-to&#039;s with introduction to sub-patterns like: Module Export, Public and Private, Global Import, Loose Augmentation, etc.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;I originally gave&lt;a href=&quot;https://2015.drupalcampla.com/sessions/using-javascript-module-pattern-and-more-modern-js-practices&quot;&gt; this talk at LA Drupal Camp 8/2015&lt;/a&gt;  (slides will be updated based on feedback, plus more D8).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://toddzebert.github.io/js-module-pattern-drupal&quot;&gt;BADcamp15 slides&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/coding-development&quot;&gt;Coding + Development&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/intermediate&quot;&gt;Intermediate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/toddzebert&quot; class=&quot;user user-225 entityreference&quot;&gt;ToddZebert&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-date-and-time field-type-datetime field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session date and time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Sunday, October 25, 2015 - 1:30pm&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-time-slot field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session time slot: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/time-slot/130pm-230pm&quot;&gt;1:30pm - 2:30pm&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session room: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/rooms/hearst-annex-a1&quot;&gt;Hearst Annex A1&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 28 Sep 2015 15:40:25 +0000</pubDate>
+ <dc:creator>ToddZebert</dc:creator>
+ <guid isPermaLink="false">346 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Single Sign On SimplesamlPHP</title>
+ <link>http://badcamp-2015.kbox/session/single-sign-simplesamlphp</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;At our company (TaxAnalysts), we implemented Drupal 7 as their new web platform. We implemented and customize many cool new features like &lt;a href=&quot;http://www.meetup.com/SFDUG-San-Francisco-Drupal-Users-group/events/219672674/&quot;&gt;elasticseach&lt;/a&gt;, mailchimp, mandrill and many others. Our company required SSO implementation, based on this requierement we used &lt;a href=&quot;https://www.drupal.org/project/simplesamlphp_auth&quot;&gt;simplesamlphp&lt;/a&gt;  as our codebase, however, we had to refactor the module to accept more than one idP and provide seemesly deep linking integration; we are sharing the code via &lt;a href=&quot;https://github.com/AngelAlvarado/multiple_idp_simplesamlphp&quot; rel=&quot;nofollow&quot;&gt;github&lt;/a&gt; and are trying to &lt;a href=&quot;https://www.drupal.org/node/2573451&quot;&gt;contribute it back&lt;/a&gt;. This session will be about SSO:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;What SSO/SAML 2.0/IDP are.&lt;/li&gt;
+&lt;li&gt;How to set up a Service Provider.&lt;/li&gt;
+&lt;li&gt;How to set up an IDP.&lt;/li&gt;
+&lt;li&gt;How to integrate the Service Provider and IDP with Drupal.&lt;/li&gt;
+&lt;li&gt;Walkthrough of the refactored Drupal &lt;a href=&quot;https://github.com/AngelAlvarado/multiple_idp_simplesamlphp&quot; rel=&quot;nofollow&quot;&gt;s&lt;/a&gt;&lt;a href=&quot;http://github.com/AngelAlvarado/multiple_idp_simplesamlphp&quot;&gt;implesamlp&lt;/a&gt; module.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/coding-development&quot;&gt;Coding + Development&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/intermediate&quot;&gt;Intermediate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/angelangelio&quot; class=&quot;user user-683 entityreference&quot;&gt;angel.angelio&lt;/a&gt;, &lt;a href=&quot;/users/pablotapia&quot; class=&quot;user user-720 entityreference&quot;&gt;pablo.tapia&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 26 Sep 2015 15:10:11 +0000</pubDate>
+ <dc:creator>angel.angelio</dc:creator>
+ <guid isPermaLink="false">343 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>What&#039;s your plan when DAILY BACKUPS AREN&#039;T ENOUGH?!</title>
+ <link>http://badcamp-2015.kbox/session/whats-your-plan-when-daily-backups-arent-enough</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;You just got hacked.  You just wiped your main database on accident.  You pushed that one button you weren&#039;t supposed to push in the adminstrative interface.  Your hosting server suffered an outage.  Whatever it is, the time has come to invoke emergency protocols, and you need to restore your website from the backups.  Unfortunately, you are most likely only on daily backups and as a result have lost over 24 hours of data.  No biggy if you only have 1 user.  But what if you have hundreds or even thousands of active users in that 24 hour period.  Then what?  And what if each one of those users are paying customers?  What are you going to do? &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You can&#039;t afford to just have daily backups.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you&#039;ve never been in this situation and had to deal with this, you want to come to this session.  In this talk we&#039;ll cover the following&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;strategies to recover as much data as possible with the variety of logs&lt;/li&gt;
+&lt;li&gt;parsing of specific logs for data recovery&lt;/li&gt;
+&lt;li&gt;best configuration practices&lt;/li&gt;
+&lt;li&gt;preventitive measures to avoid not having daily backups&lt;/li&gt;
+&lt;li&gt;analysis of different hosting providers (i.e. Pantheon, Acquia, etc)&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/devops-performance&quot;&gt;DevOps + Performance&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/intermediate&quot;&gt;Intermediate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/jamesmcb&quot; class=&quot;user user-149 entityreference&quot;&gt;jamesmcb&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 26 Sep 2015 05:18:35 +0000</pubDate>
+ <dc:creator>jamesmcb</dc:creator>
+ <guid isPermaLink="false">337 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Prototyping excellence: a Design+Content-first approach to websites</title>
+ <link>http://badcamp-2015.kbox/session/prototyping-excellence-designcontent-first-approach-websites</link>
+ <description>&lt;div class=&quot;field field-name-field-youtube field-type-youtube field-label-hidden field-wrapper&quot;&gt;&lt;iframe id=&quot;youtube-field-player&quot; class=&quot;youtube-field-player&quot;
+    width=&quot;420&quot; height=&quot;315&quot;
+    src=&quot;https://www.youtube.com/embed/F2t03HAKuok?modestbranding=1&amp;wmode=opaque&quot; title=&quot;Embedded video for Prototyping excellence: a Design+Content-first approach to websites&quot; frameborder=&quot;0&quot;
+    allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://nyccamp.org/sites/default/files/images/sessions/Kalastatic_1.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Prototype clean, beautiful sites that users enjoy and clients can easily collaborate on and understand. We’ll introduce &lt;a href=&quot;https://github.com/kalamuna/kalastatic&quot;&gt;kalastatic&lt;/a&gt;, the open-source Kalamuna prototyping tool that co-exists with Drupal themes, Wordpress, and stand-alone sites, and consumes JSON from Drupal 7, 8 or other services. &lt;/p&gt;
+&lt;p&gt;A solid prototyping framework should put in practice &lt;a href=&quot;http://bradfrost.com/blog/post/atomic-web-design&quot;&gt;atomic web design&lt;/a&gt; principles to produce a &lt;a href=&quot;http://www.webdesignerdepot.com/2014/09/how-to-make-your-code-easily-maintainable-with-living-style-guides&quot;&gt;living styleguide&lt;/a&gt; to guide back-end implementations in a framework agnostic approach. It should serve as a point of convergence between front-end development, back-end development, and content strategy.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BENEFITS TO THIS APPROACH&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;Enable designers and front-end developers to focus on their craft instead of struggling with poorly documented CMS APIs and configurations.&lt;br /&gt;
+	 &lt;/li&gt;
+&lt;li&gt;Drive design thinking early in the project lifecycle by giving clients something they can see and understand.&lt;br /&gt;
+	 &lt;/li&gt;
+&lt;li&gt;Provide a litmus test against style regressions during development by using the prototype as a living style guide.&lt;br /&gt;
+	 &lt;/li&gt;
+&lt;li&gt;Accelerate development by using a workspace for front-to-back and back-to-front collaboration.&lt;br /&gt;
+	 &lt;/li&gt;
+&lt;li&gt;Craft small sites with fun and fury, not tedium and infinite clicks.&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/design-theme-ux&quot;&gt;Design, Theme + UX&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/intermediate&quot;&gt;Intermediate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/andrewmallis&quot; class=&quot;user user-25 entityreference&quot;&gt;Andrew_Mallis&lt;/a&gt;, &lt;a href=&quot;/users/robloach&quot; class=&quot;user user-958 entityreference&quot;&gt;RobLoach&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-date-and-time field-type-datetime field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session date and time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Saturday, October 24, 2015 - 4:30pm&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-time-slot field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session time slot: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/time-slot/430pm-500pm&quot;&gt;4:30pm - 5:00pm&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session room: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/rooms/stephens-lounge-usc-student-union-building-0&quot;&gt;Stephens Lounge - USC Student Union Building&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-files field-type-file field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session files:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://badcamp-2015.kbox/sites/default/files/session-files/kalastatic%E2%80%93badcamp2015.pdf&quot; type=&quot;application/pdf; length=3419453&quot;&gt;kalastatic–badcamp2015.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 26 Sep 2015 02:28:26 +0000</pubDate>
+ <dc:creator>Andrew_Mallis</dc:creator>
+ <guid isPermaLink="false">336 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Disposable Designs</title>
+ <link>http://badcamp-2015.kbox/session/disposable-designs</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Designs carefully crafted to impress the client can leave developers struggling to understand the underlying structure. How can we avoid making throwaway deliverables?&lt;/p&gt;
+&lt;p&gt;After (hopefully) having doing site audits, content strategy and a functional spec the foundations are laid for a solid website plan. These plans don&#039;t make great or convincing client deliverables, so designers need to make high fidelity previews to get their ideas across. This can range from glossy photoshop comps to mock sites using Reflow, Macaw or UXPin.&lt;/p&gt;
+&lt;p&gt;These tools can produce beautiful, compelling work, but it&#039;s work that doesn&#039;t get us closer to having a working Drupal site. Animated gif interactions, clickable wireframes- no matter how interesting- these are disposable creations that will never be seen by the end-user and have no intrinsic value to ...anyone.&lt;/p&gt;
+&lt;p&gt;Drupal is a content framework, a template based system that changes with whatever a user fills it with. Responsive design doesn&#039;t just mean fitting the viewport, it means adapting to more or less text, many or few pages, extra blocks or missing pieces. Designing statically for these possibilities is impossible.&lt;/p&gt;
+&lt;p&gt;This session will cover practical examples of how to design systems using common components, creating reusable patterns and usable assets that can be applied directly in a Drupal project.&lt;/p&gt;
+&lt;ol&gt;&lt;li&gt;How can Designers avoid duplicating work?&lt;/li&gt;
+&lt;li&gt;What kind of processes can be shared across Design and Development?&lt;/li&gt;
+&lt;li&gt;How does designing the smallest components help answer the big design questions?&lt;/li&gt;
+&lt;/ol&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/design-theme-ux&quot;&gt;Design, Theme + UX&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/intermediate&quot;&gt;Intermediate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/zrpnr&quot; class=&quot;user user-1134 entityreference&quot;&gt;zrpnr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 26 Sep 2015 00:43:04 +0000</pubDate>
+ <dc:creator>zrpnr</dc:creator>
+ <guid isPermaLink="false">335 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Configuration Collaboration</title>
+ <link>http://badcamp-2015.kbox/session/configuration-collaboration</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;The Drupal community is great at collaborating on code; we&#039;re not so great at collaborating on configration. We&#039;ve struggled with both the tools and the community processes necessary to work together on configuration as effectively as we work on code. Drupal 8 gives us a solid configuration management platform on which we can build better collaboration tools. With a common configuration API in both PHP and YAML, we now have a shared vocabulary for configuration.&lt;/p&gt;
+&lt;p&gt;Now we need to build better collaboration tools and also adjust our community process.&lt;/p&gt;
+&lt;p&gt;This session will explore the history and future of configuration collaboration in Drupal, as well as some lessons from other communities. We&#039;ll explore what works, what doesn&#039;t, and why. And we&#039;ll demonstrate some new tools and approaches already emerging as Drupal 8 opens new doors.&lt;/p&gt;
+&lt;p&gt;You&#039;ll leave excited about the future of configuration in the Drupal community, and maybe even more excited about what you can already do today, even in Drupal 7.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/coding-development&quot;&gt;Coding + Development&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/intermediate&quot;&gt;Intermediate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/sreynen&quot; class=&quot;user user-68 entityreference&quot;&gt;sreynen&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 25 Sep 2015 22:42:41 +0000</pubDate>
+ <dc:creator>sreynen</dc:creator>
+ <guid isPermaLink="false">330 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Git, beyond the basics</title>
+ <link>http://badcamp-2015.kbox/session/git-beyond-basics</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;You&#039;ve been storing your development work in git version control as long as you can remember, but have you learned more than the basics? Time to learn about rebasing commits, using feature branches, and creating pull requests. It&#039;s all coming to Drupal.org and is already supported by many SaaS hosting environments. Learn how and why to not commit to master, why you almost never want to use &quot;git pull&quot;, and how to avoid those terrible messy merge commit conflicts.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Note to whoever decides: MarkFerree and I both separately created Sessions for this subject. We&#039;d like to co-present rather than have competing Sessions. &lt;a href=&quot;https://2015.badcamp.net/session/next-level-git&quot;&gt;https://2015.badcamp.net/session/next-level-git&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/coding-development&quot;&gt;Coding + Development&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/intermediate&quot;&gt;Intermediate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/eosrei&quot; class=&quot;user user-1094 entityreference&quot;&gt;eosrei&lt;/a&gt;, &lt;a href=&quot;/users/markferree&quot; class=&quot;user user-392 entityreference&quot;&gt;MarkFerree&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 25 Sep 2015 21:04:55 +0000</pubDate>
+ <dc:creator>eosrei</dc:creator>
+ <guid isPermaLink="false">328 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>HHVM: Upgrading PHP for Fun and Performance</title>
+ <link>http://badcamp-2015.kbox/session/hhvm-upgrading-php-fun-and-performance</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;HHVM is a drop-in replacement for the PHP runtime, initially built by Facebook but now sporting a wide community of contributors as an open-source project. HHVM greatly improves performance and scalability and introduces the possibility of new code features to PHP. Written in C++, HHVM uses a just-in-time compiler to optimize the performance of normal PHP code -- leading to performance gains of anywhere from 50-75% in concurrent requests per second. In addition, HHVM enables the use of a new dialect of PHP named Hack, which includes many new language features including static typing, generics, asynchronous I/O, and more. Come learn:&lt;/p&gt;
+&lt;p&gt;- How HHVM works and how to get it operational on your own environments&lt;br /&gt;
+- How does HHVM stack up against PHP 5 and PHP 7, particularly when running Drupal sites&lt;br /&gt;
+- What&#039;s under the hood: How HHVM is so fast and who is it best for&lt;br /&gt;
+- Hack: Language features that HHVM adds to PHP for expanded developer productivity&lt;br /&gt;
+- Totally rad new stuff: Upgraded Drupal systems in Hack!!&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/coding-development&quot;&gt;Coding + Development&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/intermediate&quot;&gt;Intermediate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/kazanir&quot; class=&quot;user user-406 entityreference&quot;&gt;Kazanir&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 25 Sep 2015 20:41:57 +0000</pubDate>
+ <dc:creator>Kazanir</dc:creator>
+ <guid isPermaLink="false">327 at http://badcamp-2015.kbox</guid>
+</item>
+</channel>
+</rss>

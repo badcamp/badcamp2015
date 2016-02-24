@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://badcamp-2015.kbox"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>BADCamp 2015 - Bay Area Drupal Camp - Advanced</title>
+ <link>http://badcamp-2015.kbox/skill-level/advanced</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>The Perfect Theme</title>
+ <link>http://badcamp-2015.kbox/session/perfect-theme</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Drupal&#039;s decentralized nature tends to conflict with what we want as front end developers- a single code base for controlling the UI style and script assets (managed in code rather than db and doesn&#039;t require a dozen modules to accomplish adding simple features).&lt;/p&gt;
+&lt;p&gt;A look at lessons learned building the &lt;a href=&quot;https://github.com/ablank/Cellular&quot;&gt;Cellular &lt;/a&gt;base theme, which provides a central repo for all the UI in Drupal 7, with a focus on using theme functions to manage assets and build a performance optimized theme with the help of grunt &amp;amp; sass.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Slides: &lt;a href=&quot;http://dev-cellular.gotpantheon.com/reveal&quot;&gt;http://dev-cellular.gotpantheon.com/reveal&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/design-theme-ux&quot;&gt;Design, Theme + UX&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/advanced&quot;&gt;Advanced&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/adambear&quot; class=&quot;user user-378 entityreference&quot;&gt;adam_bear&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 27 Sep 2015 21:04:40 +0000</pubDate>
+ <dc:creator>adam_bear</dc:creator>
+ <guid isPermaLink="false">344 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Ionic &amp; Angular to make the Pantheon and other Headless Drupal Mobile Apps</title>
+ <link>http://badcamp-2015.kbox/session/ionic-angular-make-pantheon-and-other-headless-drupal-mobile-apps</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Ionic &amp;amp; Angluar are javascript libraries that work with PhoneGap/Cordova to create really fast mobile apps that are compatible both with iOS, Android, and Windows.  I recently built an Ionic/Angluar mobile app to interact with Pantheon development servers that I&#039;ll be using to demonstrate throughout this session.  In this session you can expect:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;an understanding of what Ionic, Angular, and PhoneGap do and how they compare to native moible development&lt;/li&gt;
+&lt;li&gt;an quickstart guide to the development workflows of Ionic, Angluar and PhoneGap&lt;/li&gt;
+&lt;li&gt;a guide to how mobile app development fits in the Drupal ecosystem&lt;/li&gt;
+&lt;li&gt;a deep dive into the Pantheon Mobile App&#039;s Angluar and Ionic code &lt;/li&gt;
+&lt;li&gt;an understanding of how to interact with the Pantheon API&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Afterwords, you&#039;ll probably be so psyched that you&#039;ll create your own mobile app in the session following this one!&lt;/p&gt;
+&lt;p&gt;The Pantheon Mobile App is here&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/pantheon-red-button-deployment/id1038796130?mt=8&quot;&gt;https://itunes.apple.com/us/app/pantheon-red-button-deployment/id1038796...&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.ourvolts.redbutton&amp;amp;hl=en&quot;&gt;https://play.google.com/store/apps/details?id=com.ourvolts.redbutton&amp;amp;hl=en&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/coding-development&quot;&gt;Coding + Development&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/advanced&quot;&gt;Advanced&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/jamesmcb&quot; class=&quot;user user-149 entityreference&quot;&gt;jamesmcb&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 26 Sep 2015 05:33:57 +0000</pubDate>
+ <dc:creator>jamesmcb</dc:creator>
+ <guid isPermaLink="false">338 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Static site migrations: Using Guzzle to scrape an HTML site and prepare it for Migrate</title>
+ <link>http://badcamp-2015.kbox/session/static-site-migrations-using-guzzle-scrape-html-site-and-prepare-it-migrate</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;The Drupal Migrate module makes moving into Drupal from another database backed system as easy as it can be.  But what if the site you&#039;re coming from doesn&#039;t have a database, or doesn&#039;t provide access to the database?  In this session, we&#039;ll walk through building a static site crawler to scrape structured data off of an existing site and put it into a database for processing with the Migrate module.  The tools I&#039;ll be focusing on are:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Guzzle&lt;/strong&gt; - A powerful HTTP Client for PHP that lets us batch requests and deal with all kinds of unexpected responses that may happen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DomCrawler/CSSSelector &lt;/strong&gt;- Symfony libraries specifically aimed at parsing and manipulating HTML responses using simple CSS selectors.  &lt;/p&gt;
+&lt;p&gt;Silex - A microframework that&#039;s perfect for building your crawler and handling all the details (logging, CLI, database connections, etc). &lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/coding-development&quot;&gt;Coding + Development&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/advanced&quot;&gt;Advanced&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/rbayliss&quot; class=&quot;user user-696 entityreference&quot;&gt;rbayliss&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 24 Sep 2015 17:32:16 +0000</pubDate>
+ <dc:creator>rbayliss</dc:creator>
+ <guid isPermaLink="false">310 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Introduction to Headless Drupal</title>
+ <link>http://badcamp-2015.kbox/training/introduction-headless-drupal</link>
+ <description>&lt;div class=&quot;field field-name-field-training-date-time field-type-datetime field-label-above field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Date and Time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Thursday, October 22, 2015 - &lt;div class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;9:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;5:00pm&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;body field&quot;&gt;&lt;h2&gt;Trainers: Matt Grill and Patrick Coffey from Four Kitchens&lt;/h2&gt;
+&lt;h3&gt;Course Description&lt;/h3&gt;
+&lt;p&gt;Do you want to manage content in Drupal but use something else to deliver it to your users? This is the class for you.&lt;/p&gt;
+&lt;p&gt;We know Drupal is an amazing platform for making websites. But did you know it’s also a world-class content API that can easily be integrated with a other technologies? In this class you’ll learn how to combine Drupal with Node.js, a popular technology for building highly interactive websites, to build rich digital experiences.&lt;/p&gt;
+&lt;p&gt;You will write code all day! By the end, you&#039;ll have written your first Node.js application(s) and have integrated Node.js&#039;s real-time wizardry into Drupal&#039;s content management magic.&lt;/p&gt;
+&lt;h3&gt;Learning Objectives&lt;/h3&gt;
+&lt;p&gt;The Four Kitchens Web Chefs will show you how to:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Strategies for success when using Drupal as a content API&lt;/li&gt;
+&lt;li&gt;Write code that reads and writes data to and from your Drupal site&lt;/li&gt;
+&lt;li&gt;Write custom API endpoints in Drupal to connect to your realtime application&lt;/li&gt;
+&lt;li&gt;Gain experience with the popular Node.js framework: Express&lt;/li&gt;
+&lt;li&gt;Know what Node.js is good at and when a different tool is better&lt;/li&gt;
+&lt;li&gt;Understand how to use NPM node&#039;s world class package manager&lt;/li&gt;
+&lt;li&gt;Write non-blocking asynchronous code and how to spot it&#039;s evil twin: synchronous blocking code&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Why Node.js&lt;/h3&gt;
+&lt;p&gt;Node.js is a power tool for writing fast, real time applications. At Four Kitchens we&#039;ve used it for:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Creating a responsive web game that mimics the experience of playing with magnetic poetry on the web, Drupal Poetry&lt;/li&gt;
+&lt;li&gt;Providing a feed ingestion and processing application that processed over 300 feeds per minute and broadcasting them out to hundreds of subscribed sites.&lt;/li&gt;
+&lt;li&gt;Providing real time commenting for live video events on a Drupal site. Building a rich dynamic site for NBC’s The Tonight Show starring Jimmy Fallon.&lt;/li&gt;
+&lt;li&gt;Helping large media clients build a performant and extensible solution for their public facing publication.&lt;/li&gt;
+&lt;li&gt;The patterns we establish when integrating Node.js can easily be adapted to integrating - Drupal with other technologies such as Ruby, iOS, or Android.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;What will you receive during the course?&lt;/h3&gt;
+&lt;p&gt;Each attendee will have access to their own development environment that includes all necessary assets and content to jump into the hands-on exercises. The environment will stay up for 30 days after the training. We will post all links and resources on our website, create a mailing list for follow-up questions, and create a Google Doc to collaborative ask questions and share markup during (and after) the training.&lt;/p&gt;
+&lt;h3&gt;Syllabus&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Intro to Headless Drupal
+&lt;ul&gt;&lt;li&gt;When to go Headless (Lecture)&lt;/li&gt;
+&lt;li&gt;Architecture Patterns (Lecture)&lt;/li&gt;
+&lt;li&gt;Real world Examples (Lecture)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;What exactly is a REST API?
+&lt;ul&gt;&lt;li&gt;REST&lt;/li&gt;
+&lt;li&gt;HTTP Methods (Verbs)&lt;/li&gt;
+&lt;li&gt;HTTP Status Codes&lt;/li&gt;
+&lt;li&gt;Media Type&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;API Tools
+&lt;ul&gt;&lt;li&gt;Chrome Extensions&lt;/li&gt;
+&lt;li&gt;Command line tools&lt;/li&gt;
+&lt;li&gt;Online tools&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Drupal Services
+&lt;ul&gt;&lt;li&gt;Module Options&lt;/li&gt;
+&lt;li&gt;Install &amp;amp; configure RESTful&lt;/li&gt;
+&lt;li&gt;Create Endpoints&lt;/li&gt;
+&lt;li&gt;Hypermedia API Design in practice&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;API Best Practices&lt;/li&gt;
+&lt;li&gt;Lunch&lt;/li&gt;
+&lt;li&gt;Intro to Node.JS
+&lt;ul&gt;&lt;li&gt;What is Node.JS&lt;/li&gt;
+&lt;li&gt;Events, Threads and Concurrency&lt;/li&gt;
+&lt;li&gt;Why not Drupal and HHVM?&lt;/li&gt;
+&lt;li&gt;Why Node?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Intro to Express.JS
+&lt;ul&gt;&lt;li&gt;What is Express.JS?&lt;/li&gt;
+&lt;li&gt;What is NPM?&lt;/li&gt;
+&lt;li&gt;Your first Express Application&lt;/li&gt;
+&lt;li&gt;Templates with Dust.JS&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Caching Drupal Content in Node.JS
+&lt;ul&gt;&lt;li&gt;Introduction to Redis&lt;/li&gt;
+&lt;li&gt;Cache concepts&lt;/li&gt;
+&lt;li&gt;Cache Drupal content&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Reference implementation introduction
+&lt;ul&gt;&lt;li&gt;What is SAUCIER?&lt;/li&gt;
+&lt;li&gt;Routing&lt;/li&gt;
+&lt;li&gt;Rendering&lt;/li&gt;
+&lt;li&gt;Caching&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Headless A-ha&#039;s&lt;/li&gt;
+&lt;li&gt;Strategies for User Generated Content&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Who will gain the most from this course?&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Drupal Developers who want to learn how to use Drupal as their CMS and an other technology to get that content to their users. In our case that technology will be Node.js.&lt;/li&gt;
+&lt;li&gt;Drupal Developers who are ready to learn a new style of server side programing. If writing javascript code makes you cry this course might make it your new favorite language.&lt;/li&gt;
+&lt;li&gt;Drupal developers who want to better understand how to bring asynchronous functionality to their sites. This class is a beginner intro to Node.js, and is not appropriate for developers who use Node.js on a regular basis.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Prerequisites for this course&lt;/h3&gt;
+&lt;p&gt;Laptop with SFTP, SSH software and a text editor installed. Any local operating system is fine, but our trainers don&#039;t have experience debugging Windows connectivity problems.&lt;/p&gt;
+&lt;p&gt;For Drupal&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Comfortable writing PHP to use Drupal hooks and have written a custom module.&lt;/li&gt;
+&lt;li&gt;Working knowledge of the services module is helpful, and a great thing to try beforehand. :-)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;For Node.js&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Basic knowledge of JavaScript&lt;/li&gt;
+&lt;li&gt;Knowledge of JavaScript Object Oriented Patterns.&lt;/li&gt;
+&lt;li&gt;Experience with AJAX patterns helpful&lt;/li&gt;
+&lt;li&gt;Have written applications in JavaScript and/or a C-style Object Oriented programmer comfortable with learning a new language.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;http://fourkitchens.com/&quot;&gt;&lt;img alt=&quot;Four Kitchens&quot; src=&quot;https://2015.badcamp.net/sites/default/files/styles/medium/public/sponsor-logos/4K-lockup-large.png?itok=B1byozxi&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-skill-level field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Skill level: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Advanced&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-location field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Location: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;UCB Student Union Building&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-room field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Room: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Stephens Lounge - USC Student Union Building&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div id=&quot;registrations-remaining&quot;&gt;&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Registrations Remaining: &lt;/label&gt;
+ None. Training is full.
+&lt;/div&gt;
+&lt;/div&gt;&lt;div id=&quot;register-status&quot;&gt;You are NOT registered for this training.&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 22 Sep 2015 23:03:53 +0000</pubDate>
+ <dc:creator>Lindsay Gaudinier</dc:creator>
+ <guid isPermaLink="false">282 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Integrating remote data into Drupal &amp; exposing it to Views</title>
+ <link>http://badcamp-2015.kbox/session/integrating-remote-data-drupal-exposing-it-views</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Drupal&#039;s strength as a content management framework is in its ability to effectively manage and display structured content through its Web user interface. However, the out-of-the-box system assumes all data is local (stored in the database). This can present challenges when attempting to integrate remote data stored in other systems. You cannot, by default, display non-local records as pages. While setting this up is in itself a challenge, it is an even bigger challenge to manipulate, aggregate and display this data through &lt;a href=&quot;https://www.drupal.org/project/views&quot;&gt;Views&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This exposition is a follow-up to some excellent articles from years past:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Larry Garfield&#039;s &lt;a href=&quot;http://www.palantir.net/blog/remote-data-drupal-museums-and-web-2009&quot;&gt;Remote Data in Drupal: Museums and the Web (2009)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Florian Loretan&#039;s &lt;a href=&quot;http://www.wunderkraut.com/blog/remote-entities-in-drupal-7/2012-10-25&quot;&gt;Remote entities in Drupal 7 (2012)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;I&#039;ll discuss the history, explain where we are now, and then go through the process of setting everything up with the &lt;a href=&quot;https://www.drupal.org/project/remote_entity&quot;&gt;Remote Entity API&lt;/a&gt; and &lt;a href=&quot;https://www.drupal.org/project/efq_views&quot;&gt;EntityFieldQuery Views Backend&lt;/a&gt; via examples and explanations. I&#039;m also planning on leaving some time for discussion on alternative strategies and future plans, like how we can do this sort of thing in Drupal 8.&lt;/p&gt;
+&lt;p&gt;Here&#039;s a high-level overview:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Introduction&lt;/li&gt;
+&lt;li&gt;What&#039;s Changed&lt;/li&gt;
+&lt;li&gt;Architecture
+&lt;ul&gt;&lt;li&gt;Remote entity definition&lt;/li&gt;
+&lt;li&gt;Access to remote properties&lt;/li&gt;
+&lt;li&gt;Remote property definition&lt;/li&gt;
+&lt;li&gt;Entity instances as Web pages&lt;/li&gt;
+&lt;li&gt;Web services integration&lt;/li&gt;
+&lt;li&gt;Temporary local storage&lt;/li&gt;
+&lt;li&gt;Implementing the remote connection class
+&lt;ul&gt;&lt;li&gt;ClientsRemoteEntityInterface implementations&lt;/li&gt;
+&lt;li&gt;Parent overrides&lt;/li&gt;
+&lt;li&gt;Local methods&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Implementing the remote query class
+&lt;ul&gt;&lt;li&gt;Class variables and constructor&lt;/li&gt;
+&lt;li&gt;Setting conditions&lt;/li&gt;
+&lt;li&gt;Executing the remote query&lt;/li&gt;
+&lt;li&gt;Unmarshalling the response data and returning it&lt;/li&gt;
+&lt;li&gt;Error handling&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Views support
+&lt;ul&gt;&lt;li&gt;Basic set-up&lt;/li&gt;
+&lt;li&gt;Converting from an EntityFieldQuery&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Alternatives&lt;/li&gt;
+&lt;li&gt;Drupal 8&lt;/li&gt;
+&lt;li&gt;References&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/coding-development&quot;&gt;Coding + Development&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/advanced&quot;&gt;Advanced&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/colan&quot; class=&quot;user user-904 entityreference&quot;&gt;colan&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 22 Sep 2015 14:10:54 +0000</pubDate>
+ <dc:creator>colan</dc:creator>
+ <guid isPermaLink="false">274 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Limbering Drupal Up with Flexible Layouts, WYSIWYG Templates, &amp; More</title>
+ <link>http://badcamp-2015.kbox/session/limbering-drupal-flexible-layouts-wysiwyg-templates-more</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Drupal’s content editing experience is key for content administrators who use it to publish information daily. But many Drupal sites suffer from either too many content types, with too many restrictions on what content can do within them — or too few content types, with too much reliance on admins having an advanced knowledge of HTML and/or a developer they can contact when iffy formatting code breaks a page.&lt;/p&gt;
+&lt;p&gt;You can limber up your Drupal sites by embracing configuration that empowers your content administrators to change page layouts, embed retina-friendly images, use pre-configured content templates to drop sample content into WYSIWYGs, and pre-populate your CMS’s WYSIWYG options with elements from your style guide.&lt;/p&gt;
+&lt;p&gt;This session will cover:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Making your layouts flexible with Panels&lt;/li&gt;
+&lt;li&gt;Offering up retina-friendly images in WYSIWYGs, without hurting performance, by configuring the Breakpoint and Picture modules for use with embedded images&lt;/li&gt;
+&lt;li&gt;Making image placement easier for content admins by providing image layout templates that include left/right floating, sizing, and styled captions&lt;/li&gt;
+&lt;li&gt;Creating content templates that content admins can select to drop in pre-formatted text and styles — e.g. “Pullquote with Credit” or “Progress Callout with Date”&lt;/li&gt;
+&lt;li&gt;Plus more administrative modules for easier linking, content browsing, and bulk updates.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;We’ll also discuss our strategy on when to create fields and when to create WYSIWYG templates — with the goal of promoting design and UX consistency throughout your sites.&lt;/p&gt;
+&lt;p&gt;This session will be presented by Clay Marshall and Kat Kuhl, who have previously presented it at GovCon in Washington, DC. Previous slides can be seen at &lt;a href=&quot;http://agencychief.com/presentations/limbering-up-drupal&quot;&gt;http://agencychief.com/presentations/limbering-up-drupal&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/coding-development&quot;&gt;Coding + Development&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/advanced&quot;&gt;Advanced&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/webbykat&quot; class=&quot;user user-410 entityreference&quot;&gt;webbykat&lt;/a&gt;, &lt;a href=&quot;/users/cmarshall&quot; class=&quot;user user-768 entityreference&quot;&gt;cmarshall&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 16 Sep 2015 23:45:37 +0000</pubDate>
+ <dc:creator>webbykat</dc:creator>
+ <guid isPermaLink="false">235 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Introduction to GraphQL</title>
+ <link>http://badcamp-2015.kbox/session/introduction-graphql</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;GraphQL has been deemed everything from the death knell of RESTful architectures to the query language of the future. Created by Facebook to power its data fetching and &lt;a href=&quot;http://drupal.org/project/graphql&quot;&gt;coming to Drupal 8&lt;/a&gt; thanks to &lt;a href=&quot;http://drupal.org/u/fubhy&quot;&gt;Sebastian Siemssen&lt;/a&gt;, GraphQL portends a dizzying shift in not only how client-side applications request and receive data but also how payloads are interpreted and formatted on the server side. What exactly is GraphQL, and what distinguishes it from the rest (no pun intended)? What are the weaknesses of REST that GraphQL aims to resolve? What differentiates GraphQL from plain old JSON?&lt;/p&gt;
+&lt;p&gt;The most compelling features of GraphQL come from its graceful yet simple matching between the request&#039;s structure and the response&#039;s. This means that the client sends a query whose shape mirrors that of the returned data -- no need for multiple views for a single resource, and no under- or overfetching of data. What are the impacts of this on Drupal and the REST layer now in core? Perhaps more intriguingly, what is the future of decoupled (&quot;headless&quot;) Drupal in light of GraphQL?&lt;/p&gt;
+&lt;p&gt;This session will delve into the following subjects:&lt;/p&gt;
+&lt;ul dir=&quot;ltr&quot;&gt;&lt;li&gt;The origins of GraphQL at Facebook&lt;/li&gt;
+&lt;li&gt;Motivations for GraphQL&lt;/li&gt;
+&lt;li&gt;Limitations of RESTful APIs&lt;/li&gt;
+&lt;li&gt;GraphQL and REST&lt;/li&gt;
+&lt;li&gt;Shared structure across server and client&lt;/li&gt;
+&lt;li&gt;Syntactic features of GraphQL&lt;/li&gt;
+&lt;li&gt;Queries and mutations&lt;/li&gt;
+&lt;li&gt;Arguments and aliases&lt;/li&gt;
+&lt;li&gt;Variables and directives&lt;/li&gt;
+&lt;li&gt;Types and introspection&lt;/li&gt;
+&lt;li&gt;GraphQL and Drupal 8&lt;/li&gt;
+&lt;li&gt;Epilogue: GraphQL and decoupled Drupal&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;This session is intended for developers working with REST and Drupal 8, especially decoupled architectures.&lt;/p&gt;
+&lt;p&gt;Slides available &lt;a href=&quot;http://prestonso.github.io/intro-graphql&quot;&gt;on GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/coding-development&quot;&gt;Coding + Development&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/advanced&quot;&gt;Advanced&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/prestonso&quot; class=&quot;user user-90 entityreference&quot;&gt;prestonso&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-date-and-time field-type-datetime field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session date and time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Sunday, October 25, 2015 - 11:00am&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-time-slot field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session time slot: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/time-slot/1100am-1200pm&quot;&gt;11:00am - 12:00pm&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session room: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/rooms/blue-usc-career-center&quot;&gt;BLUE - USC Career Center&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 12 Sep 2015 03:07:22 +0000</pubDate>
+ <dc:creator>prestonso</dc:creator>
+ <guid isPermaLink="false">219 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Principles of Solitary Unit Testing</title>
+ <link>http://badcamp-2015.kbox/session/principles-solitary-unit-testing</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;The proliferation of testing strategies outside of a broadly agreed set of definitions has not only caused confusion but has caused a waste of effort by choosing the wrong strategy for the goals to accomplish. Learning the principles of solitary unit testing will enable you to make better decisions about the testing strategies you use and save you time.&lt;/p&gt;
+&lt;p&gt;In this session, we will look at one strategy: solitary unit testing. We will start by defining solitary unit testing and show how it distinguishes itself from other strategies.&lt;/p&gt;
+&lt;p&gt;The majority of our time will be spent looking at principles of solitary unit testing using PHPUnit code examples to show how to follow these principles. This will help solidify our understanding of this strategy and allow us to look at how to write mocks and fixtures and at how to identify several test smells.&lt;/p&gt;
+&lt;p&gt;We will conclude by identifying motivations for this testing strategy and what this strategy can and cannot help you accomplish.&lt;/p&gt;
+&lt;p&gt;This session might be for you if you are unsure when to use mocks and fixtures, if your unit test suite is slow and you don’t know why, if you’re doing TDD and having trouble distinguishing between unit and integration testing, or if you simply want to know more about unit testing.&lt;/p&gt;
+&lt;p&gt;The key takeaway from this session will be a thorough understanding of solitary unit testing to help you start or improve your testing process.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/coding-development&quot;&gt;Coding + Development&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/advanced&quot;&gt;Advanced&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/josephdpurcell&quot; class=&quot;user user-193 entityreference&quot;&gt;josephdpurcell&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 11 Sep 2015 13:46:04 +0000</pubDate>
+ <dc:creator>josephdpurcell</dc:creator>
+ <guid isPermaLink="false">216 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Getting started with Meteor</title>
+ <link>http://badcamp-2015.kbox/session/getting-started-meteor</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Learn how to build things in Meteor, and how Meteor and Drupal can work together.&lt;br /&gt;
+Meteor is a JavaScript framework that enables developers to quickly create reactive, highly accessible applications. It can be an incredibly powerful tool, especially when paired with Drupal.&lt;/p&gt;
+&lt;p&gt;This session will give a thorough introduction to Meteor, and includes a demonstration outlining how Drupal and Meteor can work together to create headless Drupal websites and web applications.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/coding-development&quot;&gt;Coding + Development&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/advanced&quot;&gt;Advanced&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/patrickocoffeyo&quot; class=&quot;user user-619 entityreference&quot;&gt;patrickocoffeyo&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-files field-type-file field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session files:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://badcamp-2015.kbox/sites/default/files/session-files/Meteor%20and%20Drupal.pdf&quot; type=&quot;application/pdf; length=448647&quot;&gt;Meteor and Drupal.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 09 Sep 2015 17:24:27 +0000</pubDate>
+ <dc:creator>patrickocoffeyo</dc:creator>
+ <guid isPermaLink="false">211 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Extracting Data from Drupal Entities Without Dying Inside</title>
+ <link>http://badcamp-2015.kbox/session/extracting-data-drupal-entities-without-dying-inside</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Drupal is doing a great job of managing and organizing your content, but your content doesn&#039;t have to end at Drupal&#039;s front door; how do we get all of that juicy, structured data out of Drupal and into other websites, mobile apps, or other data stores?&lt;/p&gt;
+&lt;p&gt;Have you ever had to extract data from Drupal Entities? If so, I&#039;m sure you&#039;re aware of the fact that it can be a painful process. This session presents a solution for distilling Drupal Entities into human-readable documents that can be easily consumed by other modules and services, like MongoDB, Redis, or even Google Spreadsheets. It will also demonstrate how a modular, organized method of data extraction can be used to build headless Drupal websites, and reactive Drupal interfaces.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/coding-development&quot;&gt;Coding + Development&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/advanced&quot;&gt;Advanced&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/patrickocoffeyo&quot; class=&quot;user user-619 entityreference&quot;&gt;patrickocoffeyo&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-date-and-time field-type-datetime field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session date and time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Saturday, October 24, 2015 - 11:00am&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-time-slot field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session time slot: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/time-slot/1100am-1200pm&quot;&gt;11:00am - 12:00pm&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session room: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/rooms/hearst-annex-a1&quot;&gt;Hearst Annex A1&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 09 Sep 2015 17:19:47 +0000</pubDate>
+ <dc:creator>patrickocoffeyo</dc:creator>
+ <guid isPermaLink="false">210 at http://badcamp-2015.kbox</guid>
+</item>
+</channel>
+</rss>

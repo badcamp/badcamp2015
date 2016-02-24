@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://badcamp-2015.kbox"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>BADCamp 2015 - Bay Area Drupal Camp - Stephens Hall</title>
+ <link>http://badcamp-2015.kbox/venue/stephens-hall</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Drupal + RedHen / SalesForce</title>
+ <link>http://badcamp-2015.kbox/training/drupal-redhen-salesforce</link>
+ <description>&lt;div class=&quot;field field-name-field-training-date-time field-type-datetime field-label-above field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Date and Time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Friday, October 23, 2015 - &lt;div class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;9:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;5:00pm&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;body field&quot;&gt;&lt;h2&gt;RedHen Trainers: Sean Larkin with Lev Tsypin, Gabe Carleton-Barnes, Tauno Hogue, Greg Boggs from ThinkShout&lt;/h2&gt;
+&lt;p style=&quot;line-height: 20.8px;&quot;&gt;9am - lunch: RedHen CRM: Exploring Native CRM Solutions That Extend Drupal&lt;/p&gt;
+&lt;p&gt;This half-day workshop will begin with a detailed review of the modules that make up the “RedHen CRM ecosystem.” We will then show you how to leverage RedHen for building advanced CRM-driven solutions. A hands-on training, we will help you configure and customize your own RedHen instance and we will teach you best practices for building solutions on top of this module suite. We will cover tools in the RedHen ecosystem, including memberships, donations, campaigns, engagements, deduping contacts, and integrating RedHen with other Drupal standard bearers such as Views, Rules, Context, etc.&lt;/p&gt;
+&lt;h2&gt;SalesForce Trainers: Gabe Carleton-Barnes with Lev Tsypin, Tauno Hogue, and Greg Boggs from ThinkShout&lt;/h2&gt;
+&lt;p&gt;lunch - end of day: Integrating Drupal and Salesforce: The World’s Most Flexible CMS Meets the Most Powerful CRM&lt;/p&gt;
+&lt;p&gt;This half day workshop will start with the basics of configuring mappings between Drupal entities and Salesforce objects and leveraging typical Drupal development workflows. Then we&#039;ll dive deeper into complex scenarios including managing large datasets, customizing behaviors as objects are synced, and managing errors.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://thinkshout.com/&quot;&gt;&lt;img alt=&quot;ThinkShout&quot; src=&quot;/sites/default/files/styles/medium/public/sponsor-logos/logo_stacked_3color_0.png?itok=I7UdBRDn&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-skill-level field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Skill level: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Beginner&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-location field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Location: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Stephens Hall&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-room field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Room: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Geballe - Stephens Hall&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div id=&quot;registrations-remaining&quot;&gt;&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Registrations Remaining: &lt;/label&gt;
+ None. Training is full.
+&lt;/div&gt;
+&lt;/div&gt;&lt;div id=&quot;register-status&quot;&gt;You are NOT registered for this training.&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 22 Sep 2015 23:38:03 +0000</pubDate>
+ <dc:creator>Lindsay Gaudinier</dc:creator>
+ <guid isPermaLink="false">288 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Drupal Multilingual for D7 and D8!</title>
+ <link>http://badcamp-2015.kbox/training/drupal-multilingual-d7-and-d8</link>
+ <description>&lt;div class=&quot;field field-name-field-training-date-time field-type-datetime field-label-above field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Date and Time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Thursday, October 22, 2015 - &lt;div class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;9:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;3:00pm&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;body field&quot;&gt;&lt;h2&gt;Trainer: Hook 42&lt;/h2&gt;
+&lt;h3&gt;Training Spotlights&lt;/h3&gt;
+&lt;ul style=&quot;line-height: 20.8px;&quot;&gt;&lt;li&gt;&lt;strong&gt;Level: Beginning / Intermediate Site Builder&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Understanding multilingual website concepts&lt;/li&gt;
+&lt;li&gt;Drupal 7 Multilingual overview (with a book!)&lt;/li&gt;
+&lt;li&gt;Drupal 8 Hands-On guided training lab&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Link to Drupal 8 Multilingual Handout (rc1): &lt;a href=&quot;https://docs.google.com/document/d/1w---11Dfmhp5PSiIFjEy1lUw6LrkSLjDbub0lbGuVp8&quot;&gt;https://docs.google.com/document/d/1w---11Dfmhp5PSiIFjEy1lUw6LrkSLjDbub0...&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The Google doc contains the step by step handout to create a multilingual website in Drupal 8, updated for Drupal 8 rc1!&lt;/p&gt;
+&lt;h3&gt;All The Details&lt;/h3&gt;
+&lt;p&gt;It&#039;s hard for some of us to believe but not everyone speaks English! ;) Reaching audiences from different countries and with different language preferences can boost site conversions, improve user engagement, and create happier customers. Drupal is a go-to CMS for both small and large websites. But, until Drupal 8, building a multilingual site in Drupal has been quite challenging. It can take up to 20 core and community modules, lots of configuration, and often many patches from the issue queues to get a site prepped for multiple languages and translations. But have no fear!&lt;/p&gt;
+&lt;p&gt;Hook 42 will be rockin&#039; a hands-on multilingual workshop at BADCamp that covers both Drupal 7 and Drupal 8. We&#039;ll go in depth for Drupal 7 by following the Drupal 7 Multilingual Sites book which covers adding languages, configuring language negotiation, installing interface translations, configuring entities for translation, and more. Mentors will answer your questions as you go through the training at your own pace. At the end of the day, we&#039;ll finish up with an introduction to multilingual in Drupal 8. You will appreciate how much easier it is after going through the Drupal 7 book! You&#039;ll get to bring the book home with you for a reference when building your next multilingual site.&lt;/p&gt;
+&lt;h3&gt;Audience&lt;/h3&gt;
+&lt;p&gt;This workshop is geared towards Drupal site builders, developers, and themers who are familiar with building Drupal 7 websites. Beginner Drupalers are welcome but, to get the most out of the training, it would be good to understand Drupal basics like creating content types, blocks, views, and users.&lt;/p&gt;
+&lt;h3&gt;Prerequisites&lt;/h3&gt;
+&lt;p&gt;We have a lot of material to cover so, to hit the ground running, you&#039;ll need:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Experience building Drupal 7 sites&lt;/li&gt;
+&lt;li&gt;Laptop&lt;/li&gt;
+&lt;li&gt;We&#039;ll provide a Drupal 7 site for each attendee that can be used for the training (or you can use your own working Drupal 7 environment)&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Schedule&lt;/h3&gt;
+&lt;p&gt;Please be ready to go at 9am or earlier. If you are late, we might assume you are not coming and give away your spot.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;9am to 9:30am: Multilingual Concepts&lt;/li&gt;
+&lt;li&gt;9:30am to 12pm: Drupal 7 Multilingual Overview Self-Guided Training Topics and Book!&lt;/li&gt;
+&lt;li&gt;12pm to 1pm: Lunch on your own (or bring a lunch)&lt;/li&gt;
+&lt;li&gt;1pm to 5:00pm: Drupal 8 multilingual hands-on lab!&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Takeaways&lt;/h3&gt;
+&lt;p&gt;You&#039;ll be learning a lot in one day! Here are some highlights:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Understand what Drupal components might need translations&lt;/li&gt;
+&lt;li&gt;Configure interface translations to be pulled from localize.drupal.org automatically&lt;/li&gt;
+&lt;li&gt;Pros and cons between node/content translation and field/entity translation&lt;/li&gt;
+&lt;li&gt;Configure entities (nodes, comments, users, etc.) for translations&lt;/li&gt;
+&lt;li&gt;Update views, site variables, and other configuration to support different languages&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;About the trainers&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Aimee Degnan&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Aimee has more than 20 years experience in enterprise devops, web content management, and process engineering making big, sustainable websites that people can use. Aimee is writing the Packt Drupal 8 Multilingual Sites book. Learn more about Aimee at &lt;a href=&quot;http://hook42.com/team/aimee-degnan&quot;&gt;hook42.com/team/aimee-degnan&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kristen Pol&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Kristen is a seasoned web and SEO technologist with over 20 years programming and 10+ years of Drupal experience. Kristen wrote the Packt Drupal 7 Multilingual Sites book. Learn more about Kristen at &lt;a href=&quot;http://hook42.com/team/kristen-pol&quot;&gt;hook42.com/team/kristen-pol&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;Hook 42&quot; src=&quot;https://2015.badcamp.net/sites/default/files/styles/medium/public/sponsor-logos/Hook42-Logo-Web-XLarge.png&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-skill-level field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Skill level: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Intermediate&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-location field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Location: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Stephens Hall&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-room field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Room: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Geballe - Stephens Hall&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div id=&quot;registrations-remaining&quot;&gt;&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Registrations Remaining: &lt;/label&gt;
+ 17
+&lt;/div&gt;
+&lt;/div&gt;&lt;div id=&quot;register-status&quot;&gt;You are NOT registered for this training.&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;a href=&quot;/user/register?destination=training/285/register&quot; class=&quot;training-register button buttercup&quot; title=&quot;Register for Drupal Multilingual for D7 and D8!.&quot;&gt;Register&lt;/a&gt;</description>
+ <pubDate>Tue, 22 Sep 2015 23:25:11 +0000</pubDate>
+ <dc:creator>Lindsay Gaudinier</dc:creator>
+ <guid isPermaLink="false">285 at http://badcamp-2015.kbox</guid>
+</item>
+</channel>
+</rss>

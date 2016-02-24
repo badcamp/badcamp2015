@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<!-- Sorry no IE7 support! -->
+<!-- @see http://foundation.zurb.com/docs/index.html#basicHTMLMarkup -->
+
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" dir="ltr"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" dir="ltr"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<meta http-equiv="ImageToolbar" content="false" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="Trainer: Hook 42 Drupal is a go-to CMS for both small and large websites. But, until Drupal 8, building a multilingual site in Drupal has been quite challenging. Training topics include: multilingual website concepts, Drupal 7 Multilingual overview (with a book!), Drupal 8 Hands-On Guided Training Lab." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="../node/285.html" />
+<link rel="shortlink" href="../node/285.html" />
+<meta property="og:site_name" content="BADCamp 2015 - Bay Area Drupal Camp" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://badcamp-2015.kbox/training/drupal-multilingual-d7-and-d8" />
+<meta property="og:title" content="Drupal Multilingual for D7 and D8!" />
+<meta property="og:description" content="Trainer: Hook 42 Drupal is a go-to CMS for both small and large websites. But, until Drupal 8, building a multilingual site in Drupal has been quite challenging. Training topics include: multilingual website concepts, Drupal 7 Multilingual overview (with a book!), Drupal 8 Hands-On Guided Training Lab." />
+<meta property="og:updated_time" content="2015-10-25T14:08:59-07:00" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="http://badcamp-2015.kbox/training/drupal-multilingual-d7-and-d8" />
+<meta name="twitter:title" content="Drupal Multilingual for D7 and D8!" />
+<meta name="twitter:description" content="Trainer: Hook 42 Drupal is a go-to CMS for both small and large websites. But, until Drupal 8, building a multilingual site in Drupal has been quite challenging. Training topics include: multilingual website concepts, Drupal 7 Multilingual overview (with a book!), Drupal 8 Hands-On Guided Training Lab." />
+<meta property="article:published_time" content="2015-09-22T16:25:11-07:00" />
+<meta property="article:modified_time" content="2015-10-25T14:08:59-07:00" />
+<meta itemprop="name" content="Drupal Multilingual for D7 and D8!" />
+<meta itemprop="description" content="Trainer: Hook 42 Drupal is a go-to CMS for both small and large websites. But, until Drupal 8, building a multilingual site in Drupal has been quite challenging. Training topics include: multilingual website concepts, Drupal 7 Multilingual overview (with a book!), Drupal 8 Hands-On Guided Training Lab." />
+<meta name="dcterms.title" content="Drupal Multilingual for D7 and D8!" />
+<meta name="dcterms.creator" content="Lindsay Gaudinier" />
+<meta name="dcterms.description" content="Trainer: Hook 42 Drupal is a go-to CMS for both small and large websites. But, until Drupal 8, building a multilingual site in Drupal has been quite challenging. Training topics include: multilingual website concepts, Drupal 7 Multilingual overview (with a book!), Drupal 8 Hands-On Guided Training Lab." />
+<meta name="dcterms.date" content="2015-09-22T16:25-07:00" />
+<meta name="dcterms.type" content="Text" />
+<meta name="dcterms.format" content="text/html" />
+<meta name="dcterms.identifier" content="http://badcamp-2015.kbox/training/drupal-multilingual-d7-and-d8" />
+<meta name="dcterms.language" content="und" />
+<link rel="shortcut icon" href="../misc/favicon.ico" />
+  <title>Drupal Multilingual for D7 and D8! | BADCamp 2015 - Bay Area Drupal Camp</title>
+  <link rel="stylesheet" href="../sites/default/files/css/css_kShW4RPmRstZ3SpIC-ZvVGNFVAi0WEMuCnI0ZkYIaFw.css" />
+<link rel="stylesheet" href="../sites/default/files/css/css_JOtIC7zbOatC-MAJk59amVQVVP9xtDVB9cHnP2f6xGo.css" />
+<link rel="stylesheet" href="../sites/default/files/css/css_atkFGFlvG6sSQcIj6Q73rpgsXhtr58AwITc2aQjVotk.css" />
+<link rel="stylesheet" href="../sites/default/files/css/css_Z3rg5mF5f-c5EWqA76_xdxsdNSzdwT2U-upZTjZfHeI.css" />
+  <script src="../sites/default/files/js/js_MpKfe1sTh5JIVGCZ17DsAuT1rqAC38MLLlkjqjQ1X_k.js"></script>
+<script src="../sites/default/files/js/js_I8yX6RYPZb7AtMcDUA3QKDZqVkvEn35ED11_1i7vVpc.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-65357314-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script src="../sites/default/files/js/js_CczyM6Z0hlgZ65UzmXTTaWUnpQtLpZ0QYs4Tvbbskf4.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"badcamp2015","theme_token":"vbM4O3-dtsWJToX7DOjQ6uHu4KCyn_3ukA1aU-UG0UQ","js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/themes\/zurb_foundation\/js\/vendor\/modernizr.js":1,"sites\/all\/themes\/badcamp2015\/js\/foundation.min.js":1,"sites\/all\/themes\/badcamp2015\/js\/libs.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/contrib\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/youtube\/css\/youtube.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/themes\/badcamp2015\/css\/normalize.css":1,"sites\/all\/themes\/badcamp2015\/css\/foundation.min.css":1,"sites\/all\/themes\/badcamp2015\/css\/badcamp2015.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"}});</script>
+  <!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+   <script id="requirejs" data-rev="1456196929" data-main="/sites/all/themes/badcamp2015/js/dist/main.js?rev=1456196929" src="../sites/all/themes/badcamp2015/js/dist/vendor/require.js%3Frev=1456196929"></script>
+</head>
+
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-285 node-type-training section-training" >
+  <div id="top-color-bar"></div>
+  <div class="skip-link">
+    <a href="../node/285.html#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <!--.page -->
+<div role="document" class="page sub-page">
+
+  <!--.l-header -->
+  <header role="banner" class="l-header clearfix">
+
+          <!--.top-bar -->
+            <nav class="top-bar clearfix" data-topbar  data-options="mobile_show_parent_link:true">
+        <ul class="title-area">
+          <li class="name"><h1><a href="../home.html" rel="home" title="BADCamp 2015 - Bay Area Drupal Camp Home">BADCamp 2015 - Bay Area Drupal Camp</a></h1></li>
+          <li class="toggle-topbar menu-icon">
+            <a href="../node/285.html#"><span>Menu</span></a></li>
+        </ul>
+        <section class="top-bar-section clearfix">
+                      <ul id="main-menu" class="main-nav left"><li class="first leaf"><a href="../registration.html">Registration</a></li><li class="leaf" title=""><a href="../news.html" title="">Updates</a></li><li class="expanded has-dropdown"><a href="../details.html">Details</a><ul class="dropdown"><li class="first last leaf"><a href="../location.html">Location</a></li></ul></li><li class="expanded has-dropdown" title=""><a href="../community.html" title="">Community</a><ul class="dropdown"><li class="first last leaf"><a href="../jobs.html">Job Board</a></li></ul></li><li class="leaf"><a href="../summits.html">Summits</a></li><li class="leaf"><a href="../sessions.html">Sessions</a></li><li class="leaf"><a href="../training.html">Trainings</a></li><li class="leaf"><a href="../sponsors.html">Sponsors</a></li><li class="last leaf" title="Log in"><a href="../user/login.html" title="Log in">Log in</a></li></ul>                            </section>
+      </nav>
+      <nav class="drawer-sub-menu">
+                    <section class="block block-menu block-menu-menu-details-sub-nav details">
+  
+        <h2 class="block-title">Details</h2>
+    
+    <ul class="menu"><li class="first leaf"><a href="../details.html" title="">Overview</a></li>
+<li class="last leaf"><a href="../location.html" title="">Location</a></li>
+</ul>  
+  </section><section class="block block-menu block-menu-menu-community-sub-nav community">
+  
+        <h2 class="block-title">Community</h2>
+    
+    <ul class="menu"><li class="first leaf"><a href="../community.html" title="">Overview</a></li>
+<li class="leaf"><a href="../attendees.html" title="All BADcamp 2015 Attendees">Attendees</a></li>
+<li class="last leaf"><a href="../jobs.html" title="">Job Board</a></li>
+</ul>  
+  </section>              </nav>
+            <!--/.top-bar -->
+    
+    <!-- Title, slogan and menu -->
+        <!-- End title, slogan and menu -->
+
+    
+  </header>
+  <!--/.l-header -->
+
+  <!--/#page-wrapper -->
+  <div id="page-wrapper" class="menu-tier1">
+
+    <!--.l-main -->
+    <main role="main" class="row l-main">
+      <div class="main-container">
+
+        
+        
+        
+        <!-- .l-main region -->
+        <div class=" main columns">
+          
+          <a id="main-content"></a>
+
+          
+                                  <h1 id="page-title" class="title">Drupal Multilingual for D7 and D8!</h1>
+                      
+                                            
+          
+          
+            
+      
+    <article id="node-285" class="node node-training node-promoted view-mode-full">
+
+      
+  
+  <div class="field field-name-field-training-date-time field-type-datetime field-label-above field-wrapper"><div  class="field-label">Date and Time:&nbsp;</div><span class="date-display-single">Thursday, October 22, 2015 - <div class="date-display-range"><span class="date-display-start">9:00am</span> to <span class="date-display-end">3:00pm</span></div></span></div><div class="body field"><h2>Trainer: Hook 42</h2>
+<h3>Training Spotlights</h3>
+<ul style="line-height: 20.8px;"><li><strong>Level: Beginning / Intermediate Site Builder</strong></li>
+<li>Understanding multilingual website concepts</li>
+<li>Drupal 7 Multilingual overview (with a book!)</li>
+<li>Drupal 8 Hands-On guided training lab</li>
+</ul><h3>Link to Drupal 8 Multilingual Handout (rc1): <a href="https://docs.google.com/document/d/1w---11Dfmhp5PSiIFjEy1lUw6LrkSLjDbub0lbGuVp8">https://docs.google.com/document/d/1w---11Dfmhp5PSiIFjEy1lUw6LrkSLjDbub0...</a></h3>
+<p>The Google doc contains the step by step handout to create a multilingual website in Drupal 8, updated for Drupal 8 rc1!</p>
+<h3>All The Details</h3>
+<p>It's hard for some of us to believe but not everyone speaks English! ;) Reaching audiences from different countries and with different language preferences can boost site conversions, improve user engagement, and create happier customers. Drupal is a go-to CMS for both small and large websites. But, until Drupal 8, building a multilingual site in Drupal has been quite challenging. It can take up to 20 core and community modules, lots of configuration, and often many patches from the issue queues to get a site prepped for multiple languages and translations. But have no fear!</p>
+<p>Hook 42 will be rockin' a hands-on multilingual workshop at BADCamp that covers both Drupal 7 and Drupal 8. We'll go in depth for Drupal 7 by following the Drupal 7 Multilingual Sites book which covers adding languages, configuring language negotiation, installing interface translations, configuring entities for translation, and more. Mentors will answer your questions as you go through the training at your own pace. At the end of the day, we'll finish up with an introduction to multilingual in Drupal 8. You will appreciate how much easier it is after going through the Drupal 7 book! You'll get to bring the book home with you for a reference when building your next multilingual site.</p>
+<h3>Audience</h3>
+<p>This workshop is geared towards Drupal site builders, developers, and themers who are familiar with building Drupal 7 websites. Beginner Drupalers are welcome but, to get the most out of the training, it would be good to understand Drupal basics like creating content types, blocks, views, and users.</p>
+<h3>Prerequisites</h3>
+<p>We have a lot of material to cover so, to hit the ground running, you'll need:</p>
+<ul><li>Experience building Drupal 7 sites</li>
+<li>Laptop</li>
+<li>We'll provide a Drupal 7 site for each attendee that can be used for the training (or you can use your own working Drupal 7 environment)</li>
+</ul><h3>Schedule</h3>
+<p>Please be ready to go at 9am or earlier. If you are late, we might assume you are not coming and give away your spot.</p>
+<ul><li>9am to 9:30am: Multilingual Concepts</li>
+<li>9:30am to 12pm: Drupal 7 Multilingual Overview Self-Guided Training Topics and Book!</li>
+<li>12pm to 1pm: Lunch on your own (or bring a lunch)</li>
+<li>1pm to 5:00pm: Drupal 8 multilingual hands-on lab!</li>
+</ul><h3>Takeaways</h3>
+<p>You'll be learning a lot in one day! Here are some highlights:</p>
+<ul><li>Understand what Drupal components might need translations</li>
+<li>Configure interface translations to be pulled from localize.drupal.org automatically</li>
+<li>Pros and cons between node/content translation and field/entity translation</li>
+<li>Configure entities (nodes, comments, users, etc.) for translations</li>
+<li>Update views, site variables, and other configuration to support different languages</li>
+</ul><h3>About the trainers</h3>
+<p><strong>Aimee Degnan</strong></p>
+<p>Aimee has more than 20 years experience in enterprise devops, web content management, and process engineering making big, sustainable websites that people can use. Aimee is writing the Packt Drupal 8 Multilingual Sites book. Learn more about Aimee at <a href="http://hook42.com/team/aimee-degnan">hook42.com/team/aimee-degnan</a>.</p>
+<p><strong>Kristen Pol</strong></p>
+<p>Kristen is a seasoned web and SEO technologist with over 20 years programming and 10+ years of Drupal experience. Kristen wrote the Packt Drupal 7 Multilingual Sites book. Learn more about Kristen at <a href="http://hook42.com/team/kristen-pol">hook42.com/team/kristen-pol</a>.</p>
+<p> </p>
+<p><img alt="Hook 42" src="https://2015.badcamp.net/sites/default/files/styles/medium/public/sponsor-logos/Hook42-Logo-Web-XLarge.png" /></p>
+</div><div class="field field-name-field-skill-level field-type-taxonomy-term-reference field-label-above field-wrapper clearfix"><h2 class="field-label">Skill level: </h2><ul class="links"><li class="taxonomy-term-reference-0" class="field-item even">Intermediate</li></ul></div><div class="field field-name-field-training-location field-type-taxonomy-term-reference field-label-above field-wrapper clearfix"><h2 class="field-label">Location: </h2><ul class="links"><li class="taxonomy-term-reference-0" class="field-item even">Stephens Hall</li></ul></div><div class="field field-name-field-training-room field-type-taxonomy-term-reference field-label-above field-wrapper clearfix"><h2 class="field-label">Room: </h2><ul class="links"><li class="taxonomy-term-reference-0" class="field-item even">Geballe - Stephens Hall</li></ul></div><div id="registrations-remaining"><div class="form-item form-type-item">
+  <label>Registrations Remaining: </label>
+ 17
+</div>
+</div><div id="register-status">You are NOT registered for this training.<p></p></div><a href="../user/register%3Fdestination=training%252F285%252Fregister.html" class="training-register button buttercup" title="Register for Drupal Multilingual for D7 and D8!.">Register</a>
+        
+    
+</article>
+  
+                    </div>
+        <!--/.l-main region -->
+
+        
+      </div>
+    </main>
+    <!--/.l-main -->
+
+    
+    
+    <!--.l-footer -->
+    <footer class="l-footer panel row" role="contentinfo">
+      <div class="footer">
+                  <div class="footer columns">
+              <section class="block block-block block-block-1 ">
+  
+      
+    <div class="follow-us-footer">
+<div class="social-link-wrapper">
+<span class="follow">Follow</span>
+<ul class="social-links"><li><a target="_blank" class="twitter" href="https://twitter.com/BADCamp">BADCamp</a></li>
+<li><a target="_blank" class="twitter-hash" href="https://twitter.com/hashtag/badcamp">#BADCamp</a></li>
+</ul></div>
+<div class="footer-side-links">
+<a href="../node/35.html">Credits</a><br /><a href="../eform/submit/contact-form.html">Contact</a>
+</div>
+</div>
+  
+  </section><section class="block block-menu block-menu-menu-footer-nav-badcamp ">
+  
+      
+    <ul class="menu"><li class="first last expanded"><a href="../home.html" title="To the home page!">BADCamp 2015</a><ul class="menu"><li class="first leaf"><a href="../sponsors.html" title="Sponsors">Sponsors</a></li>
+<li class="last leaf"><a href="../sponsors/individual.html" title="Individual Sponsors">Individual Sponsors</a></li>
+</ul></li>
+</ul>  
+  </section><section class="block block-menu block-menu-menu-footer-nav-details ">
+  
+      
+    <ul class="menu"><li class="first last expanded"><a href="../details.html" title="Details">Details</a><ul class="menu"><li class="first leaf"><a href="../food-drink.html" title="Food and Drink">Food and Drink</a></li>
+<li class="leaf"><a href="../jobs.html" title="Job Board">Job Board</a></li>
+<li class="last leaf"><a href="../node/45.html" title="Timeline">Timeline</a></li>
+</ul></li>
+</ul>  
+  </section><section class="block block-menu block-menu-menu-footer-nav-location ">
+  
+      
+    <ul class="menu"><li class="first last expanded"><a href="../location.html" title="Location">Location</a><ul class="menu"><li class="first leaf"><a href="../node/50.html" title="Getting around town">Get Around</a></li>
+<li class="leaf"><a href="../node/46.html" title="Parties">Parties</a></li>
+<li class="last leaf"><a href="../node/67.html" title="Hotel Information">Hotel Info</a></li>
+</ul></li>
+</ul>  
+  </section><section class="block block-menu block-menu-menu-footer-nav-community ">
+  
+      
+    <ul class="menu"><li class="first last expanded"><a href="../community.html" title="Community">Community</a><ul class="menu"><li class="first leaf"><a href="../attendees.html" title="All Attendees">All Attendees</a></li>
+<li class="last leaf"><a href="../code-of-conduct.html" title="Code of Conduct">Code of Conduct</a></li>
+</ul></li>
+</ul>  
+  </section>          </div>
+              </div>
+    </footer>
+    <!--/.l-footer -->
+
+  </div>
+  <!--/#page-wrapper -->
+
+  </div>
+<!--/.page -->
+      <script>
+    (function ($, Drupal, window, document, undefined) {
+      $(document).foundation();
+    })(jQuery, Drupal, this, this.document);
+  </script>
+</body>
+</html>

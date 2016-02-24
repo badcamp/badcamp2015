@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://badcamp-2015.kbox"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>BADCamp 2015 - Bay Area Drupal Camp - Site Building + Using Drupal</title>
+ <link>http://badcamp-2015.kbox/tracks/site-building-using-drupal</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Top Modules for Drupal 7</title>
+ <link>http://badcamp-2015.kbox/session/top-modules-drupal-7</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Dozens of useful contributed modules for building Drupal 7 sites.&lt;/p&gt;
+&lt;p&gt;There are many really useful contributed modules to take your site beyond the basics of Drupal core. There are modules to improve, allow, and/or help with everything from administration to workflow, from paths to views, and beyond.&lt;/p&gt;
+&lt;h3&gt;Questions answered by this session:&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;What are some frequently used and useful modules?&lt;/li&gt;
+&lt;li&gt;What will they do for me?&lt;/li&gt;
+&lt;li&gt;Which have functionality that will be in core in Drupal 8?&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Target audience:&lt;/h3&gt;
+&lt;p&gt;This session will be of interest to beginner and intermediate Drupallers, as well as those who manage or hire Drupallers or who are just trying to decide whether to use Drupal.&lt;/p&gt;
+&lt;h3&gt;Accompanying materials, aka &quot;the handout&quot;:&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;http://sharonkrossa.com/topmodules&quot;&gt;SharonKrossa.com/topmodules&lt;/a&gt; (will be updated for BAD Camp 2015)&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/site-building-using-drupal&quot;&gt;Site Building + Using Drupal&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/beginner&quot;&gt;Beginner&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/skrossa&quot; class=&quot;user user-44 entityreference&quot;&gt;SKrossa&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 26 Sep 2015 06:38:18 +0000</pubDate>
+ <dc:creator>SKrossa</dc:creator>
+ <guid isPermaLink="false">342 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Live, Test, and Dev for (Nearly) Everyone</title>
+ <link>http://badcamp-2015.kbox/session/live-test-and-dev-nearly-everyone</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;h2&gt;How to do it and why you should&lt;/h2&gt;
+&lt;p&gt;Having live, test, and development versions of your website isn&#039;t just for hardcore developers! Everyone, from beginner site buiders on up, not only should, but can follow this best practice. This session will cover the basics of why and how to use dev and test sites, as well as demonstrating easy ways to do so using Drush (for both Drupal 7 AND 8!)&lt;/p&gt;
+&lt;h3&gt;Questions answered by this session:&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Why is it important to have and use test and dev versions of a site?&lt;/li&gt;
+&lt;li&gt;What are test and dev versions of a site for?&lt;/li&gt;
+&lt;li&gt;How is using live, test, and dev different for Drupal (compared to traditional static page web development)?&lt;/li&gt;
+&lt;li&gt;How do I set up test and dev versions?&lt;/li&gt;
+&lt;li&gt;How can I copy/clone my live site to the test or dev site?&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Target audience:&lt;/h3&gt;
+&lt;p&gt;This session will be most useful to site builders and maintainers with server access to their Drupal installations from providers that allow command line (ssh) access. While the general principles will be useful for those using services that do not allow server access, the specifics of the technical how-to steps will not be applicable to their situation.&lt;/p&gt;
+&lt;h3&gt;Accompanying materials, aka &quot;the handout&quot;:&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;http://sharonkrossa.com/livetestdev&quot;&gt;SharonKrossa.com/livetestdev&lt;/a&gt; (will be updated for BAD Camp 2015)&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/site-building-using-drupal&quot;&gt;Site Building + Using Drupal&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/beginner&quot;&gt;Beginner&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/skrossa&quot; class=&quot;user user-44 entityreference&quot;&gt;SKrossa&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 26 Sep 2015 06:33:07 +0000</pubDate>
+ <dc:creator>SKrossa</dc:creator>
+ <guid isPermaLink="false">341 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Modules 101: Introduction, installation, and removal</title>
+ <link>http://badcamp-2015.kbox/session/modules-101-introduction-installation-and-removal</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;h2&gt;Or, the what, when, where, why, and especially how&lt;/h2&gt;
+&lt;p&gt;This is a practical introduction to Drupal modules. Learn the basics of what modules are, when to use contributed modules, where to find them, why choose one over another, and — step-by-step— how to install or enable and uninstall modules in Drupal 6, 7, AND 8! (There is more to it than just the checkboxes on the modules page!)&lt;/p&gt;
+&lt;h3&gt;Questions answered by this session:&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;What are modules?&lt;/li&gt;
+&lt;li&gt;When should I use contributed modules?&lt;/li&gt;
+&lt;li&gt;Where can I find contributed modules?&lt;/li&gt;
+&lt;li&gt;Why should I choose one module over another?&lt;/li&gt;
+&lt;li&gt;How do I install or enable modules (step-by-step)?&lt;/li&gt;
+&lt;li&gt;How do I uninstall or disable modules (step-by-step)?&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Target audience:&lt;/h3&gt;
+&lt;p&gt;This session will be useful to site builders and administrators who have at least sufficient Drupal permissions to enable modules, including those using services such as DrupalGardens.com or Stanford Sites (sites.stanford.edu).&lt;/p&gt;
+&lt;h3&gt;Accompanying materials, aka &quot;the handout&quot;:&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;http://sharonkrossa.com/modules101&quot;&gt;SharonKrossa.com/modules101&lt;/a&gt; (will be updated for BAD Camp 2015)&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/site-building-using-drupal&quot;&gt;Site Building + Using Drupal&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/beginner&quot;&gt;Beginner&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/skrossa&quot; class=&quot;user user-44 entityreference&quot;&gt;SKrossa&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 26 Sep 2015 06:28:10 +0000</pubDate>
+ <dc:creator>SKrossa</dc:creator>
+ <guid isPermaLink="false">340 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Site Security in Drupal 8</title>
+ <link>http://badcamp-2015.kbox/session/site-security-drupal-8</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Drupal 8 contains a number of security improvements over Drupal 7, including&lt;/p&gt;
+&lt;p&gt;- Adoption of Twig as the default theme engine&lt;br /&gt;
+- Removal of the PHP Filter module&lt;br /&gt;
+- Hashing of user session IDs&lt;br /&gt;
+- Support for trusted hosts patterns&lt;br /&gt;
+- Improved integration of WYSIWYG configurations with text filters&lt;br /&gt;
+- Limiting database drivers to executing single statements&lt;br /&gt;
+- Integration of CSRF protection into the routing access system&lt;/p&gt;
+&lt;p&gt;In addition to the above general enhancements to security, this session will address:&lt;/p&gt;
+&lt;p&gt;- Development of new methods for storing API keys and access passwords securely&lt;br /&gt;
+- Adding extra database protection&lt;br /&gt;
+- The state of encryption in Drupal &lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/site-building-using-drupal&quot;&gt;Site Building + Using Drupal&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/beginner&quot;&gt;Beginner&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/rlhawk&quot; class=&quot;user user-121 entityreference&quot;&gt;rlhawk&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 26 Sep 2015 05:58:42 +0000</pubDate>
+ <dc:creator>rlhawk</dc:creator>
+ <guid isPermaLink="false">339 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Drupal 8 Blocks: They don&#039;t suck!</title>
+ <link>http://badcamp-2015.kbox/session/drupal-8-blocks-they-dont-suck</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;In Drupal 7 for all but the most simple sites it seemed like no one used the core Block system. If you wanted to manage any kind of complicated layout you probably used Panels or the Context module.&lt;/p&gt;
+&lt;p&gt;Luckily for Drupal 8 the Block system has been vastly improved by a few key features:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Blocks are exportable&lt;/li&gt;
+&lt;li&gt;Blocks can be placed multiple times&lt;/li&gt;
+&lt;li&gt;Fieldable Blocks are in core&lt;/li&gt;
+&lt;li&gt;Blocks use Condition plugins&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;This session will look at how we can use these and other changes to the Block system in Drupal 8 as powerful site building tools. We will look at some smaller contrib modules in Drupal 8, like &lt;a href=&quot;https://www.drupal.org/project/block_visibility_groups&quot;&gt;Block Visibility Groups&lt;/a&gt;, that will make the Block system even better. This session will focus on simpler solutions that don&#039;t abandon the Block administration page all together but make it much better.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/site-building-using-drupal&quot;&gt;Site Building + Using Drupal&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/beginner&quot;&gt;Beginner&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/tedbow&quot; class=&quot;user user-413 entityreference&quot;&gt;tedbow&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 25 Sep 2015 13:32:32 +0000</pubDate>
+ <dc:creator>tedbow</dc:creator>
+ <guid isPermaLink="false">323 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Drupal 8 Multilingual Hacks - Site Building for the World!</title>
+ <link>http://badcamp-2015.kbox/session/drupal-8-multilingual-hacks-site-building-world</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Even at the time of this submission (in the beta / soon to be RC phase of Drupal 8), there are &lt;a href=&quot;http://www.drupal8multilingual.org/showcase&quot;&gt;numerous live multilingual sites built on Drupal 8&lt;/a&gt;. DrupalCon Amsterdam &lt;a href=&quot;https://amsterdam2014.drupal.org/session/drupal-8-multilingual-hands-continued.html&quot;&gt;hosted a hands-on lab to check out the site building basics for Drupal 8 multilingual sites&lt;/a&gt;, however there are a lot of interesting things possible by combining the core Drupal 8 tools to form creative solutions.&lt;/p&gt;
+&lt;p&gt;In this session we&#039;ll forego listing capabilities and instead look at combining various Drupal 8 features into neat hacks to benefit multilingual site needs, in part based on experiences from the above mentioned live sites. We&#039;ll look at best practices for site deployment and a couple simple contributed modules too (depending on availability).&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/site-building-using-drupal&quot;&gt;Site Building + Using Drupal&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/intermediate&quot;&gt;Intermediate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/aimeerae&quot; class=&quot;user user-34 entityreference&quot;&gt;aimeerae&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 25 Sep 2015 12:16:35 +0000</pubDate>
+ <dc:creator>aimeerae</dc:creator>
+ <guid isPermaLink="false">319 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Creating Parent / Child Relationships in Drupal</title>
+ <link>http://badcamp-2015.kbox/session/creating-parent-child-relationships-drupal</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Let me show you how to create a site using parent, child, grandchild relationships. Do you want to be able to display information from multiple related content types in a single view? What to create an content entry UI that is intuitive, easy, and convient for the user?  All of this can be done with just a little planning and five drupal modules; entity, entityreference, entityconnect, auto_entitylabel, and views.&lt;/p&gt;
+&lt;p&gt;This session is for all levels of site builders as the concept are straight forward even if they are a bit out of the Drupal box.&lt;/p&gt;
+&lt;p&gt;During this sessions, I will&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Discuss the concepts&lt;/li&gt;
+&lt;li&gt;Demonstrate a working model using Drupal Camp as an example.&lt;/li&gt;
+&lt;li&gt;Show you how to create entity referneces and access the child node from the parent.&lt;/li&gt;
+&lt;li&gt;Show you how to utilize the relationship information in view to access data in the child from the parent or access data in the parent from the child.&lt;/li&gt;
+&lt;li&gt;Share with you some views lessons learned from the University of Hard Knock.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;In addition, have attached a Word document that describes the process in great detail. For those that don&#039;t have word, I have also attached a PDF file. I have tried to convert the word document to other formats, but then it looses all of it formating. The document is a work in progress.  If you find any issues with it, please let me know and I will correct them.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/site-building-using-drupal&quot;&gt;Site Building + Using Drupal&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/intermediate&quot;&gt;Intermediate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/densolis&quot; class=&quot;user user-1086 entityreference&quot;&gt;densolis&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-date-and-time field-type-datetime field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session date and time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Sunday, October 25, 2015 - 2:30pm&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-time-slot field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session time slot: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/time-slot/230pm-330pm&quot;&gt;2:30pm - 3:30pm&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-room field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session room: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/rooms/gold-usc-career-center&quot;&gt;GOLD - USC Career Center&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-files field-type-file field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session files:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;Office presentation icon&quot; title=&quot;application/vnd.ms-powerpoint&quot; src=&quot;/modules/file/icons/x-office-presentation.png&quot; /&gt; &lt;a href=&quot;http://badcamp-2015.kbox/sites/default/files/session-files/Parent-child.ppt&quot; type=&quot;application/vnd.ms-powerpoint; length=1435136&quot; title=&quot;Parent-child.ppt&quot;&gt;Parent Child Slide show&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;Microsoft Office document icon&quot; title=&quot;application/msword&quot; src=&quot;/modules/file/icons/x-office-document.png&quot; /&gt; &lt;a href=&quot;http://badcamp-2015.kbox/sites/default/files/session-files/Parent_Child_Data_Modeling.doc&quot; type=&quot;application/msword; length=2074112&quot; title=&quot;Parent_Child_Data_Modeling.doc&quot;&gt;Detail instructions for creating a sample parent child web site in MS Word&lt;/a&gt;&lt;/span&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://badcamp-2015.kbox/sites/default/files/session-files/Parent_Child_Data_Modeling.pdf&quot; type=&quot;application/pdf; length=2784152&quot; title=&quot;Parent_Child_Data_Modeling.pdf&quot;&gt;Detail instructions for creating a sample parent child web site in a PDF&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 25 Sep 2015 04:41:46 +0000</pubDate>
+ <dc:creator>densolis</dc:creator>
+ <guid isPermaLink="false">317 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Thinking in Drupal 8</title>
+ <link>http://badcamp-2015.kbox/session/thinking-drupal-8</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;&lt;em&gt;Taking an Idea from Concept to Completion in Drupal 8&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Let&#039;s look at some thought patterns in solving problems with Drupal by bringing an idea from concept to completion using Drupal 8.&lt;/p&gt;
+&lt;p&gt;This is a session that experiments in exploring using Drupal from the most basic standpoint possible. Looking at the Node as &quot;the thing itself,&quot; this sessions gets down to the business of understanding the essence of the building blocks needed for completing concepts in Drupal 8.&lt;/p&gt;
+&lt;p&gt;If you are a beginner and you&#039;ve been to Drupal trainings and beginner sessions only to leave still not &quot;getting it,&quot; try this session. We will be using Drupal 8 on your computers (through Pantheon or Acquia). Computer and internet required. Course workbook will be made available.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/site-building-using-drupal&quot;&gt;Site Building + Using Drupal&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/beginner&quot;&gt;Beginner&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/ksalbrecht&quot; class=&quot;user user-955 entityreference&quot;&gt;ksalbrecht&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 25 Sep 2015 03:17:33 +0000</pubDate>
+ <dc:creator>ksalbrecht</dc:creator>
+ <guid isPermaLink="false">315 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Fundraising with Drupal</title>
+ <link>http://badcamp-2015.kbox/session/fundraising-drupal</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;For many organizations, especially the nonprofits ThinkShout works with, one of the Drupal’s most important use cases is fundraising. We have worked over the years to develop a nonprofit engagement &quot;toolbox&quot; geared towards nonprofits that includes: &lt;/p&gt;
+&lt;ol&gt;&lt;li dir=&quot;ltr&quot;&gt;
+	RedHen, a native Drupal CRM geared towards building custom contact driven applications.
+	&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;
+	RedHen Campaign, a tool for building online campaigns.
+	&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;
+	RedHen Donation, which allows end users to create compelling single page donations forms that integrated tightly with RedHen CRM.
+	&lt;/li&gt;
+&lt;li dir=&quot;ltr&quot;&gt;
+	RedHen Raiser, the only open source peer-to-peer (or viral) fundraising platform.
+	&lt;/li&gt;
+&lt;/ol&gt;&lt;p&gt;Beyond the toolset, we work with our clients to ensure a sound fundraising strategy informs how they leverage them. This session will include an overview of this fundraising stack, complete with interactive demo, and feature case studies, complete with the strategies and tactics behind them.&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/site-building-using-drupal&quot;&gt;Site Building + Using Drupal&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/intermediate&quot;&gt;Intermediate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/levelos&quot; class=&quot;user user-409 entityreference&quot;&gt;levelos&lt;/a&gt;, &lt;a href=&quot;/users/madoupdx&quot; class=&quot;user user-1123 entityreference&quot;&gt;madoupdx&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-files field-type-file field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session files:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;http://badcamp-2015.kbox/sites/default/files/session-files/15PNWDS-fundraising.pdf&quot; type=&quot;application/pdf; length=4128684&quot;&gt;15PNWDS-fundraising.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 24 Sep 2015 21:31:43 +0000</pubDate>
+ <dc:creator>levelos</dc:creator>
+ <guid isPermaLink="false">312 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Emacs as a potential tool for Drupal Development and Management</title>
+ <link>http://badcamp-2015.kbox/session/emacs-potential-tool-drupal-development-and-management</link>
+ <description>&lt;div class=&quot;body field&quot;&gt;&lt;p&gt;Emacs is a cross-platform, customizable, extensible, self-documenting, real-time display universal editor and the most powerful tool in the world. It is widely used by Professionals, Businesses, Programmers, Organizations and Governments for Database Management and File Management, Artificial Intelligence, Advance Science (Math Operations, Physics, Chemistry etc, Finance Management, Games, Journaling, Mail, VersionControl and many more.&lt;/p&gt;
+&lt;p&gt;Emacs functions as IDEs, smart auto-completion, nice visual debuggers, semantic analysis of the source code etc. Emacs includes special features to help you write in many different human languages and programming or markup languages. It can functions as well as tools for compiling, running, and testing programs.&lt;/p&gt;
+&lt;p&gt;If Emacs doesn&#039;t work the way you&#039;d like, you can use the Emacs Lisp (Elisp) language to customize Emacs, automate common tasks, or add new features. Elisp is very easy to get started with and yet remarkably powerful: you can use it to alter and extend almost any feature of Emacs. You can make Emacs whatever you want it to be by writing Elisp code.&lt;/p&gt;
+&lt;p&gt;Many or most of us are information workers. And, except where that information include images specifically: we&#039;re working in text. Email, instant messaging/IRC, our PHP code, markup, a blog post, the almighty command line - all these are essentially text I/O.&lt;/p&gt;
+&lt;p&gt;Our ability to efficiently navigate and construct text is therefore paramount to exceptional use of a computer today. Emacs is an environment specialized for text display and manipulation. Whatever the task, including managing multiple tasks, Emacs has a way to most efficiently display and edit all sorts of text from all sorts of sources. And if you don&#039;t like the way it&#039;s done, you have the power to change it. Using a unified, configurable text-based platform, you gain efficiency and great power. Any platform with such power;&lt;/p&gt;
+&lt;p&gt;-- particularly a text-based one&lt;br /&gt;
+-- can take some study to be proficient with.&lt;/p&gt;
+&lt;p&gt;This presentation will show you that investment is minor when you consider what you may save by leveraging Emacs.&lt;/p&gt;
+&lt;p&gt;Below Are Few List Of Drupal Users Worldwide;&lt;/p&gt;
+&lt;p&gt;Yale University&lt;br /&gt;
+Harvard University&lt;br /&gt;
+Brown University&lt;br /&gt;
+University of Oxford&lt;br /&gt;
+Stanford Law School&lt;br /&gt;
+Bentley University&lt;br /&gt;
+The University of Tennessee and other universities&lt;br /&gt;
+Governments, Corporations and Organizations around the world have also adopted Drupal&lt;/p&gt;
+&lt;p&gt;About Me: &lt;a href=&quot;http://www.linkedin.com/pub/aaron-bello/a5/912/aa1&quot;&gt;Aaron Bello&lt;/a&gt; is a seasoned Entrepreneur, Engineer, eCommerce Expert and Computer Programmer. He is the founder and CEO of &lt;a href=&quot;http://www.hosttor.com&quot;&gt;Hosttor Inc.&lt;/a&gt;, a technology and consulting company based in Boston, Massachusetts. He has work on various projects with Universities, Governments, Corporations and Organizations.&lt;/p&gt;
+&lt;p&gt;He started his IT journey at a local computer workshop in 1998. When he was in University, he developed interest in programming languages after taking Basic, Cobol, Fortran, Pascal, C and C++, VB etc classes. He now use and live in GNU Emacs daily for note taking, to-do lists, time tracking, chat on IRC, twitter, creating documents with LaTex and org-mode, check mail, news, RSS feeds, write article and post to PBN, play chess game, develop and manage all websites projects with HTML, CSS, PHP, JS, Python, Django, API, SSH, FTP, SCP, Drupal, Wordpress, Joomla, Vagrant, Web-server and many more.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Target Audience: &lt;/p&gt;
+&lt;p&gt;Business, Website Developer, Hackers, Authors, Bloggers, Hobbyist&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-track field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session track: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tracks/site-building-using-drupal&quot;&gt;Site Building + Using Drupal&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-skill-level field-type-taxonomy-term-reference field-label-inline clearfix field-wrapper&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Session skill level: &lt;/h2&gt;&lt;ul class=&quot;links inline&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/skill-level/intermediate&quot;&gt;Intermediate&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-session-speaker field-type-entityreference field-label-inline clearfix field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Session speaker(s):&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;textformatter-list&quot;&gt;&lt;a href=&quot;/users/hiiiix&quot; class=&quot;user user-494 entityreference&quot;&gt;hiiiix&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 20 Sep 2015 05:20:47 +0000</pubDate>
+ <dc:creator>hiiiix</dc:creator>
+ <guid isPermaLink="false">265 at http://badcamp-2015.kbox</guid>
+</item>
+</channel>
+</rss>

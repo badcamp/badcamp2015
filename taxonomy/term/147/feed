@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://badcamp-2015.kbox"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>BADCamp 2015 - Bay Area Drupal Camp - UCB Student Union Building</title>
+ <link>http://badcamp-2015.kbox/venue/ucb-student-union-building</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Drupal 8 Theming - for D7 themers</title>
+ <link>http://badcamp-2015.kbox/training/drupal-8-theming-d7-themers</link>
+ <description>&lt;div class=&quot;field field-name-field-training-date-time field-type-datetime field-label-above field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Date and Time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Friday, October 23, 2015 - &lt;div class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;9:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;5:00pm&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;body field&quot;&gt;&lt;h2&gt;Zakiya Khabir, Phil Boden, Casey Wight, Drew Bolles, Israel Morales, Theo Ballew, Wilson Yee, and Lauren Richard from Chapter Three&lt;/h2&gt;
+&lt;p&gt;Do you already build your own custom themes for Drupal 7? Interested in finding out what you’ll need to learn for Drupal 8? This training is for you. This training will focus on creating theme code, so bring your HTML, CSS and PHP skills.&lt;/p&gt;
+&lt;p&gt;Come with a local copy of Drupal 8 running, if you get stuck here, show up early and we’ll help you out before we get started.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;We will dive into topics like:&lt;/li&gt;
+&lt;li&gt;Creating d8 themes, sub­themes, and working with YAML files&lt;/li&gt;
+&lt;li&gt;Twig basics&lt;/li&gt;
+&lt;li&gt;Preprocessing, template functions and hooks&lt;/li&gt;
+&lt;li&gt;View modes&lt;/li&gt;
+&lt;li&gt;Basic OOPHP principles&lt;/li&gt;
+&lt;li&gt;Kint, theme_debug and other changes to debugging&lt;/li&gt;
+&lt;li&gt;Leveraging new D8 site building paradigms to make theming easier&lt;/li&gt;
+&lt;li&gt;Where to find help&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Over the course of the day we will work through exercises together so that by the end of the day you’ll have a skeleton of your own working Drupal 8 theme.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.chapterthree.com/&quot;&gt;&lt;img src=&quot;https://2015.badcamp.net/sites/default/files/styles/large/public/sponsor-logos/DCA%20Chapter3.png?itok=KfWtFkO1” alt=“Chapter Three&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-skill-level field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Skill level: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Intermediate&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-location field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Location: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;UCB Student Union Building&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-room field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Room: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Pauley Ballroom EAST - USC Student Union Building&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div id=&quot;registrations-remaining&quot;&gt;&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Registrations Remaining: &lt;/label&gt;
+ 3
+&lt;/div&gt;
+&lt;/div&gt;&lt;div id=&quot;register-status&quot;&gt;You are NOT registered for this training.&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;a href=&quot;/user/register?destination=training/292/register&quot; class=&quot;training-register button buttercup&quot; title=&quot;Register for Drupal 8 Theming - for D7 themers.&quot;&gt;Register&lt;/a&gt;</description>
+ <pubDate>Wed, 23 Sep 2015 00:05:45 +0000</pubDate>
+ <dc:creator>Lindsay Gaudinier</dc:creator>
+ <guid isPermaLink="false">292 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Drupal 8 Migration</title>
+ <link>http://badcamp-2015.kbox/training/drupal-8-migration</link>
+ <description>&lt;div class=&quot;field field-name-field-training-date-time field-type-datetime field-label-above field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Date and Time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Friday, October 23, 2015 - &lt;div class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;9:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;5:00pm&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;body field&quot;&gt;&lt;h2&gt;Trainer: Ryan Weal / Kafei&lt;/h2&gt;
+&lt;p&gt;The upgrade path between major versions of Drupal is now more flexible and extensible than ever allowing many new ways to get content into your new Drupal 8 site. This is the result of refactoring, expanding, and porting the Migrate and Drupal-to-Drupal Data Migration modules into Drupal 8 core.&lt;/p&gt;
+&lt;p&gt;The new versions of these modules go much further than both the old upgrade path and the Drupal 7 modules they replace. The migrations now include setup of content types, variable and block migrations, internationalization, and pathways for most system components that are now in core. This session will provide an overview of the architecture, a demonstration of a sample migration, an update on the current progress, and some time for Q&amp;amp;A.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://kafei.ca/&quot;&gt;&lt;img alt=&quot;Kafei&quot; src=&quot;https://kafei.ca/sites/default/files/cabane_logo.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-skill-level field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Skill level: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Intermediate&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-location field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Location: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;UCB Student Union Building&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-room field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Room: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Stephens Lounge - USC Student Union Building&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div id=&quot;registrations-remaining&quot;&gt;&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Registrations Remaining: &lt;/label&gt;
+ None. Training is full.
+&lt;/div&gt;
+&lt;/div&gt;&lt;div id=&quot;register-status&quot;&gt;You are NOT registered for this training.&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 23 Sep 2015 00:00:33 +0000</pubDate>
+ <dc:creator>Lindsay Gaudinier</dc:creator>
+ <guid isPermaLink="false">291 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Drupal 8 Module Development</title>
+ <link>http://badcamp-2015.kbox/training/drupal-8-module-development</link>
+ <description>&lt;div class=&quot;field field-name-field-training-date-time field-type-datetime field-label-above field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Date and Time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Friday, October 23, 2015 - &lt;div class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;9:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;4:30pm&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;body field&quot;&gt;&lt;h2&gt;Trainer: Jesús Manuel Olivas&lt;/h2&gt;
+&lt;p&gt;The hands-on training will guide on the process to build modules for Drupal 8, leveraging object-oriented techniques, modern PHP functionality as namespaces, dependency injection and new concepts introduced with Drupal 8 as the routing system, the configuration system and plugins.&lt;/p&gt;
+&lt;h3&gt;Prerequisites ​&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Local environment preconfigured for Drupal 8 Apache, MySQL, PHP PHP 5.5.9 or higher, Git, Drupal8, Drush and DrupalConsole.&lt;/li&gt;
+&lt;li&gt;Recommended VMs &lt;a href=&quot;http://www.drupalvm.com&quot;&gt;http://www.drupalvm.com&lt;/a&gt;, &lt;a href=&quot;https://github.com/thom8/drupal8-vagrant&quot;&gt;https://github.com/thom8/drupal8-vagrant&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Recommended IDE PHPStorm.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;https://ffwagency.com/&quot;&gt;&lt;img alt=&quot;FFW&quot; src=&quot;/sites/default/files/styles/large/public/sponsor-logos/FFW%20Logo%20Blue.png?itok=TQ9W98k0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-skill-level field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Skill level: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Intermediate&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-location field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Location: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;UCB Student Union Building&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-room field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Room: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Tilden - USC Student Union Building&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div id=&quot;registrations-remaining&quot;&gt;&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Registrations Remaining: &lt;/label&gt;
+ None. Training is full.
+&lt;/div&gt;
+&lt;/div&gt;&lt;div id=&quot;register-status&quot;&gt;You are NOT registered for this training.&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 22 Sep 2015 23:55:25 +0000</pubDate>
+ <dc:creator>Lindsay Gaudinier</dc:creator>
+ <guid isPermaLink="false">290 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Build a Module - Friday</title>
+ <link>http://badcamp-2015.kbox/training/build-module-friday</link>
+ <description>&lt;div class=&quot;field field-name-field-training-date-time field-type-datetime field-label-above field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Date and Time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Friday, October 23, 2015 - &lt;div class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;9:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;5:00pm&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;body field&quot;&gt;&lt;h2&gt;Trainers: Chris Shattuck with John Nguyen, Eric Casequin, David Hunt, David Needham, Michelle Krejci, Leslie Glynn, and Joshua Needham&lt;/h2&gt;
+&lt;p&gt;In this training, students will be guided through the process of creating a fully functional Drupal web site, exploring essential Drupal modules (like Views and Pathauto), learning important concepts (such as what nodes are, how to use taxonomy) and tweaking the look and feel of the site with CSS and other tools.&lt;/p&gt;
+&lt;p&gt;This particular training has been used across the world, from DrupalCon 2012 in Denver to LA, San Francisco, Melbourne Australia and Edinburgh UK, and always gets a fantastic response.&lt;/p&gt;
+&lt;p&gt;Unlike a traditional, lecture-based training, students will instead work at their own pace through a set of short, carefully produced training videos on &lt;a href=&quot;http://buildamodule.com/&quot;&gt;BuildAModule&lt;/a&gt; covering the complete site-building process. By using video training instead of live lectures, students will be able to work at their own speed, pausing where they need to, replaying material they didn&#039;t get the first time around, and skipping past material they&#039;re already familiar with. And instead of lecturing, the trainers will be free 100% of the time to help you through tricky spots or point you in the right direction.&lt;/p&gt;
+&lt;p&gt;If you&#039;ve ever zoned out during a lecture and found yourself a little lost, or been frustrated that the short time available for questions gets taken up with discussion you&#039;re not interested in, this is the perfect environment for you. You can take breaks when you need them, tackle exactly what you need to learn (or we&#039;ll help you figure out what that is) and get a lot of personal, expert advice along the way.&lt;/p&gt;
+&lt;p&gt;When you arrive, we will get you oriented to the course material and help you build a custom curriculum focused at your particular skill level, tackling the subjects you need to cover. All levels of experience with Drupal will come out of this training having made a huge step up the Drupal learning curve, guaranteed.&lt;/p&gt;
+&lt;p&gt;Students will get a free 8-day pass to BuildAModule so they can watch some videos before the training, as well as finish what they were working on once the training is over.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://buildamodule.com/&quot;&gt;&lt;img alt=&quot;BuildAModule&quot; src=&quot;http://2013.drupalcampct.org/sites/default/files/BuildAModule%20Logo%20-%20Dark%20on%20Light.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-skill-level field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Skill level: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Beginner&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-location field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Location: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;UCB Student Union Building&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-room field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Room: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Pauley Ballroom WEST - USC Student Union Building&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div id=&quot;registrations-remaining&quot;&gt;&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Registrations Remaining: &lt;/label&gt;
+ None. Training is full.
+&lt;/div&gt;
+&lt;/div&gt;&lt;div id=&quot;register-status&quot;&gt;You are NOT registered for this training.&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 22 Sep 2015 23:32:52 +0000</pubDate>
+ <dc:creator>Lindsay Gaudinier</dc:creator>
+ <guid isPermaLink="false">286 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Drupal 8 Site Building - with Views!</title>
+ <link>http://badcamp-2015.kbox/training/drupal-8-site-building-views</link>
+ <description>&lt;div class=&quot;field field-name-field-training-date-time field-type-datetime field-label-above field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Date and Time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Thursday, October 22, 2015 - &lt;div class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;9:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;5:00pm&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;body field&quot;&gt;&lt;h2&gt;Trainer: Ted Bowman / 6 Mile Tech&lt;/h2&gt;
+&lt;p&gt;This Beginning Drupal 8 course offered by Six Mile Tech introduces you to the core concepts behind site building in Drupal 8.&lt;/p&gt;
+&lt;p&gt;Drupal 8 is the next and greatest version of Drupal. It has many improvements and will be released soon but is ready for you to start making sites with it today! This course will take you through a series of practical exercises to build a functional Drupal 8 site and prepare you to create your own dynamic websites using Drupal.&lt;/p&gt;
+&lt;h3&gt;Who is this course for?&lt;/h3&gt;
+&lt;p&gt;This beginning course is for anybody who wants to start making websites with Drupal. Among those who this course is for are:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Drupal 7 site builders who want to start working in Drupal 8&lt;/li&gt;
+&lt;li&gt;Business owners who want to evaluate Drupal for their business&lt;/li&gt;
+&lt;li&gt;Web Designers and Developers who want to learn how to make more powerful websites&lt;/li&gt;
+&lt;li&gt;WordPress developers who want to add Drupal to their skill set&lt;/li&gt;
+&lt;li&gt;PHP programmers who want to learn how to build sites in Drupal&lt;/li&gt;
+&lt;li&gt;Anyone interested in how Drupal sites are made&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;What will you learn?&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Adding and editing site content&lt;/li&gt;
+&lt;li&gt;Modeling data by creating new content types and fields&lt;/li&gt;
+&lt;li&gt;Controlling page elements with blocks&lt;/li&gt;
+&lt;li&gt;User management: creating user roles and assigning permissions&lt;/li&gt;
+&lt;li&gt;Controlling the look of your site with themes&lt;/li&gt;
+&lt;li&gt;Creating dynamic content listings with Views (now in core!)&lt;/li&gt;
+&lt;li&gt;Installing extra modules to add functionality to your site&lt;/li&gt;
+&lt;li&gt;Using the Drupal community to learn even more&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Requirements: You will need a laptop with a modern web browser.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.sixmiletech.com/&quot;&gt;&lt;img alt=&quot;Six mile tech&quot; src=&quot;http://www.sixmiletech.com/sites/all/themes/six_mile_radix/logo.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-skill-level field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Skill level: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Intermediate&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-location field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Location: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;UCB Student Union Building&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-room field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Room: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Pauley Ballroom EAST - USC Student Union Building&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div id=&quot;registrations-remaining&quot;&gt;&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Registrations Remaining: &lt;/label&gt;
+ None. Training is full.
+&lt;/div&gt;
+&lt;/div&gt;&lt;div id=&quot;register-status&quot;&gt;You are NOT registered for this training.&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 22 Sep 2015 23:15:50 +0000</pubDate>
+ <dc:creator>Lindsay Gaudinier</dc:creator>
+ <guid isPermaLink="false">284 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Introduction to Headless Drupal</title>
+ <link>http://badcamp-2015.kbox/training/introduction-headless-drupal</link>
+ <description>&lt;div class=&quot;field field-name-field-training-date-time field-type-datetime field-label-above field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Date and Time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Thursday, October 22, 2015 - &lt;div class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;9:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;5:00pm&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;body field&quot;&gt;&lt;h2&gt;Trainers: Matt Grill and Patrick Coffey from Four Kitchens&lt;/h2&gt;
+&lt;h3&gt;Course Description&lt;/h3&gt;
+&lt;p&gt;Do you want to manage content in Drupal but use something else to deliver it to your users? This is the class for you.&lt;/p&gt;
+&lt;p&gt;We know Drupal is an amazing platform for making websites. But did you know it’s also a world-class content API that can easily be integrated with a other technologies? In this class you’ll learn how to combine Drupal with Node.js, a popular technology for building highly interactive websites, to build rich digital experiences.&lt;/p&gt;
+&lt;p&gt;You will write code all day! By the end, you&#039;ll have written your first Node.js application(s) and have integrated Node.js&#039;s real-time wizardry into Drupal&#039;s content management magic.&lt;/p&gt;
+&lt;h3&gt;Learning Objectives&lt;/h3&gt;
+&lt;p&gt;The Four Kitchens Web Chefs will show you how to:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Strategies for success when using Drupal as a content API&lt;/li&gt;
+&lt;li&gt;Write code that reads and writes data to and from your Drupal site&lt;/li&gt;
+&lt;li&gt;Write custom API endpoints in Drupal to connect to your realtime application&lt;/li&gt;
+&lt;li&gt;Gain experience with the popular Node.js framework: Express&lt;/li&gt;
+&lt;li&gt;Know what Node.js is good at and when a different tool is better&lt;/li&gt;
+&lt;li&gt;Understand how to use NPM node&#039;s world class package manager&lt;/li&gt;
+&lt;li&gt;Write non-blocking asynchronous code and how to spot it&#039;s evil twin: synchronous blocking code&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Why Node.js&lt;/h3&gt;
+&lt;p&gt;Node.js is a power tool for writing fast, real time applications. At Four Kitchens we&#039;ve used it for:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Creating a responsive web game that mimics the experience of playing with magnetic poetry on the web, Drupal Poetry&lt;/li&gt;
+&lt;li&gt;Providing a feed ingestion and processing application that processed over 300 feeds per minute and broadcasting them out to hundreds of subscribed sites.&lt;/li&gt;
+&lt;li&gt;Providing real time commenting for live video events on a Drupal site. Building a rich dynamic site for NBC’s The Tonight Show starring Jimmy Fallon.&lt;/li&gt;
+&lt;li&gt;Helping large media clients build a performant and extensible solution for their public facing publication.&lt;/li&gt;
+&lt;li&gt;The patterns we establish when integrating Node.js can easily be adapted to integrating - Drupal with other technologies such as Ruby, iOS, or Android.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;What will you receive during the course?&lt;/h3&gt;
+&lt;p&gt;Each attendee will have access to their own development environment that includes all necessary assets and content to jump into the hands-on exercises. The environment will stay up for 30 days after the training. We will post all links and resources on our website, create a mailing list for follow-up questions, and create a Google Doc to collaborative ask questions and share markup during (and after) the training.&lt;/p&gt;
+&lt;h3&gt;Syllabus&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Intro to Headless Drupal
+&lt;ul&gt;&lt;li&gt;When to go Headless (Lecture)&lt;/li&gt;
+&lt;li&gt;Architecture Patterns (Lecture)&lt;/li&gt;
+&lt;li&gt;Real world Examples (Lecture)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;What exactly is a REST API?
+&lt;ul&gt;&lt;li&gt;REST&lt;/li&gt;
+&lt;li&gt;HTTP Methods (Verbs)&lt;/li&gt;
+&lt;li&gt;HTTP Status Codes&lt;/li&gt;
+&lt;li&gt;Media Type&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;API Tools
+&lt;ul&gt;&lt;li&gt;Chrome Extensions&lt;/li&gt;
+&lt;li&gt;Command line tools&lt;/li&gt;
+&lt;li&gt;Online tools&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Drupal Services
+&lt;ul&gt;&lt;li&gt;Module Options&lt;/li&gt;
+&lt;li&gt;Install &amp;amp; configure RESTful&lt;/li&gt;
+&lt;li&gt;Create Endpoints&lt;/li&gt;
+&lt;li&gt;Hypermedia API Design in practice&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;API Best Practices&lt;/li&gt;
+&lt;li&gt;Lunch&lt;/li&gt;
+&lt;li&gt;Intro to Node.JS
+&lt;ul&gt;&lt;li&gt;What is Node.JS&lt;/li&gt;
+&lt;li&gt;Events, Threads and Concurrency&lt;/li&gt;
+&lt;li&gt;Why not Drupal and HHVM?&lt;/li&gt;
+&lt;li&gt;Why Node?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Intro to Express.JS
+&lt;ul&gt;&lt;li&gt;What is Express.JS?&lt;/li&gt;
+&lt;li&gt;What is NPM?&lt;/li&gt;
+&lt;li&gt;Your first Express Application&lt;/li&gt;
+&lt;li&gt;Templates with Dust.JS&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Caching Drupal Content in Node.JS
+&lt;ul&gt;&lt;li&gt;Introduction to Redis&lt;/li&gt;
+&lt;li&gt;Cache concepts&lt;/li&gt;
+&lt;li&gt;Cache Drupal content&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Reference implementation introduction
+&lt;ul&gt;&lt;li&gt;What is SAUCIER?&lt;/li&gt;
+&lt;li&gt;Routing&lt;/li&gt;
+&lt;li&gt;Rendering&lt;/li&gt;
+&lt;li&gt;Caching&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Headless A-ha&#039;s&lt;/li&gt;
+&lt;li&gt;Strategies for User Generated Content&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Who will gain the most from this course?&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Drupal Developers who want to learn how to use Drupal as their CMS and an other technology to get that content to their users. In our case that technology will be Node.js.&lt;/li&gt;
+&lt;li&gt;Drupal Developers who are ready to learn a new style of server side programing. If writing javascript code makes you cry this course might make it your new favorite language.&lt;/li&gt;
+&lt;li&gt;Drupal developers who want to better understand how to bring asynchronous functionality to their sites. This class is a beginner intro to Node.js, and is not appropriate for developers who use Node.js on a regular basis.&lt;/li&gt;
+&lt;/ul&gt;&lt;h3&gt;Prerequisites for this course&lt;/h3&gt;
+&lt;p&gt;Laptop with SFTP, SSH software and a text editor installed. Any local operating system is fine, but our trainers don&#039;t have experience debugging Windows connectivity problems.&lt;/p&gt;
+&lt;p&gt;For Drupal&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Comfortable writing PHP to use Drupal hooks and have written a custom module.&lt;/li&gt;
+&lt;li&gt;Working knowledge of the services module is helpful, and a great thing to try beforehand. :-)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;For Node.js&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;Basic knowledge of JavaScript&lt;/li&gt;
+&lt;li&gt;Knowledge of JavaScript Object Oriented Patterns.&lt;/li&gt;
+&lt;li&gt;Experience with AJAX patterns helpful&lt;/li&gt;
+&lt;li&gt;Have written applications in JavaScript and/or a C-style Object Oriented programmer comfortable with learning a new language.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;a href=&quot;http://fourkitchens.com/&quot;&gt;&lt;img alt=&quot;Four Kitchens&quot; src=&quot;https://2015.badcamp.net/sites/default/files/styles/medium/public/sponsor-logos/4K-lockup-large.png?itok=B1byozxi&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-skill-level field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Skill level: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Advanced&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-location field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Location: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;UCB Student Union Building&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-room field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Room: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Stephens Lounge - USC Student Union Building&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div id=&quot;registrations-remaining&quot;&gt;&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Registrations Remaining: &lt;/label&gt;
+ None. Training is full.
+&lt;/div&gt;
+&lt;/div&gt;&lt;div id=&quot;register-status&quot;&gt;You are NOT registered for this training.&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 22 Sep 2015 23:03:53 +0000</pubDate>
+ <dc:creator>Lindsay Gaudinier</dc:creator>
+ <guid isPermaLink="false">282 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Object Oriented Programming</title>
+ <link>http://badcamp-2015.kbox/training/object-oriented-programming</link>
+ <description>&lt;div class=&quot;field field-name-field-training-date-time field-type-datetime field-label-above field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Date and Time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Thursday, October 22, 2015 - &lt;div class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;9:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;4:30pm&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;body field&quot;&gt;&lt;h2&gt;Trainers: Mark Ferree, Arlina Espinoza, Brian Fisher, Jaesin Mulenex and Minnur Yunusov from Chapter Three&lt;/h2&gt;
+&lt;p&gt;With the move to Drupal 8 everyone who works in the PHP layer will be exposed to more and more to object­ oriented code.&lt;/p&gt;
+&lt;p&gt;Come learn the basics of working with objects in PHP and how OOP can help you to write well­ structured code.&lt;/p&gt;
+&lt;p&gt;Things will kick off with the basics, keywords and syntax around using different types. This will be followed up by classes, abstract classes, and interfaces.&lt;/p&gt;
+&lt;p&gt;Once we have the basic concepts in hand we will dive into namespacing, autoloading.&lt;/p&gt;
+&lt;p&gt;As things draw to a close we will cover how OOP plays into application development and go over common design patterns and where you find them in use in Drupal 8.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.chapterthree.com/&quot;&gt;&lt;img src=&quot;/sites/default/files/styles/large/public/sponsor-logos/DCA%20Chapter3.png?itok=KfWtFkO1” alt=“Chapter Three&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-skill-level field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Skill level: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Beginner&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-location field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Location: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;UCB Student Union Building&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-room field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Room: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Tilden - USC Student Union Building&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div id=&quot;registrations-remaining&quot;&gt;&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Registrations Remaining: &lt;/label&gt;
+ None. Training is full.
+&lt;/div&gt;
+&lt;/div&gt;&lt;div id=&quot;register-status&quot;&gt;You are NOT registered for this training.&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 22 Sep 2015 22:52:17 +0000</pubDate>
+ <dc:creator>Lindsay Gaudinier</dc:creator>
+ <guid isPermaLink="false">281 at http://badcamp-2015.kbox</guid>
+</item>
+<item>
+ <title>Build a Module - Thursday</title>
+ <link>http://badcamp-2015.kbox/training/build-module-thursday</link>
+ <description>&lt;div class=&quot;field field-name-field-training-date-time field-type-datetime field-label-above field-wrapper&quot;&gt;&lt;div  class=&quot;field-label&quot;&gt;Date and Time:&amp;nbsp;&lt;/div&gt;&lt;span class=&quot;date-display-single&quot;&gt;Thursday, October 22, 2015 - &lt;div class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;9:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;5:00pm&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;body field&quot;&gt;&lt;h2&gt;Trainers: Chris Shattuck with John Nguyen, Eric Casequin, David Hunt, David Needham, Michelle Krejci, Leslie Glynn, and Joshua Needham&lt;/h2&gt;
+&lt;p&gt;In &quot;Drupal Immersion&quot;, students will be guided through the process of creating a fully functional Drupal web site, exploring essential Drupal modules (like Views and Pathauto), learning important concepts (such as what nodes are, how to use taxonomy) and tweaking the look and feel of the site with CSS and other tools.&lt;/p&gt;
+&lt;p&gt;This particular training has been used across the world, from DrupalCon 2012 in Denver to LA, San Francisco, Melbourne Australia and Edinburgh UK, and always gets a fantastic response.&lt;/p&gt;
+&lt;p&gt;Unlike a traditional, lecture-based training, students will instead work at their own pace through a set of short, carefully produced training videos on &lt;a href=&quot;http://buildamodule.com/&quot;&gt;BuildAModule&lt;/a&gt; covering the complete site-building process. By using video training instead of live lectures, students will be able to work at their own speed, pausing where they need to, replaying material they didn&#039;t get the first time around, and skipping past material they&#039;re already familiar with. And instead of lecturing, the trainers will be free 100% of the time to help you through tricky spots or point you in the right direction.&lt;/p&gt;
+&lt;p&gt;If you&#039;ve ever zoned out during a lecture and found yourself a little lost, or been frustrated that the short time available for questions gets taken up with discussion you&#039;re not interested in, this is the perfect environment for you. You can take breaks when you need them, tackle exactly what you need to learn (or we&#039;ll help you figure out what that is) and get a lot of personal, expert advice along the way.&lt;/p&gt;
+&lt;p&gt;When you arrive, we will get you oriented to the course material and help you build a custom curriculum focused at your particular skill level, tackling the subjects you need to cover. All levels of experience with Drupal will come out of this training having made a huge step up the Drupal learning curve, guaranteed.&lt;/p&gt;
+&lt;p&gt;Students will get a free 8-day pass to BuildAModule so they can watch some videos before the training, as well as finish what they were working on once the training is over.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://buildamodule.com/&quot;&gt;&lt;img alt=&quot;BuildAModule&quot; src=&quot;http://2013.drupalcampct.org/sites/default/files/BuildAModule%20Logo%20-%20Dark%20on%20Light.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-skill-level field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Skill level: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Beginner&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-location field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Location: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;UCB Student Union Building&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-training-room field-type-taxonomy-term-reference field-label-above field-wrapper clearfix&quot;&gt;&lt;h2 class=&quot;field-label&quot;&gt;Room: &lt;/h2&gt;&lt;ul class=&quot;links&quot;&gt;&lt;li class=&quot;taxonomy-term-reference-0&quot; class=&quot;field-item even&quot;&gt;Pauley Ballroom WEST - USC Student Union Building&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div id=&quot;registrations-remaining&quot;&gt;&lt;div class=&quot;form-item form-type-item&quot;&gt;
+  &lt;label&gt;Registrations Remaining: &lt;/label&gt;
+ 17
+&lt;/div&gt;
+&lt;/div&gt;&lt;div id=&quot;register-status&quot;&gt;You are NOT registered for this training.&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;a href=&quot;/user/register?destination=training/278/register&quot; class=&quot;training-register button buttercup&quot; title=&quot;Register for Build a Module - Thursday.&quot;&gt;Register&lt;/a&gt;</description>
+ <pubDate>Tue, 22 Sep 2015 22:13:13 +0000</pubDate>
+ <dc:creator>Lindsay Gaudinier</dc:creator>
+ <guid isPermaLink="false">278 at http://badcamp-2015.kbox</guid>
+</item>
+</channel>
+</rss>
